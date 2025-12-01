@@ -1,0 +1,2001 @@
+id,name,sex,age,team,noc,year,season,city,sport,event,medal
+1,Tom Lee,F,22,FRA,BRA,2016,Summer,Beijing,Cycling,Sprint,Silver
+2,Carlos Gomez,M,20,CAN,CHN,2020,Summer,Beijing,Rowing,Judo -60kg,
+3,Anna Schmidt,F,26,USA,FRA,2004,Winter,Athens,Rowing,Judo -60kg,
+4,Tom Lee,F,37,CAN,BRA,2016,Winter,London,Judo,Double Sculls,Silver
+5,Liu Wei,M,23,CAN,UKR,2000,Winter,Rio,Athletics,Sprint,Silver
+6,Anna Schmidt,M,35,CHN,USA,2004,Summer,Beijing,Athletics,Sprint,
+7,Anna Schmidt,F,23,UKR,FRA,2000,Summer,London,Athletics,Sprint,Gold
+8,Tom Lee,M,36,CHN,UKR,2000,Summer,Tokyo,Rowing,Marathon,
+9,Maria Ivanova,F,29,CHN,FRA,2020,Winter,Athens,Athletics,Lightweight Boxing,Gold
+10,Liu Wei,F,28,GER,CAN,2004,Winter,London,Cycling,100m freestyle,Bronze
+11,Tom Lee,F,19,USA,CHN,2000,Winter,Beijing,Swimming,Sprint,Bronze
+12,Liu Wei,F,32,CHN,CAN,2020,Summer,Beijing,Rowing,Sprint,Bronze
+13,Liu Wei,M,29,FRA,UKR,2020,Winter,Beijing,Cycling,Sprint,
+14,Anna Schmidt,M,29,BRA,UKR,2004,Summer,London,Boxing,Judo -60kg,Gold
+15,Carlos Gomez,M,26,FRA,UKR,2020,Summer,Beijing,Cycling,Sprint,Silver
+16,Liu Wei,M,38,BRA,GER,2004,Summer,London,Cycling,100m freestyle,Bronze
+17,Kate Novak,F,19,CAN,CHN,2004,Summer,Beijing,Boxing,Sprint,
+18,Anna Schmidt,F,39,GER,FRA,2008,Summer,Tokyo,Cycling,100m freestyle,Gold
+19,Maria Ivanova,M,20,USA,UKR,2000,Summer,Tokyo,Swimming,Marathon,
+20,Carlos Gomez,F,29,FRA,UKR,2012,Summer,Rio,Rowing,Lightweight Boxing,Silver
+21,Kate Novak,F,33,USA,FRA,2004,Summer,Beijing,Judo,Judo -60kg,Gold
+22,Kate Novak,F,38,FRA,CAN,2000,Winter,Beijing,Boxing,100m freestyle,
+23,Maria Ivanova,M,18,CAN,CAN,2020,Summer,London,Rowing,Double Sculls,Gold
+24,Carlos Gomez,M,38,BRA,UKR,2016,Summer,London,Athletics,Marathon,Bronze
+25,Anna Schmidt,M,20,UKR,USA,2004,Winter,Beijing,Swimming,Lightweight Boxing,Gold
+26,John Doe,F,37,GER,GER,2020,Winter,Rio,Judo,Lightweight Boxing,Silver
+27,Carlos Gomez,M,19,FRA,CAN,2020,Summer,Beijing,Swimming,Lightweight Boxing,Bronze
+28,Maria Ivanova,M,26,FRA,USA,2020,Summer,London,Swimming,100m freestyle,Bronze
+29,Kate Novak,M,36,CAN,GER,2020,Summer,Beijing,Athletics,Marathon,Silver
+30,Anna Schmidt,M,32,GER,UKR,2020,Summer,London,Judo,Sprint,Silver
+31,Carlos Gomez,M,35,BRA,CHN,2004,Summer,Beijing,Swimming,Double Sculls,Gold
+32,John Doe,M,28,BRA,BRA,2012,Winter,Athens,Athletics,Marathon,Silver
+33,John Doe,F,33,FRA,BRA,2008,Summer,London,Boxing,Marathon,
+34,Liu Wei,F,39,UKR,UKR,2020,Winter,Rio,Athletics,Marathon,
+35,Liu Wei,M,34,UKR,CAN,2020,Winter,Athens,Cycling,100m freestyle,Gold
+36,Tom Lee,M,22,USA,USA,2008,Winter,Beijing,Rowing,Double Sculls,Gold
+37,Maria Ivanova,F,29,GER,CHN,2004,Summer,London,Athletics,100m freestyle,
+38,Carlos Gomez,F,28,GER,FRA,2000,Winter,Athens,Athletics,Double Sculls,Bronze
+39,Carlos Gomez,M,32,BRA,GER,2016,Summer,Rio,Athletics,Double Sculls,Bronze
+40,Tom Lee,M,20,USA,UKR,2016,Summer,London,Swimming,100m freestyle,
+41,Kate Novak,M,18,CAN,CHN,2000,Summer,Athens,Judo,Double Sculls,Silver
+42,Kate Novak,M,37,GER,CHN,2004,Summer,Athens,Athletics,Marathon,Silver
+43,Tom Lee,F,33,USA,CAN,2016,Summer,Athens,Athletics,100m freestyle,
+44,Kate Novak,M,19,USA,GER,2008,Summer,Tokyo,Cycling,Double Sculls,Bronze
+45,Liu Wei,M,19,FRA,CHN,2000,Summer,Beijing,Cycling,Lightweight Boxing,Gold
+46,Carlos Gomez,M,20,BRA,CAN,2012,Summer,London,Boxing,100m freestyle,Gold
+47,Tom Lee,M,25,USA,USA,2004,Summer,London,Boxing,Judo -60kg,Gold
+48,Carlos Gomez,F,32,UKR,CAN,2000,Summer,London,Cycling,100m freestyle,
+49,John Doe,F,24,UKR,USA,2016,Winter,Athens,Judo,100m freestyle,Silver
+50,Liu Wei,F,23,CHN,USA,2004,Summer,Beijing,Boxing,100m freestyle,Gold
+51,Anna Schmidt,M,26,BRA,FRA,2008,Summer,Rio,Rowing,Double Sculls,
+52,Liu Wei,M,37,FRA,FRA,2004,Summer,London,Rowing,100m freestyle,Gold
+53,Tom Lee,F,18,CAN,CHN,2004,Summer,Beijing,Judo,Judo -60kg,Gold
+54,Anna Schmidt,M,25,CHN,CAN,2008,Summer,Beijing,Cycling,Sprint,Gold
+55,John Doe,M,20,UKR,FRA,2020,Summer,Tokyo,Boxing,100m freestyle,Gold
+56,Tom Lee,F,21,FRA,USA,2008,Winter,London,Athletics,Lightweight Boxing,Silver
+57,Maria Ivanova,F,32,CHN,FRA,2004,Summer,Athens,Cycling,Judo -60kg,
+58,Carlos Gomez,F,23,BRA,GER,2008,Summer,Beijing,Boxing,Sprint,
+59,John Doe,F,32,FRA,CHN,2020,Summer,Beijing,Judo,Double Sculls,Silver
+60,Carlos Gomez,M,38,BRA,CAN,2000,Winter,Rio,Rowing,100m freestyle,Silver
+61,Kate Novak,M,20,USA,CAN,2008,Summer,Tokyo,Judo,Sprint,Bronze
+62,Maria Ivanova,F,38,GER,BRA,2008,Summer,Beijing,Boxing,Lightweight Boxing,Gold
+63,Maria Ivanova,M,38,USA,CAN,2004,Summer,Beijing,Judo,Judo -60kg,Gold
+64,John Doe,F,31,BRA,CHN,2000,Summer,Athens,Boxing,Judo -60kg,
+65,Maria Ivanova,F,37,FRA,GER,2012,Summer,Athens,Boxing,Double Sculls,Gold
+66,Anna Schmidt,M,31,UKR,CAN,2012,Summer,Rio,Judo,Double Sculls,Gold
+67,Maria Ivanova,F,21,CAN,BRA,2016,Summer,Rio,Swimming,Double Sculls,Silver
+68,Carlos Gomez,M,29,UKR,CHN,2008,Summer,Rio,Athletics,Sprint,Silver
+69,Carlos Gomez,M,34,FRA,USA,2008,Summer,Athens,Cycling,100m freestyle,Gold
+70,Tom Lee,M,24,USA,UKR,2000,Summer,Athens,Rowing,Marathon,Gold
+71,Carlos Gomez,M,26,CAN,UKR,2020,Summer,Tokyo,Athletics,Judo -60kg,Silver
+72,Tom Lee,F,20,FRA,USA,2012,Summer,London,Cycling,Marathon,Bronze
+73,Carlos Gomez,M,30,BRA,FRA,2016,Winter,London,Cycling,Judo -60kg,Gold
+74,Anna Schmidt,F,32,UKR,CAN,2000,Winter,Tokyo,Rowing,Double Sculls,Silver
+75,Tom Lee,F,35,BRA,UKR,2008,Summer,London,Athletics,100m freestyle,Bronze
+76,Liu Wei,F,36,CAN,FRA,2012,Summer,Athens,Rowing,100m freestyle,
+77,Kate Novak,F,18,CAN,UKR,2016,Summer,London,Boxing,Judo -60kg,Silver
+78,John Doe,M,23,UKR,USA,2004,Summer,Athens,Rowing,Sprint,Gold
+79,Carlos Gomez,M,19,BRA,CAN,2012,Summer,Tokyo,Judo,Double Sculls,Silver
+80,Maria Ivanova,F,31,CHN,CAN,2016,Winter,Rio,Swimming,100m freestyle,Bronze
+81,Carlos Gomez,F,23,BRA,FRA,2000,Summer,Tokyo,Swimming,100m freestyle,Gold
+82,Maria Ivanova,M,31,CAN,USA,2004,Summer,London,Swimming,Lightweight Boxing,Silver
+83,Kate Novak,F,21,BRA,FRA,2016,Summer,Athens,Athletics,100m freestyle,Gold
+84,Kate Novak,M,38,FRA,CAN,2016,Summer,London,Athletics,Lightweight Boxing,Gold
+85,Kate Novak,F,25,USA,CAN,2008,Summer,London,Boxing,100m freestyle,Silver
+86,Maria Ivanova,M,20,CHN,CHN,2020,Summer,Rio,Swimming,100m freestyle,Silver
+87,Carlos Gomez,F,36,GER,FRA,2012,Summer,London,Boxing,Sprint,
+88,Kate Novak,F,31,FRA,CHN,2008,Winter,Rio,Swimming,Sprint,Bronze
+89,Anna Schmidt,M,37,USA,USA,2004,Summer,Athens,Athletics,Double Sculls,Silver
+90,Tom Lee,F,34,GER,GER,2020,Winter,Athens,Judo,100m freestyle,Silver
+91,Maria Ivanova,F,25,UKR,UKR,2016,Winter,Rio,Judo,Double Sculls,Silver
+92,Maria Ivanova,M,31,GER,CHN,2008,Summer,Tokyo,Judo,Double Sculls,Gold
+93,Carlos Gomez,F,23,FRA,UKR,2020,Summer,Athens,Rowing,Double Sculls,
+94,Maria Ivanova,M,39,BRA,BRA,2012,Summer,Tokyo,Judo,Double Sculls,
+95,Maria Ivanova,M,33,FRA,USA,2004,Winter,Athens,Cycling,Judo -60kg,Gold
+96,Kate Novak,F,36,GER,GER,2000,Summer,Athens,Swimming,Judo -60kg,Gold
+97,Carlos Gomez,F,31,CAN,BRA,2008,Summer,Beijing,Judo,100m freestyle,Gold
+98,Kate Novak,F,36,USA,BRA,2004,Summer,London,Cycling,Judo -60kg,Bronze
+99,Tom Lee,F,20,USA,CAN,2000,Summer,London,Cycling,100m freestyle,Bronze
+100,Tom Lee,F,27,GER,BRA,2008,Winter,Tokyo,Cycling,Sprint,
+101,Kate Novak,F,36,USA,USA,2004,Summer,London,Boxing,Marathon,
+102,Tom Lee,F,26,CAN,CHN,2004,Summer,Tokyo,Boxing,Lightweight Boxing,Silver
+103,Carlos Gomez,M,37,FRA,USA,2020,Summer,Athens,Cycling,Judo -60kg,Bronze
+104,John Doe,F,30,USA,CHN,2008,Winter,Beijing,Rowing,Judo -60kg,Bronze
+105,Kate Novak,M,24,GER,BRA,2004,Summer,Beijing,Judo,Sprint,Bronze
+106,Anna Schmidt,F,31,CHN,BRA,2016,Summer,Athens,Swimming,Judo -60kg,Silver
+107,Anna Schmidt,F,26,CHN,GER,2008,Summer,Rio,Rowing,100m freestyle,Bronze
+108,Maria Ivanova,M,36,UKR,CHN,2004,Summer,Rio,Athletics,100m freestyle,Bronze
+109,Tom Lee,F,32,USA,BRA,2020,Summer,London,Boxing,Marathon,Bronze
+110,Anna Schmidt,F,37,FRA,CAN,2000,Summer,Tokyo,Judo,Marathon,Bronze
+111,Maria Ivanova,M,31,GER,UKR,2000,Summer,Beijing,Judo,Marathon,Bronze
+112,John Doe,F,23,USA,GER,2016,Summer,London,Athletics,100m freestyle,Bronze
+113,Carlos Gomez,F,38,BRA,USA,2008,Summer,Athens,Athletics,Double Sculls,Bronze
+114,Carlos Gomez,F,21,CAN,GER,2020,Summer,Beijing,Judo,Double Sculls,Bronze
+115,Carlos Gomez,M,25,USA,UKR,2004,Summer,Tokyo,Athletics,Marathon,Silver
+116,Anna Schmidt,F,34,USA,CHN,2004,Winter,Tokyo,Judo,Marathon,Gold
+117,John Doe,F,26,CHN,USA,2000,Winter,Rio,Rowing,100m freestyle,Gold
+118,Anna Schmidt,F,18,CAN,USA,2020,Summer,London,Athletics,Sprint,Bronze
+119,Tom Lee,F,37,GER,CHN,2016,Summer,Athens,Rowing,Judo -60kg,Bronze
+120,Anna Schmidt,M,31,USA,FRA,2000,Summer,Beijing,Rowing,Lightweight Boxing,
+121,John Doe,M,28,CHN,FRA,2000,Summer,Tokyo,Athletics,Double Sculls,Silver
+122,John Doe,F,38,UKR,GER,2016,Summer,Beijing,Judo,Double Sculls,Silver
+123,Tom Lee,F,20,CAN,BRA,2008,Summer,Athens,Cycling,100m freestyle,Gold
+124,John Doe,M,26,CHN,FRA,2004,Summer,Beijing,Judo,100m freestyle,Gold
+125,John Doe,M,31,CHN,GER,2008,Winter,London,Swimming,Lightweight Boxing,
+126,Carlos Gomez,F,26,FRA,FRA,2020,Summer,Rio,Athletics,Lightweight Boxing,Gold
+127,Tom Lee,M,21,CHN,UKR,2012,Summer,Beijing,Boxing,Marathon,Bronze
+128,Liu Wei,F,21,FRA,CAN,2012,Summer,Rio,Athletics,Lightweight Boxing,Bronze
+129,Liu Wei,M,25,USA,BRA,2012,Summer,Athens,Swimming,Judo -60kg,Silver
+130,John Doe,M,19,USA,GER,2016,Summer,Rio,Rowing,Judo -60kg,
+131,Liu Wei,M,26,UKR,CAN,2000,Summer,Beijing,Boxing,Double Sculls,Silver
+132,Liu Wei,M,31,BRA,CAN,2008,Summer,Beijing,Boxing,Judo -60kg,Silver
+133,John Doe,F,39,BRA,FRA,2004,Summer,Tokyo,Judo,Judo -60kg,
+134,Liu Wei,M,26,BRA,CHN,2012,Winter,Beijing,Cycling,Judo -60kg,
+135,Anna Schmidt,M,33,FRA,UKR,2008,Summer,Rio,Judo,Marathon,Gold
+136,Maria Ivanova,F,34,CAN,UKR,2012,Summer,Tokyo,Boxing,Double Sculls,Gold
+137,Tom Lee,M,33,CAN,UKR,2012,Summer,Beijing,Boxing,100m freestyle,Gold
+138,Maria Ivanova,M,29,UKR,BRA,2004,Summer,Beijing,Cycling,Double Sculls,Silver
+139,John Doe,F,20,CAN,USA,2020,Summer,Athens,Athletics,Double Sculls,
+140,Carlos Gomez,M,28,BRA,BRA,2020,Summer,Tokyo,Cycling,Double Sculls,Bronze
+141,Tom Lee,F,31,BRA,GER,2020,Winter,Athens,Rowing,Lightweight Boxing,Silver
+142,John Doe,F,35,CHN,CAN,2016,Winter,Athens,Judo,100m freestyle,
+143,Carlos Gomez,F,38,CAN,CAN,2000,Summer,Athens,Athletics,Lightweight Boxing,Silver
+144,Maria Ivanova,F,38,USA,USA,2016,Winter,London,Judo,Marathon,Silver
+145,John Doe,M,22,USA,GER,2008,Summer,Athens,Cycling,Marathon,
+146,Tom Lee,F,33,CHN,USA,2016,Summer,Rio,Athletics,Sprint,
+147,Tom Lee,M,37,CHN,CAN,2008,Summer,Beijing,Cycling,Sprint,
+148,Kate Novak,M,22,CHN,FRA,2008,Winter,London,Rowing,Marathon,Bronze
+149,Anna Schmidt,M,20,USA,BRA,2000,Summer,Athens,Swimming,Marathon,
+150,Liu Wei,M,29,BRA,UKR,2004,Summer,Beijing,Boxing,Lightweight Boxing,Gold
+151,Carlos Gomez,M,18,CHN,CAN,2000,Summer,Tokyo,Athletics,Marathon,Bronze
+152,Kate Novak,M,38,UKR,CHN,2020,Summer,Tokyo,Boxing,100m freestyle,
+153,Liu Wei,M,26,FRA,UKR,2020,Summer,Beijing,Swimming,Lightweight Boxing,Silver
+154,Liu Wei,M,26,CHN,CAN,2016,Winter,Rio,Athletics,Marathon,
+155,John Doe,M,21,FRA,BRA,2008,Summer,Beijing,Boxing,Lightweight Boxing,Silver
+156,Liu Wei,M,20,GER,USA,2012,Summer,Beijing,Boxing,Lightweight Boxing,Gold
+157,Anna Schmidt,F,34,CHN,FRA,2012,Summer,London,Athletics,Judo -60kg,
+158,Tom Lee,F,19,USA,FRA,2008,Summer,Tokyo,Boxing,Sprint,Gold
+159,Kate Novak,F,18,CAN,UKR,2000,Summer,Tokyo,Boxing,Lightweight Boxing,Bronze
+160,Liu Wei,M,25,CHN,BRA,2004,Summer,Athens,Athletics,Double Sculls,Gold
+161,John Doe,F,30,CAN,FRA,2000,Summer,Beijing,Boxing,Lightweight Boxing,
+162,Anna Schmidt,F,32,GER,FRA,2008,Summer,Beijing,Boxing,Double Sculls,Silver
+163,Maria Ivanova,F,25,UKR,GER,2008,Summer,Rio,Judo,Judo -60kg,Gold
+164,Tom Lee,M,29,CAN,CHN,2004,Summer,Tokyo,Rowing,Marathon,Gold
+165,Tom Lee,M,39,FRA,UKR,2016,Summer,Rio,Judo,Lightweight Boxing,
+166,Kate Novak,M,29,BRA,USA,2016,Summer,London,Swimming,Judo -60kg,Bronze
+167,Tom Lee,M,31,CHN,FRA,2004,Winter,Athens,Judo,100m freestyle,Bronze
+168,Liu Wei,F,32,GER,GER,2016,Summer,Rio,Judo,Judo -60kg,Silver
+169,John Doe,F,32,GER,BRA,2012,Summer,Tokyo,Swimming,Sprint,Silver
+170,Tom Lee,F,26,CAN,FRA,2016,Summer,London,Boxing,Sprint,Gold
+171,Tom Lee,F,36,UKR,CHN,2016,Summer,Beijing,Boxing,Marathon,Bronze
+172,Maria Ivanova,M,37,USA,USA,2016,Winter,London,Judo,Double Sculls,Gold
+173,Maria Ivanova,M,39,CHN,BRA,2012,Summer,Rio,Swimming,Marathon,
+174,Carlos Gomez,M,25,GER,BRA,2016,Summer,Tokyo,Boxing,Double Sculls,
+175,Anna Schmidt,F,38,UKR,UKR,2020,Summer,Rio,Cycling,Double Sculls,Silver
+176,Liu Wei,M,36,BRA,FRA,2012,Summer,Beijing,Athletics,Double Sculls,Gold
+177,Tom Lee,M,23,GER,UKR,2004,Winter,Beijing,Athletics,Double Sculls,
+178,Tom Lee,F,37,UKR,USA,2000,Summer,Tokyo,Rowing,Sprint,Gold
+179,John Doe,F,36,USA,FRA,2004,Summer,Athens,Athletics,Sprint,Gold
+180,Carlos Gomez,M,21,USA,CAN,2000,Summer,London,Judo,Lightweight Boxing,Gold
+181,Anna Schmidt,M,24,GER,FRA,2004,Summer,London,Athletics,Sprint,Bronze
+182,Carlos Gomez,M,21,FRA,CAN,2020,Winter,Beijing,Athletics,Marathon,
+183,Kate Novak,M,39,GER,BRA,2000,Summer,Rio,Cycling,Sprint,Silver
+184,Anna Schmidt,M,29,CAN,UKR,2000,Summer,Rio,Boxing,Marathon,Gold
+185,Tom Lee,M,30,CHN,CHN,2008,Summer,Athens,Cycling,100m freestyle,Silver
+186,Tom Lee,F,20,UKR,FRA,2000,Summer,Rio,Judo,Sprint,Bronze
+187,Anna Schmidt,F,39,GER,CHN,2000,Summer,London,Athletics,Marathon,Gold
+188,Tom Lee,F,29,CHN,FRA,2008,Summer,Rio,Boxing,Double Sculls,Gold
+189,Liu Wei,M,19,CAN,BRA,2016,Summer,Athens,Rowing,Judo -60kg,
+190,Anna Schmidt,F,19,CHN,UKR,2016,Summer,London,Rowing,Double Sculls,
+191,Carlos Gomez,M,26,GER,USA,2008,Summer,Rio,Athletics,Lightweight Boxing,
+192,Anna Schmidt,M,18,USA,USA,2012,Winter,London,Athletics,Marathon,
+193,Tom Lee,F,25,UKR,USA,2000,Summer,Beijing,Rowing,Double Sculls,Gold
+194,Liu Wei,M,23,UKR,FRA,2000,Summer,Beijing,Rowing,Sprint,Gold
+195,Liu Wei,M,23,USA,FRA,2008,Summer,Beijing,Judo,Sprint,Silver
+196,Kate Novak,F,39,FRA,CHN,2008,Summer,Rio,Athletics,100m freestyle,Silver
+197,Carlos Gomez,F,35,GER,UKR,2012,Summer,Athens,Rowing,Judo -60kg,
+198,Maria Ivanova,F,34,UKR,FRA,2020,Winter,London,Swimming,Marathon,
+199,Maria Ivanova,M,29,GER,UKR,2016,Summer,Tokyo,Rowing,Double Sculls,Bronze
+200,Anna Schmidt,F,23,CAN,CHN,2004,Summer,Beijing,Boxing,Judo -60kg,Gold
+201,Kate Novak,F,25,GER,FRA,2020,Summer,Beijing,Boxing,100m freestyle,
+202,John Doe,M,36,CHN,USA,2016,Summer,Tokyo,Swimming,Lightweight Boxing,
+203,Anna Schmidt,F,27,USA,USA,2000,Summer,Tokyo,Judo,Judo -60kg,Gold
+204,Kate Novak,F,18,FRA,BRA,2020,Summer,Rio,Athletics,100m freestyle,
+205,Carlos Gomez,F,30,GER,CAN,2008,Summer,London,Athletics,Marathon,Silver
+206,Carlos Gomez,M,34,FRA,GER,2012,Summer,Beijing,Rowing,Lightweight Boxing,Gold
+207,Carlos Gomez,M,20,FRA,CAN,2016,Summer,Athens,Boxing,Sprint,Bronze
+208,Carlos Gomez,M,25,CAN,FRA,2012,Summer,Rio,Judo,100m freestyle,Bronze
+209,Carlos Gomez,M,31,BRA,UKR,2016,Summer,Rio,Judo,Sprint,Gold
+210,Kate Novak,F,20,USA,FRA,2020,Summer,Athens,Judo,Lightweight Boxing,Silver
+211,Kate Novak,M,33,FRA,UKR,2000,Summer,Athens,Rowing,100m freestyle,
+212,Liu Wei,M,30,UKR,UKR,2004,Summer,Athens,Athletics,100m freestyle,Bronze
+213,Maria Ivanova,F,37,CHN,CAN,2012,Summer,Tokyo,Judo,Lightweight Boxing,Bronze
+214,Tom Lee,F,34,UKR,GER,2012,Summer,Beijing,Rowing,Marathon,Gold
+215,Carlos Gomez,F,30,CAN,BRA,2004,Summer,Tokyo,Rowing,100m freestyle,Gold
+216,John Doe,M,23,CAN,CAN,2012,Summer,Beijing,Swimming,Lightweight Boxing,Silver
+217,Tom Lee,M,34,UKR,GER,2012,Summer,Tokyo,Cycling,Judo -60kg,Gold
+218,Kate Novak,M,31,USA,USA,2016,Summer,London,Judo,Sprint,Gold
+219,John Doe,F,34,UKR,USA,2016,Summer,Beijing,Cycling,100m freestyle,Gold
+220,John Doe,F,25,GER,UKR,2004,Winter,Rio,Athletics,Judo -60kg,Bronze
+221,John Doe,M,28,UKR,CHN,2000,Summer,Beijing,Rowing,100m freestyle,Silver
+222,Liu Wei,F,37,CHN,FRA,2020,Summer,Beijing,Judo,Marathon,
+223,Kate Novak,F,18,CHN,FRA,2020,Summer,Beijing,Boxing,Lightweight Boxing,Gold
+224,John Doe,F,24,BRA,UKR,2012,Summer,London,Athletics,100m freestyle,Silver
+225,Carlos Gomez,M,38,CHN,CHN,2000,Summer,Tokyo,Swimming,Lightweight Boxing,Gold
+226,Anna Schmidt,F,38,UKR,GER,2004,Summer,Rio,Swimming,Double Sculls,Silver
+227,John Doe,F,34,CHN,USA,2004,Summer,Tokyo,Cycling,100m freestyle,Gold
+228,Liu Wei,M,27,USA,FRA,2016,Summer,Tokyo,Rowing,Marathon,
+229,Tom Lee,M,28,FRA,CAN,2012,Summer,Athens,Cycling,Marathon,
+230,Kate Novak,F,39,CHN,CHN,2008,Summer,London,Boxing,Judo -60kg,Silver
+231,Liu Wei,F,26,GER,GER,2004,Summer,Athens,Boxing,Marathon,Gold
+232,John Doe,M,26,USA,USA,2012,Summer,London,Swimming,Lightweight Boxing,Bronze
+233,Kate Novak,M,22,BRA,CAN,2000,Summer,Tokyo,Judo,Double Sculls,
+234,Anna Schmidt,F,34,GER,CHN,2016,Summer,Tokyo,Swimming,Marathon,Gold
+235,John Doe,F,26,UKR,UKR,2020,Summer,London,Swimming,100m freestyle,Bronze
+236,Liu Wei,F,34,FRA,UKR,2000,Summer,Tokyo,Boxing,Marathon,
+237,Maria Ivanova,F,38,UKR,UKR,2004,Summer,Tokyo,Cycling,Double Sculls,
+238,Carlos Gomez,M,36,FRA,FRA,2004,Summer,Rio,Boxing,Lightweight Boxing,
+239,Tom Lee,F,24,FRA,GER,2000,Winter,Athens,Rowing,100m freestyle,
+240,Liu Wei,F,26,UKR,UKR,2004,Winter,Athens,Boxing,Judo -60kg,
+241,Kate Novak,M,24,GER,FRA,2012,Summer,Athens,Boxing,Judo -60kg,Silver
+242,John Doe,F,30,GER,BRA,2004,Summer,Beijing,Swimming,Judo -60kg,Bronze
+243,Carlos Gomez,M,28,FRA,FRA,2016,Summer,Rio,Judo,100m freestyle,
+244,John Doe,F,31,GER,USA,2012,Summer,Athens,Swimming,Judo -60kg,Bronze
+245,Kate Novak,F,36,FRA,FRA,2008,Summer,Athens,Athletics,Marathon,
+246,John Doe,M,28,FRA,GER,2004,Summer,Rio,Boxing,100m freestyle,Gold
+247,Maria Ivanova,M,30,USA,CAN,2004,Winter,Tokyo,Boxing,100m freestyle,Silver
+248,Carlos Gomez,F,31,CAN,FRA,2016,Summer,Athens,Athletics,100m freestyle,Silver
+249,Carlos Gomez,F,30,USA,UKR,2016,Summer,Tokyo,Boxing,Sprint,Silver
+250,Kate Novak,F,18,UKR,USA,2020,Summer,Athens,Boxing,Lightweight Boxing,Gold
+251,Tom Lee,M,25,CAN,CHN,2000,Winter,London,Rowing,Sprint,Bronze
+252,Maria Ivanova,F,29,CHN,UKR,2000,Summer,Beijing,Boxing,Sprint,Gold
+253,Liu Wei,M,36,UKR,USA,2000,Summer,Athens,Athletics,Sprint,Bronze
+254,John Doe,M,29,BRA,BRA,2016,Summer,London,Swimming,Lightweight Boxing,Bronze
+255,Anna Schmidt,F,25,USA,CHN,2000,Winter,Rio,Boxing,Sprint,Silver
+256,John Doe,M,25,GER,BRA,2000,Summer,London,Judo,Judo -60kg,Silver
+257,John Doe,F,38,USA,CAN,2008,Winter,Rio,Athletics,100m freestyle,Bronze
+258,Liu Wei,F,30,GER,USA,2000,Summer,Athens,Cycling,100m freestyle,
+259,John Doe,F,29,CAN,BRA,2004,Summer,Rio,Rowing,Marathon,
+260,Maria Ivanova,F,33,BRA,CAN,2020,Summer,London,Athletics,Double Sculls,
+261,Maria Ivanova,F,18,CAN,USA,2016,Summer,Beijing,Swimming,Judo -60kg,
+262,Carlos Gomez,M,30,BRA,USA,2012,Summer,Tokyo,Athletics,Lightweight Boxing,Bronze
+263,Kate Novak,M,24,USA,BRA,2020,Winter,Tokyo,Cycling,Double Sculls,
+264,Tom Lee,F,22,GER,USA,2008,Summer,Beijing,Rowing,100m freestyle,
+265,Anna Schmidt,F,25,CAN,UKR,2016,Summer,Tokyo,Judo,Sprint,
+266,John Doe,M,31,BRA,USA,2016,Summer,Athens,Cycling,Marathon,Gold
+267,John Doe,M,30,FRA,GER,2004,Summer,Athens,Athletics,Marathon,
+268,Liu Wei,M,32,UKR,CAN,2020,Summer,London,Cycling,100m freestyle,Silver
+269,Kate Novak,M,34,UKR,USA,2020,Summer,London,Athletics,Judo -60kg,
+270,Maria Ivanova,F,32,CAN,GER,2000,Summer,Rio,Judo,Double Sculls,Gold
+271,Anna Schmidt,F,37,GER,USA,2004,Summer,London,Judo,Marathon,Silver
+272,Carlos Gomez,M,35,FRA,USA,2000,Winter,Athens,Swimming,100m freestyle,Silver
+273,Maria Ivanova,F,35,CAN,BRA,2000,Summer,London,Judo,Judo -60kg,Silver
+274,Kate Novak,M,19,USA,UKR,2016,Winter,Tokyo,Boxing,100m freestyle,Gold
+275,Tom Lee,F,21,BRA,CAN,2020,Summer,Rio,Cycling,100m freestyle,
+276,Carlos Gomez,M,18,USA,UKR,2000,Summer,Rio,Cycling,Judo -60kg,Gold
+277,Tom Lee,F,21,UKR,CHN,2008,Summer,Athens,Athletics,Judo -60kg,Silver
+278,Liu Wei,M,35,BRA,BRA,2008,Summer,London,Judo,Judo -60kg,Gold
+279,Liu Wei,M,22,CAN,BRA,2020,Winter,Tokyo,Swimming,100m freestyle,Bronze
+280,John Doe,F,36,USA,UKR,2008,Summer,London,Swimming,Marathon,Silver
+281,Tom Lee,M,32,CHN,FRA,2016,Summer,Beijing,Swimming,Lightweight Boxing,Silver
+282,Kate Novak,F,25,GER,BRA,2004,Winter,London,Rowing,Lightweight Boxing,Silver
+283,Anna Schmidt,F,37,FRA,UKR,2012,Summer,Athens,Boxing,100m freestyle,Bronze
+284,Carlos Gomez,M,34,FRA,BRA,2000,Summer,London,Judo,100m freestyle,Gold
+285,Maria Ivanova,F,18,GER,USA,2012,Summer,Rio,Swimming,Marathon,Gold
+286,Kate Novak,F,29,CHN,UKR,2004,Winter,Tokyo,Boxing,Judo -60kg,Gold
+287,Kate Novak,F,36,UKR,UKR,2004,Summer,Athens,Cycling,100m freestyle,
+288,Liu Wei,F,32,BRA,GER,2016,Summer,Beijing,Athletics,Sprint,Silver
+289,Tom Lee,F,26,GER,BRA,2008,Summer,Tokyo,Judo,Judo -60kg,Bronze
+290,John Doe,M,24,CHN,BRA,2008,Winter,Tokyo,Judo,100m freestyle,Gold
+291,John Doe,F,19,CAN,UKR,2004,Summer,Rio,Rowing,Sprint,Silver
+292,Carlos Gomez,F,26,FRA,USA,2016,Summer,Rio,Cycling,Double Sculls,Gold
+293,Liu Wei,F,27,CHN,USA,2016,Summer,Rio,Judo,Marathon,Gold
+294,Kate Novak,F,19,UKR,CAN,2020,Winter,Athens,Rowing,Sprint,Silver
+295,Anna Schmidt,F,36,UKR,USA,2000,Winter,London,Rowing,100m freestyle,Silver
+296,Liu Wei,M,28,USA,BRA,2008,Winter,Tokyo,Rowing,Lightweight Boxing,Gold
+297,Carlos Gomez,F,30,GER,FRA,2004,Summer,London,Judo,100m freestyle,Bronze
+298,Carlos Gomez,M,27,USA,GER,2020,Summer,London,Judo,Lightweight Boxing,
+299,Liu Wei,M,31,FRA,UKR,2012,Summer,Rio,Judo,Marathon,Silver
+300,Carlos Gomez,M,35,CHN,CHN,2008,Winter,London,Boxing,Marathon,Bronze
+301,Liu Wei,M,36,BRA,GER,2000,Summer,Tokyo,Rowing,Judo -60kg,
+302,Maria Ivanova,F,39,BRA,FRA,2016,Summer,Tokyo,Boxing,Judo -60kg,
+303,Liu Wei,M,26,UKR,CHN,2004,Summer,Beijing,Athletics,Lightweight Boxing,Silver
+304,Tom Lee,M,24,BRA,GER,2008,Summer,Athens,Judo,Lightweight Boxing,Bronze
+305,Liu Wei,F,20,BRA,USA,2012,Summer,London,Cycling,Marathon,Gold
+306,Carlos Gomez,F,37,FRA,BRA,2000,Summer,Athens,Swimming,Sprint,Bronze
+307,Tom Lee,F,23,BRA,FRA,2000,Summer,Athens,Athletics,Lightweight Boxing,Silver
+308,Carlos Gomez,M,38,CHN,CHN,2020,Summer,Athens,Swimming,Lightweight Boxing,Gold
+309,John Doe,F,19,BRA,FRA,2008,Summer,Athens,Swimming,Sprint,Silver
+310,John Doe,F,23,CAN,GER,2012,Summer,Tokyo,Judo,Judo -60kg,Gold
+311,Tom Lee,M,20,BRA,BRA,2000,Summer,London,Cycling,Judo -60kg,Bronze
+312,Maria Ivanova,F,33,BRA,FRA,2004,Summer,Beijing,Swimming,Lightweight Boxing,Silver
+313,John Doe,F,25,USA,CHN,2000,Summer,Athens,Rowing,Judo -60kg,Bronze
+314,Liu Wei,F,19,CHN,UKR,2012,Summer,Beijing,Swimming,Judo -60kg,Gold
+315,Carlos Gomez,F,34,UKR,GER,2016,Summer,Tokyo,Athletics,Double Sculls,Gold
+316,John Doe,M,26,USA,UKR,2016,Summer,Tokyo,Cycling,Judo -60kg,Bronze
+317,John Doe,F,29,GER,USA,2020,Summer,Rio,Cycling,Marathon,
+318,Maria Ivanova,F,20,CHN,UKR,2008,Summer,Athens,Swimming,100m freestyle,Gold
+319,Tom Lee,M,28,CAN,UKR,2012,Winter,Rio,Cycling,Lightweight Boxing,Silver
+320,Tom Lee,F,18,CHN,CAN,2020,Summer,Beijing,Athletics,Lightweight Boxing,
+321,Kate Novak,M,30,GER,GER,2000,Summer,London,Athletics,Marathon,Gold
+322,Maria Ivanova,F,32,GER,USA,2000,Summer,Rio,Athletics,100m freestyle,
+323,Liu Wei,M,22,GER,UKR,2016,Summer,Tokyo,Rowing,100m freestyle,Bronze
+324,Tom Lee,M,38,FRA,BRA,2020,Summer,Athens,Judo,Marathon,Silver
+325,Carlos Gomez,M,34,UKR,CHN,2016,Summer,Beijing,Swimming,Sprint,Silver
+326,Maria Ivanova,M,23,BRA,UKR,2004,Summer,Tokyo,Cycling,Sprint,Silver
+327,John Doe,F,38,CHN,USA,2016,Summer,London,Athletics,100m freestyle,Silver
+328,Carlos Gomez,M,39,FRA,UKR,2004,Winter,Athens,Swimming,Sprint,
+329,Carlos Gomez,F,28,BRA,CHN,2000,Summer,London,Swimming,Sprint,Bronze
+330,John Doe,M,35,BRA,USA,2020,Summer,London,Judo,Sprint,Bronze
+331,Maria Ivanova,M,21,CAN,GER,2004,Summer,Athens,Rowing,100m freestyle,
+332,John Doe,M,20,GER,USA,2020,Summer,Athens,Cycling,Sprint,Silver
+333,Kate Novak,F,30,UKR,GER,2020,Winter,London,Rowing,Lightweight Boxing,Bronze
+334,Carlos Gomez,M,26,CAN,USA,2004,Summer,Beijing,Cycling,Double Sculls,Silver
+335,Anna Schmidt,F,38,USA,FRA,2008,Winter,Athens,Athletics,100m freestyle,
+336,Anna Schmidt,F,23,FRA,CHN,2016,Summer,Tokyo,Athletics,Marathon,Silver
+337,Liu Wei,F,29,FRA,CHN,2004,Summer,Rio,Swimming,Sprint,Bronze
+338,Tom Lee,F,19,UKR,USA,2000,Summer,Beijing,Cycling,Judo -60kg,
+339,John Doe,F,20,BRA,FRA,2020,Summer,Athens,Cycling,100m freestyle,Silver
+340,John Doe,F,20,FRA,UKR,2012,Summer,Athens,Rowing,Marathon,Gold
+341,Liu Wei,F,29,UKR,CHN,2004,Summer,Beijing,Athletics,Double Sculls,Bronze
+342,Liu Wei,F,32,FRA,GER,2016,Summer,Rio,Boxing,Lightweight Boxing,Silver
+343,Liu Wei,F,26,FRA,GER,2020,Summer,London,Swimming,Marathon,Bronze
+344,Carlos Gomez,M,25,GER,BRA,2008,Winter,Tokyo,Cycling,Sprint,
+345,Kate Novak,M,28,USA,CAN,2000,Summer,Athens,Judo,Judo -60kg,Silver
+346,John Doe,M,33,GER,FRA,2008,Summer,Rio,Judo,Sprint,Silver
+347,Carlos Gomez,M,39,USA,CAN,2012,Summer,Tokyo,Boxing,Marathon,Bronze
+348,Liu Wei,M,21,FRA,CAN,2004,Summer,Beijing,Athletics,100m freestyle,Gold
+349,John Doe,F,18,CAN,GER,2020,Summer,Athens,Athletics,Judo -60kg,Silver
+350,Carlos Gomez,F,24,BRA,BRA,2004,Winter,London,Athletics,Judo -60kg,
+351,Kate Novak,F,19,FRA,CAN,2016,Winter,Beijing,Rowing,Marathon,Bronze
+352,Carlos Gomez,F,22,USA,CAN,2004,Summer,Athens,Judo,Double Sculls,Gold
+353,Kate Novak,F,24,USA,USA,2000,Winter,Rio,Athletics,Double Sculls,Gold
+354,Liu Wei,F,21,USA,USA,2012,Summer,Tokyo,Judo,Sprint,Bronze
+355,Kate Novak,F,22,FRA,USA,2008,Summer,Tokyo,Boxing,Marathon,
+356,John Doe,M,18,UKR,UKR,2012,Summer,Athens,Swimming,Judo -60kg,
+357,Liu Wei,M,18,CAN,CAN,2020,Summer,Beijing,Rowing,Marathon,Silver
+358,John Doe,M,32,UKR,UKR,2004,Summer,London,Cycling,Judo -60kg,
+359,Anna Schmidt,M,37,BRA,BRA,2020,Summer,Rio,Boxing,Sprint,Bronze
+360,Maria Ivanova,F,36,FRA,FRA,2008,Summer,Athens,Judo,100m freestyle,Bronze
+361,Kate Novak,F,27,USA,GER,2020,Summer,Rio,Boxing,100m freestyle,Bronze
+362,Maria Ivanova,F,35,CAN,CAN,2016,Summer,Tokyo,Cycling,Marathon,Gold
+363,Maria Ivanova,M,20,CAN,GER,2012,Winter,London,Rowing,Judo -60kg,
+364,Kate Novak,F,28,CHN,FRA,2008,Summer,Rio,Swimming,100m freestyle,Gold
+365,Liu Wei,F,32,BRA,USA,2008,Summer,Athens,Cycling,Judo -60kg,Silver
+366,Anna Schmidt,F,28,CAN,CAN,2008,Summer,London,Rowing,Sprint,
+367,John Doe,M,34,FRA,CHN,2000,Summer,Beijing,Judo,Marathon,Bronze
+368,Carlos Gomez,F,34,USA,UKR,2012,Summer,Athens,Cycling,Judo -60kg,
+369,John Doe,M,23,USA,UKR,2020,Summer,Rio,Boxing,Marathon,Bronze
+370,Carlos Gomez,M,22,CAN,CAN,2008,Summer,London,Athletics,Judo -60kg,Silver
+371,John Doe,M,25,UKR,FRA,2012,Summer,Athens,Boxing,Double Sculls,
+372,Kate Novak,M,19,BRA,USA,2008,Summer,London,Judo,Double Sculls,Gold
+373,Anna Schmidt,F,33,USA,UKR,2016,Summer,London,Swimming,Judo -60kg,
+374,Carlos Gomez,M,37,CAN,USA,2016,Summer,London,Cycling,Sprint,Gold
+375,Tom Lee,M,29,USA,BRA,2016,Summer,Rio,Swimming,Marathon,
+376,Liu Wei,F,23,CAN,GER,2004,Winter,Athens,Judo,Lightweight Boxing,Gold
+377,John Doe,F,18,BRA,FRA,2008,Summer,Tokyo,Cycling,Judo -60kg,Bronze
+378,John Doe,M,21,CAN,CHN,2004,Winter,Tokyo,Rowing,Judo -60kg,
+379,Carlos Gomez,F,34,CHN,GER,2012,Summer,Rio,Rowing,Double Sculls,Silver
+380,Liu Wei,M,30,CAN,GER,2004,Winter,Rio,Boxing,100m freestyle,Bronze
+381,Liu Wei,M,35,CAN,BRA,2012,Summer,London,Boxing,Double Sculls,
+382,Kate Novak,M,22,FRA,UKR,2012,Summer,Athens,Judo,Marathon,Bronze
+383,Tom Lee,M,20,BRA,CHN,2012,Winter,Athens,Rowing,Double Sculls,
+384,Kate Novak,F,28,FRA,UKR,2020,Summer,Beijing,Cycling,Lightweight Boxing,Silver
+385,Kate Novak,M,30,CAN,CAN,2004,Summer,Beijing,Rowing,Sprint,Gold
+386,Kate Novak,F,21,BRA,GER,2020,Summer,Tokyo,Boxing,Lightweight Boxing,Gold
+387,Kate Novak,F,31,CHN,CAN,2008,Summer,Beijing,Judo,Sprint,Gold
+388,Kate Novak,F,39,BRA,USA,2004,Winter,Beijing,Rowing,Lightweight Boxing,Gold
+389,Anna Schmidt,F,28,USA,GER,2008,Summer,Tokyo,Judo,Double Sculls,Bronze
+390,Liu Wei,M,27,FRA,UKR,2008,Summer,Tokyo,Rowing,Lightweight Boxing,Gold
+391,Kate Novak,F,36,BRA,GER,2012,Summer,Beijing,Swimming,Double Sculls,Gold
+392,Liu Wei,M,35,CHN,USA,2004,Summer,Athens,Rowing,Double Sculls,Gold
+393,Liu Wei,F,23,GER,BRA,2008,Summer,Beijing,Boxing,Marathon,
+394,Maria Ivanova,F,32,CAN,CAN,2016,Summer,London,Cycling,Double Sculls,Bronze
+395,Anna Schmidt,M,38,BRA,CAN,2008,Summer,London,Boxing,100m freestyle,Silver
+396,Kate Novak,M,27,CAN,UKR,2016,Summer,London,Boxing,Lightweight Boxing,
+397,John Doe,M,22,UKR,GER,2004,Winter,Rio,Boxing,Judo -60kg,Gold
+398,Carlos Gomez,F,22,USA,UKR,2020,Summer,London,Judo,Judo -60kg,
+399,Tom Lee,F,27,FRA,BRA,2004,Summer,Athens,Athletics,Judo -60kg,Bronze
+400,John Doe,M,22,USA,GER,2020,Summer,Rio,Athletics,100m freestyle,Gold
+401,Anna Schmidt,M,20,UKR,GER,2020,Summer,Rio,Swimming,Double Sculls,Bronze
+402,Carlos Gomez,M,23,UKR,UKR,2004,Summer,London,Boxing,Lightweight Boxing,
+403,Anna Schmidt,M,21,FRA,UKR,2008,Winter,Beijing,Athletics,Sprint,Silver
+404,Liu Wei,F,35,BRA,USA,2000,Summer,Tokyo,Swimming,Sprint,
+405,Carlos Gomez,M,26,UKR,FRA,2008,Winter,Beijing,Judo,Marathon,Gold
+406,Liu Wei,M,34,GER,FRA,2008,Summer,Beijing,Boxing,100m freestyle,Silver
+407,John Doe,M,30,CAN,BRA,2012,Summer,Rio,Cycling,Lightweight Boxing,Gold
+408,John Doe,M,32,CAN,FRA,2012,Summer,Rio,Judo,Double Sculls,Gold
+409,Carlos Gomez,F,37,CHN,USA,2008,Summer,Rio,Swimming,Judo -60kg,Gold
+410,Carlos Gomez,M,34,UKR,CAN,2016,Summer,Athens,Judo,100m freestyle,
+411,Kate Novak,F,30,UKR,GER,2020,Winter,Athens,Cycling,100m freestyle,Gold
+412,Anna Schmidt,M,33,GER,UKR,2012,Summer,Tokyo,Judo,Lightweight Boxing,Silver
+413,Kate Novak,M,39,USA,GER,2008,Winter,Rio,Swimming,Double Sculls,Bronze
+414,Anna Schmidt,F,21,USA,GER,2000,Summer,London,Cycling,Marathon,
+415,Kate Novak,M,22,CAN,CHN,2016,Summer,Rio,Cycling,Double Sculls,
+416,Liu Wei,F,22,CAN,CAN,2004,Summer,Athens,Judo,Marathon,
+417,Carlos Gomez,F,26,BRA,CHN,2008,Summer,Rio,Cycling,Marathon,
+418,John Doe,M,34,FRA,FRA,2008,Winter,Athens,Judo,Judo -60kg,
+419,Anna Schmidt,F,30,GER,GER,2020,Summer,Rio,Boxing,Judo -60kg,
+420,Anna Schmidt,F,19,FRA,UKR,2016,Summer,London,Cycling,Lightweight Boxing,Bronze
+421,John Doe,F,30,FRA,GER,2012,Summer,Tokyo,Judo,Double Sculls,Gold
+422,Kate Novak,F,39,CHN,CAN,2012,Summer,London,Boxing,Marathon,Silver
+423,Anna Schmidt,F,38,FRA,CHN,2012,Summer,Athens,Cycling,Lightweight Boxing,Bronze
+424,Tom Lee,F,36,CHN,UKR,2004,Summer,Beijing,Boxing,Marathon,Silver
+425,Liu Wei,F,20,FRA,GER,2016,Summer,London,Rowing,100m freestyle,Silver
+426,Carlos Gomez,F,27,GER,BRA,2016,Summer,Rio,Cycling,Sprint,Bronze
+427,John Doe,M,19,CHN,CAN,2012,Summer,Tokyo,Rowing,Sprint,
+428,Carlos Gomez,M,30,USA,CAN,2012,Summer,Rio,Swimming,Marathon,Gold
+429,Tom Lee,F,36,CHN,BRA,2020,Summer,Rio,Swimming,Lightweight Boxing,
+430,Anna Schmidt,M,34,CHN,GER,2000,Summer,London,Judo,Judo -60kg,Bronze
+431,Anna Schmidt,F,38,GER,CAN,2000,Summer,Tokyo,Athletics,Double Sculls,
+432,Tom Lee,F,31,GER,UKR,2008,Summer,Beijing,Rowing,Marathon,
+433,John Doe,M,29,CHN,GER,2008,Summer,Rio,Rowing,Marathon,
+434,Liu Wei,F,38,UKR,GER,2016,Summer,Tokyo,Swimming,Double Sculls,Bronze
+435,Maria Ivanova,F,29,GER,CHN,2016,Summer,Beijing,Rowing,Judo -60kg,Gold
+436,John Doe,F,28,BRA,CAN,2004,Summer,Rio,Athletics,Marathon,Bronze
+437,Maria Ivanova,F,24,BRA,CAN,2004,Summer,Tokyo,Boxing,100m freestyle,
+438,Tom Lee,M,21,USA,BRA,2000,Winter,London,Boxing,Judo -60kg,
+439,Kate Novak,F,36,FRA,CHN,2008,Summer,Rio,Athletics,100m freestyle,
+440,Maria Ivanova,F,18,CHN,FRA,2000,Summer,Rio,Rowing,Sprint,Gold
+441,Liu Wei,F,20,UKR,CHN,2000,Summer,Tokyo,Rowing,Double Sculls,Bronze
+442,Kate Novak,M,30,USA,CAN,2008,Summer,Rio,Rowing,Judo -60kg,Silver
+443,Maria Ivanova,F,32,CHN,GER,2004,Summer,Beijing,Judo,Judo -60kg,Gold
+444,Tom Lee,M,19,GER,CHN,2020,Summer,Rio,Cycling,Lightweight Boxing,Gold
+445,Kate Novak,M,28,BRA,BRA,2020,Summer,Athens,Athletics,Lightweight Boxing,Gold
+446,Tom Lee,F,21,CAN,CHN,2020,Summer,Beijing,Athletics,Double Sculls,
+447,Maria Ivanova,F,36,UKR,BRA,2008,Summer,Tokyo,Athletics,Judo -60kg,Silver
+448,Tom Lee,M,34,CAN,FRA,2012,Summer,Beijing,Athletics,Sprint,Silver
+449,Liu Wei,F,20,BRA,CHN,2012,Summer,Athens,Athletics,Marathon,
+450,Maria Ivanova,M,35,FRA,BRA,2012,Summer,Athens,Rowing,Double Sculls,Silver
+451,Maria Ivanova,M,25,FRA,CHN,2016,Summer,Rio,Judo,Double Sculls,Gold
+452,Maria Ivanova,F,39,CAN,FRA,2004,Summer,Rio,Swimming,Lightweight Boxing,Silver
+453,John Doe,F,36,GER,CHN,2004,Winter,London,Rowing,Sprint,Gold
+454,John Doe,M,22,CHN,UKR,2016,Summer,Beijing,Rowing,Double Sculls,Gold
+455,John Doe,M,24,GER,BRA,2000,Summer,London,Cycling,Sprint,Gold
+456,Liu Wei,M,38,CAN,FRA,2020,Summer,Athens,Swimming,Double Sculls,Bronze
+457,Kate Novak,M,25,GER,BRA,2012,Winter,Rio,Athletics,Lightweight Boxing,Gold
+458,Tom Lee,F,22,BRA,BRA,2020,Summer,Rio,Swimming,Marathon,Silver
+459,Anna Schmidt,F,34,UKR,USA,2012,Summer,Rio,Judo,Lightweight Boxing,
+460,Maria Ivanova,F,22,GER,FRA,2020,Summer,Tokyo,Boxing,Double Sculls,Silver
+461,Tom Lee,F,21,BRA,CHN,2000,Summer,Athens,Rowing,Sprint,
+462,Maria Ivanova,F,39,UKR,BRA,2020,Winter,Rio,Swimming,100m freestyle,Silver
+463,Liu Wei,M,36,FRA,CAN,2020,Summer,Athens,Cycling,Lightweight Boxing,Silver
+464,Maria Ivanova,F,38,CHN,USA,2008,Summer,Rio,Judo,Sprint,
+465,John Doe,F,19,CAN,UKR,2020,Winter,Beijing,Boxing,Lightweight Boxing,Gold
+466,Anna Schmidt,F,28,FRA,BRA,2008,Summer,Athens,Judo,Double Sculls,Gold
+467,Carlos Gomez,F,39,CHN,BRA,2004,Summer,London,Athletics,Sprint,Bronze
+468,Maria Ivanova,F,30,FRA,USA,2016,Summer,Tokyo,Boxing,Marathon,Silver
+469,Tom Lee,M,32,USA,CHN,2020,Summer,London,Cycling,Sprint,
+470,John Doe,M,29,FRA,CAN,2004,Summer,Athens,Boxing,Judo -60kg,
+471,Carlos Gomez,M,39,BRA,UKR,2008,Summer,Rio,Cycling,100m freestyle,Silver
+472,Anna Schmidt,F,38,UKR,BRA,2020,Summer,Athens,Athletics,Double Sculls,Bronze
+473,Carlos Gomez,M,39,FRA,CHN,2020,Summer,Tokyo,Cycling,Sprint,Bronze
+474,John Doe,M,28,GER,FRA,2000,Winter,Athens,Judo,Double Sculls,
+475,Kate Novak,F,24,CHN,CAN,2004,Summer,Rio,Swimming,Lightweight Boxing,
+476,Kate Novak,F,22,FRA,FRA,2012,Winter,London,Judo,Lightweight Boxing,
+477,Carlos Gomez,F,34,UKR,CAN,2012,Summer,Beijing,Rowing,Sprint,Silver
+478,Liu Wei,M,37,BRA,UKR,2000,Summer,London,Judo,Judo -60kg,
+479,Tom Lee,M,26,USA,GER,2008,Winter,Rio,Boxing,Sprint,Silver
+480,Tom Lee,F,31,CHN,CAN,2012,Summer,Rio,Athletics,Marathon,Gold
+481,Carlos Gomez,F,29,CAN,GER,2012,Summer,Tokyo,Rowing,Judo -60kg,
+482,Maria Ivanova,M,23,UKR,FRA,2016,Summer,Athens,Rowing,Double Sculls,Gold
+483,Maria Ivanova,M,34,CAN,CAN,2004,Summer,Athens,Rowing,Sprint,
+484,Tom Lee,F,36,UKR,UKR,2008,Summer,London,Swimming,Double Sculls,Gold
+485,Tom Lee,F,36,UKR,USA,2020,Winter,Beijing,Cycling,100m freestyle,
+486,Kate Novak,M,33,BRA,UKR,2004,Summer,Beijing,Boxing,Judo -60kg,Silver
+487,Liu Wei,F,29,BRA,UKR,2008,Summer,Tokyo,Athletics,Sprint,Silver
+488,John Doe,M,29,BRA,USA,2012,Summer,Rio,Swimming,100m freestyle,Gold
+489,Maria Ivanova,M,37,FRA,USA,2016,Summer,Tokyo,Judo,Sprint,Bronze
+490,Tom Lee,M,23,GER,CHN,2004,Summer,Athens,Athletics,Marathon,Silver
+491,Kate Novak,M,21,UKR,CAN,2012,Summer,Rio,Rowing,Lightweight Boxing,Bronze
+492,Anna Schmidt,F,23,CHN,FRA,2008,Summer,Tokyo,Athletics,Double Sculls,Gold
+493,Kate Novak,F,28,CAN,CHN,2004,Summer,London,Athletics,Sprint,Gold
+494,Maria Ivanova,M,18,BRA,USA,2020,Winter,Athens,Judo,Judo -60kg,Gold
+495,Maria Ivanova,M,32,FRA,GER,2004,Summer,Beijing,Cycling,Sprint,Silver
+496,Kate Novak,M,28,BRA,FRA,2012,Summer,Tokyo,Boxing,Sprint,
+497,John Doe,M,36,CAN,GER,2004,Summer,Athens,Rowing,Sprint,
+498,Carlos Gomez,M,35,CAN,UKR,2020,Summer,Athens,Cycling,Sprint,Gold
+499,Maria Ivanova,F,34,UKR,BRA,2016,Summer,Beijing,Swimming,Judo -60kg,Bronze
+500,Kate Novak,F,36,BRA,UKR,2016,Winter,Beijing,Rowing,Judo -60kg,
+501,Tom Lee,F,38,CAN,UKR,2012,Summer,Beijing,Boxing,Sprint,Silver
+502,Kate Novak,F,31,GER,BRA,2008,Winter,Tokyo,Swimming,Lightweight Boxing,Silver
+503,Liu Wei,M,35,GER,CAN,2012,Summer,Beijing,Judo,Sprint,Bronze
+504,Carlos Gomez,M,36,BRA,USA,2016,Winter,London,Cycling,Double Sculls,Gold
+505,Anna Schmidt,M,32,FRA,GER,2000,Summer,Athens,Rowing,Double Sculls,Gold
+506,John Doe,M,32,CAN,UKR,2000,Winter,Beijing,Athletics,Judo -60kg,Gold
+507,Anna Schmidt,M,21,UKR,BRA,2004,Summer,Athens,Boxing,Double Sculls,Bronze
+508,Carlos Gomez,F,24,UKR,CHN,2020,Summer,Rio,Rowing,Double Sculls,Gold
+509,Carlos Gomez,M,30,FRA,UKR,2004,Winter,Rio,Athletics,Marathon,Gold
+510,Carlos Gomez,F,20,UKR,GER,2000,Summer,Beijing,Rowing,Sprint,Silver
+511,Anna Schmidt,F,33,USA,USA,2016,Summer,Athens,Swimming,Sprint,Gold
+512,Tom Lee,F,26,BRA,UKR,2004,Summer,Rio,Athletics,Sprint,Gold
+513,Carlos Gomez,F,25,UKR,UKR,2012,Winter,Beijing,Athletics,Sprint,
+514,Kate Novak,M,37,GER,CAN,2020,Summer,Athens,Rowing,100m freestyle,Gold
+515,Anna Schmidt,F,30,CAN,BRA,2012,Summer,Beijing,Judo,Sprint,Bronze
+516,Carlos Gomez,F,34,CHN,CHN,2020,Summer,Athens,Judo,Judo -60kg,Silver
+517,Kate Novak,F,34,FRA,CHN,2016,Summer,Rio,Cycling,Judo -60kg,Bronze
+518,Tom Lee,M,34,CHN,FRA,2004,Winter,Beijing,Swimming,100m freestyle,Bronze
+519,Liu Wei,M,18,UKR,USA,2020,Summer,Rio,Judo,Sprint,Gold
+520,Tom Lee,M,25,CHN,FRA,2012,Summer,Beijing,Rowing,Lightweight Boxing,
+521,Carlos Gomez,F,36,CHN,GER,2004,Winter,Tokyo,Judo,Sprint,Silver
+522,Anna Schmidt,F,23,USA,USA,2004,Summer,Rio,Cycling,Judo -60kg,
+523,Maria Ivanova,M,20,GER,UKR,2012,Summer,Rio,Boxing,Marathon,Silver
+524,Carlos Gomez,F,22,FRA,UKR,2000,Summer,London,Cycling,Double Sculls,
+525,Maria Ivanova,M,30,GER,CHN,2020,Summer,Rio,Athletics,Marathon,
+526,Kate Novak,M,32,USA,GER,2012,Summer,Athens,Athletics,Lightweight Boxing,
+527,Liu Wei,F,31,USA,BRA,2016,Summer,Beijing,Judo,Sprint,Bronze
+528,John Doe,F,33,CHN,GER,2008,Summer,Tokyo,Judo,100m freestyle,Silver
+529,Tom Lee,F,35,BRA,UKR,2012,Summer,Athens,Cycling,Sprint,
+530,Liu Wei,F,39,CAN,BRA,2004,Summer,Athens,Cycling,Lightweight Boxing,
+531,Carlos Gomez,M,39,CAN,GER,2004,Summer,Athens,Rowing,Lightweight Boxing,
+532,Maria Ivanova,M,28,CHN,GER,2012,Summer,Athens,Swimming,Double Sculls,Silver
+533,Tom Lee,M,20,CAN,BRA,2008,Summer,Tokyo,Rowing,Lightweight Boxing,
+534,Maria Ivanova,M,39,USA,UKR,2012,Summer,London,Athletics,Marathon,Gold
+535,Anna Schmidt,M,27,GER,GER,2008,Summer,Rio,Rowing,Double Sculls,Bronze
+536,Maria Ivanova,F,27,CAN,BRA,2008,Summer,Athens,Cycling,Sprint,Gold
+537,Anna Schmidt,M,38,FRA,CAN,2016,Summer,Rio,Rowing,Sprint,Silver
+538,Kate Novak,M,33,CHN,CAN,2020,Summer,Rio,Boxing,100m freestyle,
+539,Tom Lee,M,29,BRA,UKR,2004,Summer,Athens,Swimming,Lightweight Boxing,Gold
+540,Tom Lee,F,19,CHN,BRA,2004,Summer,London,Cycling,Lightweight Boxing,Bronze
+541,John Doe,F,26,UKR,CAN,2008,Summer,Rio,Judo,Judo -60kg,Bronze
+542,Carlos Gomez,F,20,CHN,BRA,2004,Winter,Beijing,Rowing,Double Sculls,Gold
+543,Anna Schmidt,F,32,USA,GER,2000,Winter,Rio,Cycling,Judo -60kg,Silver
+544,John Doe,M,20,GER,UKR,2008,Summer,Athens,Judo,Double Sculls,Bronze
+545,Maria Ivanova,M,36,GER,CAN,2004,Summer,Tokyo,Judo,Marathon,Gold
+546,Maria Ivanova,F,35,FRA,FRA,2000,Summer,Rio,Athletics,Double Sculls,
+547,John Doe,F,25,CAN,GER,2016,Summer,London,Athletics,Sprint,
+548,Tom Lee,M,34,USA,FRA,2004,Summer,Beijing,Cycling,100m freestyle,Gold
+549,Maria Ivanova,M,25,UKR,FRA,2000,Summer,Beijing,Cycling,Double Sculls,Gold
+550,Kate Novak,F,24,USA,USA,2012,Summer,Tokyo,Boxing,Double Sculls,Silver
+551,Kate Novak,F,24,CHN,USA,2020,Summer,Tokyo,Swimming,Double Sculls,Bronze
+552,John Doe,F,20,USA,UKR,2012,Summer,Rio,Swimming,100m freestyle,Silver
+553,Anna Schmidt,F,18,USA,CAN,2000,Summer,Athens,Cycling,Lightweight Boxing,Gold
+554,Anna Schmidt,M,21,FRA,CAN,2008,Summer,London,Athletics,100m freestyle,Bronze
+555,John Doe,M,22,UKR,CAN,2008,Summer,Beijing,Rowing,Lightweight Boxing,
+556,Anna Schmidt,M,18,CHN,BRA,2004,Summer,Tokyo,Boxing,Sprint,Silver
+557,Tom Lee,F,32,BRA,GER,2012,Summer,London,Swimming,100m freestyle,Silver
+558,Tom Lee,F,22,FRA,CAN,2008,Summer,Athens,Cycling,Lightweight Boxing,
+559,Anna Schmidt,M,30,BRA,GER,2008,Summer,Beijing,Athletics,Sprint,Bronze
+560,Kate Novak,M,25,FRA,UKR,2012,Summer,Beijing,Athletics,Sprint,Bronze
+561,Anna Schmidt,M,25,GER,FRA,2016,Summer,Athens,Athletics,Lightweight Boxing,Bronze
+562,Tom Lee,M,22,FRA,CAN,2008,Winter,Beijing,Rowing,Lightweight Boxing,
+563,Liu Wei,F,26,CAN,UKR,2020,Winter,Athens,Judo,Marathon,Bronze
+564,Carlos Gomez,M,18,USA,CAN,2000,Summer,Beijing,Rowing,Sprint,
+565,Maria Ivanova,M,21,GER,USA,2004,Summer,Rio,Athletics,Lightweight Boxing,Bronze
+566,Liu Wei,M,20,UKR,CHN,2008,Summer,Athens,Cycling,Sprint,Bronze
+567,Anna Schmidt,M,19,BRA,UKR,2020,Winter,London,Boxing,100m freestyle,Silver
+568,Kate Novak,M,25,FRA,CAN,2020,Summer,Rio,Rowing,Judo -60kg,Silver
+569,John Doe,M,26,USA,CHN,2008,Winter,London,Cycling,Judo -60kg,
+570,Anna Schmidt,M,19,UKR,UKR,2016,Summer,Beijing,Athletics,Double Sculls,Silver
+571,Kate Novak,F,31,CAN,BRA,2000,Summer,London,Boxing,Lightweight Boxing,Bronze
+572,Carlos Gomez,F,31,UKR,CAN,2004,Winter,Rio,Swimming,Lightweight Boxing,Gold
+573,Anna Schmidt,F,21,USA,BRA,2008,Summer,Athens,Swimming,Sprint,
+574,Tom Lee,F,23,CAN,USA,2004,Summer,Tokyo,Cycling,Double Sculls,Gold
+575,John Doe,M,28,UKR,CAN,2012,Summer,London,Boxing,Lightweight Boxing,
+576,Kate Novak,F,20,CAN,FRA,2020,Summer,Tokyo,Cycling,Sprint,Bronze
+577,Kate Novak,F,25,FRA,USA,2020,Summer,London,Boxing,Lightweight Boxing,Gold
+578,Kate Novak,M,20,FRA,CHN,2008,Summer,London,Boxing,Sprint,Bronze
+579,Carlos Gomez,M,31,USA,UKR,2008,Summer,Athens,Cycling,Lightweight Boxing,Silver
+580,Anna Schmidt,F,30,USA,GER,2012,Summer,Beijing,Boxing,Marathon,Silver
+581,Carlos Gomez,F,30,CAN,USA,2016,Winter,Rio,Rowing,Sprint,Silver
+582,Maria Ivanova,M,19,CHN,GER,2008,Summer,Rio,Athletics,Marathon,Gold
+583,Maria Ivanova,F,30,GER,GER,2020,Summer,Rio,Boxing,Marathon,
+584,Anna Schmidt,M,36,UKR,UKR,2004,Summer,Beijing,Rowing,Marathon,Gold
+585,Tom Lee,M,23,UKR,CHN,2000,Summer,Tokyo,Boxing,Marathon,Bronze
+586,Carlos Gomez,M,33,CHN,UKR,2004,Summer,Rio,Rowing,100m freestyle,Silver
+587,John Doe,M,19,CHN,CAN,2016,Winter,Tokyo,Cycling,Double Sculls,Bronze
+588,Kate Novak,F,25,CHN,USA,2000,Summer,Beijing,Swimming,Judo -60kg,Silver
+589,Kate Novak,M,34,BRA,GER,2004,Summer,Beijing,Judo,100m freestyle,Bronze
+590,Anna Schmidt,M,19,BRA,UKR,2004,Summer,Athens,Boxing,Lightweight Boxing,Bronze
+591,Tom Lee,F,27,CAN,UKR,2012,Summer,Rio,Judo,Lightweight Boxing,Bronze
+592,Maria Ivanova,M,33,BRA,UKR,2016,Winter,Athens,Boxing,Double Sculls,Gold
+593,Maria Ivanova,F,23,FRA,USA,2020,Summer,Rio,Cycling,Judo -60kg,Bronze
+594,Kate Novak,F,19,FRA,CHN,2012,Summer,Beijing,Cycling,Judo -60kg,Silver
+595,Anna Schmidt,F,19,USA,FRA,2000,Summer,Beijing,Rowing,Judo -60kg,Gold
+596,Carlos Gomez,M,30,CAN,UKR,2020,Summer,London,Boxing,Marathon,Silver
+597,Maria Ivanova,F,32,UKR,USA,2012,Summer,London,Cycling,100m freestyle,Silver
+598,Carlos Gomez,F,19,GER,GER,2016,Summer,Beijing,Cycling,Lightweight Boxing,Silver
+599,Tom Lee,M,24,USA,CAN,2008,Summer,Beijing,Boxing,100m freestyle,Bronze
+600,Maria Ivanova,F,20,UKR,FRA,2008,Summer,Tokyo,Rowing,100m freestyle,Silver
+601,Maria Ivanova,F,25,UKR,BRA,2000,Summer,Tokyo,Rowing,100m freestyle,Silver
+602,Liu Wei,F,31,CAN,FRA,2008,Winter,Athens,Rowing,Judo -60kg,Gold
+603,Maria Ivanova,F,39,CHN,FRA,2012,Winter,London,Rowing,Double Sculls,Bronze
+604,John Doe,F,24,CHN,USA,2000,Summer,London,Swimming,Double Sculls,Bronze
+605,Anna Schmidt,M,38,USA,BRA,2020,Summer,Beijing,Boxing,Judo -60kg,Silver
+606,Anna Schmidt,F,24,CHN,UKR,2016,Summer,Beijing,Swimming,Lightweight Boxing,Bronze
+607,Carlos Gomez,F,18,UKR,UKR,2000,Summer,Athens,Cycling,Lightweight Boxing,Bronze
+608,Tom Lee,M,34,CHN,FRA,2020,Summer,London,Swimming,Lightweight Boxing,Silver
+609,Maria Ivanova,M,26,BRA,USA,2000,Summer,Tokyo,Rowing,Double Sculls,Bronze
+610,John Doe,M,38,CHN,BRA,2004,Winter,Rio,Cycling,Double Sculls,Bronze
+611,Carlos Gomez,F,30,UKR,UKR,2004,Winter,Athens,Swimming,100m freestyle,Bronze
+612,Liu Wei,M,38,CAN,GER,2000,Summer,Rio,Swimming,Judo -60kg,Silver
+613,Carlos Gomez,F,36,USA,CHN,2008,Summer,Tokyo,Boxing,Marathon,Gold
+614,Carlos Gomez,F,38,GER,CHN,2004,Summer,Tokyo,Swimming,100m freestyle,Gold
+615,Maria Ivanova,M,36,CHN,UKR,2016,Summer,Rio,Cycling,Sprint,Bronze
+616,Liu Wei,M,39,FRA,BRA,2020,Summer,Athens,Rowing,Double Sculls,
+617,Carlos Gomez,F,34,FRA,CAN,2012,Summer,Rio,Boxing,100m freestyle,Silver
+618,John Doe,M,27,UKR,UKR,2004,Winter,Athens,Swimming,Judo -60kg,Gold
+619,John Doe,F,27,GER,CAN,2000,Summer,Athens,Boxing,Sprint,
+620,Anna Schmidt,M,21,GER,CAN,2008,Summer,Beijing,Judo,100m freestyle,
+621,Liu Wei,M,25,BRA,BRA,2012,Summer,London,Boxing,Judo -60kg,
+622,Liu Wei,M,39,GER,CAN,2020,Summer,London,Rowing,Judo -60kg,Bronze
+623,Anna Schmidt,F,37,FRA,GER,2020,Summer,Tokyo,Judo,Double Sculls,
+624,Carlos Gomez,M,37,CAN,BRA,2004,Winter,Beijing,Judo,Marathon,Gold
+625,Liu Wei,F,35,UKR,UKR,2020,Summer,London,Boxing,100m freestyle,Gold
+626,John Doe,F,31,UKR,FRA,2020,Summer,Athens,Cycling,Judo -60kg,Gold
+627,John Doe,F,35,CHN,GER,2008,Summer,Athens,Rowing,Lightweight Boxing,Bronze
+628,Maria Ivanova,F,31,CHN,USA,2008,Summer,Rio,Cycling,Judo -60kg,Gold
+629,Liu Wei,M,37,CHN,CHN,2008,Winter,Rio,Rowing,Marathon,Silver
+630,Carlos Gomez,F,38,FRA,UKR,2000,Summer,Athens,Rowing,Judo -60kg,Silver
+631,Anna Schmidt,F,32,FRA,UKR,2020,Winter,Athens,Cycling,Double Sculls,Silver
+632,Anna Schmidt,M,39,FRA,UKR,2020,Summer,Rio,Athletics,100m freestyle,
+633,Carlos Gomez,F,21,FRA,GER,2020,Summer,London,Judo,Double Sculls,Gold
+634,Tom Lee,M,30,FRA,USA,2016,Summer,Tokyo,Boxing,100m freestyle,Silver
+635,Kate Novak,F,25,FRA,FRA,2008,Summer,Rio,Cycling,Sprint,
+636,Maria Ivanova,M,35,CAN,BRA,2012,Summer,London,Cycling,100m freestyle,Gold
+637,Anna Schmidt,F,29,FRA,USA,2004,Summer,London,Boxing,Sprint,Bronze
+638,Liu Wei,M,31,GER,GER,2012,Summer,London,Judo,Double Sculls,
+639,Maria Ivanova,F,19,GER,UKR,2000,Summer,Beijing,Boxing,Lightweight Boxing,
+640,Liu Wei,F,35,BRA,CHN,2000,Summer,Beijing,Rowing,Marathon,
+641,Tom Lee,M,19,CAN,UKR,2020,Summer,London,Athletics,Lightweight Boxing,Silver
+642,John Doe,M,28,CHN,BRA,2012,Summer,Athens,Rowing,Sprint,Bronze
+643,Maria Ivanova,M,26,USA,CAN,2020,Summer,Beijing,Athletics,Judo -60kg,Gold
+644,Anna Schmidt,M,29,FRA,CHN,2016,Summer,Rio,Boxing,Judo -60kg,Silver
+645,Maria Ivanova,F,34,BRA,UKR,2000,Summer,Beijing,Rowing,Lightweight Boxing,Gold
+646,Maria Ivanova,F,32,USA,FRA,2000,Summer,Athens,Judo,Judo -60kg,Silver
+647,Maria Ivanova,M,34,GER,CHN,2012,Summer,Tokyo,Rowing,Sprint,
+648,Kate Novak,F,35,BRA,CAN,2000,Summer,Beijing,Cycling,Double Sculls,Silver
+649,Maria Ivanova,M,39,BRA,USA,2016,Summer,London,Athletics,Marathon,Bronze
+650,Liu Wei,M,23,UKR,GER,2016,Winter,London,Athletics,100m freestyle,Silver
+651,John Doe,F,34,GER,UKR,2016,Summer,London,Judo,Sprint,Silver
+652,Tom Lee,F,35,GER,BRA,2004,Summer,Tokyo,Athletics,Sprint,
+653,Carlos Gomez,F,25,CAN,USA,2016,Summer,Athens,Athletics,100m freestyle,Silver
+654,Maria Ivanova,F,26,BRA,UKR,2016,Summer,Rio,Judo,100m freestyle,Bronze
+655,Anna Schmidt,F,23,FRA,USA,2004,Winter,Athens,Rowing,Marathon,Silver
+656,Maria Ivanova,F,22,GER,BRA,2020,Summer,Tokyo,Boxing,Marathon,Gold
+657,Anna Schmidt,F,29,BRA,UKR,2008,Winter,London,Rowing,Marathon,Silver
+658,Liu Wei,M,28,CAN,CAN,2000,Winter,Athens,Cycling,Judo -60kg,
+659,Anna Schmidt,M,18,FRA,CAN,2016,Summer,Rio,Cycling,Sprint,Gold
+660,Carlos Gomez,M,28,CAN,BRA,2000,Summer,London,Athletics,Double Sculls,Gold
+661,John Doe,M,36,UKR,CHN,2012,Summer,Rio,Cycling,100m freestyle,Gold
+662,Anna Schmidt,M,26,FRA,BRA,2000,Summer,Beijing,Boxing,Sprint,
+663,Anna Schmidt,F,19,BRA,CHN,2020,Summer,Rio,Athletics,Sprint,Bronze
+664,John Doe,M,29,GER,UKR,2004,Summer,London,Cycling,Marathon,Bronze
+665,Carlos Gomez,M,21,GER,CHN,2000,Summer,Beijing,Swimming,Marathon,Silver
+666,Maria Ivanova,M,21,BRA,UKR,2000,Summer,London,Swimming,Sprint,
+667,Anna Schmidt,M,35,BRA,UKR,2000,Summer,London,Swimming,Marathon,
+668,John Doe,M,32,BRA,FRA,2008,Winter,Beijing,Swimming,Judo -60kg,
+669,Liu Wei,M,36,CHN,GER,2008,Summer,Rio,Rowing,100m freestyle,
+670,John Doe,M,30,FRA,UKR,2012,Winter,Tokyo,Swimming,Sprint,Bronze
+671,Liu Wei,F,36,GER,CHN,2004,Summer,Tokyo,Athletics,100m freestyle,Silver
+672,Carlos Gomez,F,34,FRA,GER,2000,Summer,Tokyo,Judo,Judo -60kg,
+673,Maria Ivanova,M,23,CAN,GER,2000,Summer,Tokyo,Rowing,Marathon,
+674,John Doe,F,33,GER,UKR,2000,Summer,Athens,Judo,Lightweight Boxing,Gold
+675,Tom Lee,F,29,CHN,BRA,2000,Summer,Tokyo,Athletics,Judo -60kg,Gold
+676,Tom Lee,F,36,BRA,BRA,2008,Summer,Beijing,Athletics,Lightweight Boxing,
+677,Kate Novak,F,22,UKR,CAN,2020,Winter,Tokyo,Boxing,100m freestyle,Silver
+678,Anna Schmidt,M,34,BRA,GER,2020,Summer,London,Rowing,Sprint,
+679,Carlos Gomez,F,18,BRA,UKR,2012,Summer,Tokyo,Judo,Marathon,Silver
+680,John Doe,F,27,CHN,FRA,2016,Winter,Rio,Swimming,Judo -60kg,Gold
+681,Tom Lee,F,32,FRA,BRA,2004,Summer,Beijing,Athletics,Marathon,Gold
+682,Anna Schmidt,M,38,GER,FRA,2020,Summer,Beijing,Swimming,Lightweight Boxing,Gold
+683,Tom Lee,M,38,BRA,UKR,2000,Summer,Athens,Judo,Lightweight Boxing,Gold
+684,John Doe,M,28,GER,UKR,2020,Winter,London,Rowing,Double Sculls,Silver
+685,Liu Wei,M,30,USA,GER,2012,Summer,Beijing,Cycling,Sprint,Bronze
+686,John Doe,M,22,CAN,FRA,2016,Summer,Rio,Cycling,Lightweight Boxing,
+687,Kate Novak,M,18,FRA,CAN,2020,Summer,Tokyo,Athletics,Sprint,Silver
+688,John Doe,M,29,GER,GER,2012,Winter,Beijing,Boxing,Double Sculls,Bronze
+689,John Doe,F,28,UKR,USA,2008,Summer,Rio,Swimming,Judo -60kg,Bronze
+690,Kate Novak,F,34,CAN,FRA,2016,Winter,Tokyo,Athletics,Double Sculls,Bronze
+691,Carlos Gomez,F,21,UKR,BRA,2012,Summer,Athens,Boxing,Sprint,Bronze
+692,John Doe,M,32,BRA,BRA,2020,Summer,Beijing,Swimming,Lightweight Boxing,Gold
+693,Kate Novak,M,26,CAN,BRA,2008,Summer,Beijing,Judo,100m freestyle,Gold
+694,Anna Schmidt,M,38,GER,CHN,2012,Summer,Rio,Cycling,Sprint,Gold
+695,Liu Wei,M,37,CAN,UKR,2012,Winter,London,Boxing,Marathon,Gold
+696,Liu Wei,M,36,BRA,GER,2020,Summer,Athens,Swimming,100m freestyle,Bronze
+697,John Doe,F,36,CHN,BRA,2016,Summer,London,Athletics,Sprint,Gold
+698,Carlos Gomez,F,29,FRA,USA,2008,Summer,Beijing,Swimming,Marathon,
+699,Carlos Gomez,M,22,UKR,BRA,2000,Summer,London,Athletics,Double Sculls,
+700,Anna Schmidt,M,27,BRA,CAN,2004,Summer,Tokyo,Cycling,100m freestyle,
+701,John Doe,M,34,CHN,UKR,2016,Summer,Athens,Cycling,Sprint,
+702,Liu Wei,M,22,CAN,FRA,2008,Summer,London,Swimming,Judo -60kg,Silver
+703,Carlos Gomez,F,39,CAN,UKR,2012,Summer,Tokyo,Swimming,Double Sculls,Bronze
+704,John Doe,M,33,BRA,FRA,2008,Summer,Rio,Athletics,Marathon,Gold
+705,Tom Lee,M,24,GER,FRA,2004,Summer,London,Athletics,Judo -60kg,
+706,Carlos Gomez,M,26,CAN,GER,2020,Summer,Athens,Boxing,Lightweight Boxing,
+707,Kate Novak,M,20,GER,CHN,2004,Summer,Tokyo,Boxing,Double Sculls,
+708,Tom Lee,F,32,GER,FRA,2000,Summer,London,Boxing,Double Sculls,Silver
+709,Carlos Gomez,M,33,FRA,FRA,2000,Winter,Rio,Swimming,Sprint,
+710,Liu Wei,M,35,GER,GER,2004,Summer,London,Rowing,Sprint,Gold
+711,Maria Ivanova,F,31,USA,BRA,2016,Winter,Tokyo,Rowing,Marathon,Gold
+712,Tom Lee,F,20,FRA,CAN,2016,Winter,London,Rowing,Double Sculls,
+713,Anna Schmidt,F,29,CHN,USA,2012,Summer,Athens,Rowing,Sprint,Silver
+714,Anna Schmidt,M,26,CHN,GER,2000,Summer,Beijing,Boxing,Lightweight Boxing,
+715,Liu Wei,M,24,CAN,CHN,2012,Winter,Tokyo,Swimming,Sprint,Gold
+716,Carlos Gomez,F,26,CAN,GER,2000,Summer,Tokyo,Rowing,Double Sculls,
+717,John Doe,F,30,GER,UKR,2004,Summer,Tokyo,Cycling,100m freestyle,Silver
+718,Carlos Gomez,F,35,FRA,BRA,2016,Summer,Tokyo,Judo,Judo -60kg,
+719,Liu Wei,F,22,FRA,BRA,2016,Summer,London,Cycling,Double Sculls,
+720,Anna Schmidt,F,30,USA,FRA,2004,Summer,Athens,Swimming,Lightweight Boxing,
+721,Carlos Gomez,F,21,GER,BRA,2012,Summer,Rio,Swimming,Double Sculls,Silver
+722,Anna Schmidt,M,19,USA,BRA,2012,Summer,Athens,Judo,Lightweight Boxing,
+723,Tom Lee,M,33,GER,BRA,2008,Summer,Tokyo,Athletics,Double Sculls,Gold
+724,John Doe,M,26,UKR,BRA,2000,Summer,London,Athletics,Judo -60kg,Gold
+725,Tom Lee,F,26,UKR,USA,2012,Summer,London,Athletics,Judo -60kg,Silver
+726,Anna Schmidt,F,23,BRA,CHN,2004,Summer,Tokyo,Boxing,Lightweight Boxing,
+727,Anna Schmidt,F,28,GER,FRA,2012,Winter,London,Athletics,Double Sculls,Silver
+728,Maria Ivanova,F,39,FRA,BRA,2016,Summer,Tokyo,Boxing,Judo -60kg,
+729,Maria Ivanova,F,39,CAN,FRA,2000,Summer,Athens,Boxing,Marathon,Bronze
+730,Tom Lee,F,18,CHN,CHN,2020,Summer,Beijing,Athletics,Double Sculls,Gold
+731,Kate Novak,M,21,BRA,CAN,2008,Summer,London,Athletics,Judo -60kg,
+732,Tom Lee,M,30,CAN,BRA,2000,Summer,Tokyo,Judo,100m freestyle,Gold
+733,Maria Ivanova,F,30,UKR,FRA,2016,Winter,Tokyo,Rowing,100m freestyle,
+734,Anna Schmidt,M,30,GER,GER,2016,Summer,London,Judo,Marathon,Silver
+735,Liu Wei,F,19,BRA,FRA,2016,Winter,Rio,Boxing,Judo -60kg,Bronze
+736,Tom Lee,M,26,GER,BRA,2016,Summer,Tokyo,Judo,100m freestyle,Silver
+737,Anna Schmidt,F,25,UKR,UKR,2004,Summer,London,Boxing,Double Sculls,Gold
+738,Liu Wei,F,24,BRA,USA,2008,Summer,Tokyo,Swimming,Sprint,Silver
+739,Liu Wei,M,21,UKR,GER,2020,Winter,Rio,Boxing,Judo -60kg,Gold
+740,Maria Ivanova,M,35,USA,GER,2016,Summer,Beijing,Boxing,Marathon,Gold
+741,Tom Lee,F,20,UKR,UKR,2016,Summer,Rio,Judo,Judo -60kg,Gold
+742,Carlos Gomez,F,23,FRA,BRA,2012,Winter,Athens,Rowing,Lightweight Boxing,Silver
+743,John Doe,M,29,FRA,USA,2008,Summer,London,Swimming,Lightweight Boxing,
+744,Maria Ivanova,M,29,GER,GER,2000,Summer,Rio,Cycling,100m freestyle,Bronze
+745,Maria Ivanova,F,38,CHN,USA,2008,Winter,Beijing,Cycling,Lightweight Boxing,
+746,Carlos Gomez,M,25,UKR,GER,2008,Summer,Tokyo,Rowing,Marathon,Bronze
+747,John Doe,F,39,CAN,BRA,2020,Summer,London,Cycling,100m freestyle,Bronze
+748,Anna Schmidt,F,39,FRA,CAN,2008,Summer,Rio,Swimming,Marathon,Bronze
+749,Kate Novak,F,18,CHN,GER,2020,Summer,Beijing,Athletics,Double Sculls,Silver
+750,Tom Lee,F,21,USA,CAN,2016,Summer,Rio,Swimming,Marathon,Bronze
+751,Kate Novak,M,38,BRA,GER,2016,Summer,Athens,Judo,Lightweight Boxing,Gold
+752,Anna Schmidt,M,28,BRA,CHN,2004,Summer,London,Boxing,Double Sculls,
+753,Maria Ivanova,M,20,FRA,BRA,2020,Summer,Tokyo,Boxing,Lightweight Boxing,
+754,John Doe,M,30,CHN,UKR,2020,Winter,Beijing,Judo,Marathon,Gold
+755,Maria Ivanova,M,34,FRA,CAN,2000,Winter,Rio,Judo,Lightweight Boxing,
+756,Liu Wei,M,39,BRA,UKR,2012,Summer,London,Boxing,Lightweight Boxing,Gold
+757,Maria Ivanova,M,39,UKR,BRA,2008,Summer,Rio,Rowing,Lightweight Boxing,Gold
+758,Maria Ivanova,F,27,CHN,FRA,2000,Winter,London,Athletics,Judo -60kg,Gold
+759,Anna Schmidt,M,38,GER,UKR,2020,Summer,Athens,Athletics,Double Sculls,
+760,Anna Schmidt,M,29,UKR,BRA,2000,Summer,Rio,Athletics,Double Sculls,
+761,Anna Schmidt,F,32,UKR,UKR,2004,Winter,Athens,Judo,Double Sculls,
+762,Kate Novak,M,38,UKR,CAN,2012,Summer,Beijing,Boxing,Marathon,Gold
+763,Liu Wei,M,27,GER,CHN,2020,Summer,Athens,Rowing,Sprint,Bronze
+764,Anna Schmidt,F,31,USA,UKR,2020,Summer,London,Boxing,Marathon,Bronze
+765,John Doe,M,30,CAN,CAN,2008,Summer,Beijing,Boxing,Double Sculls,Gold
+766,Kate Novak,M,22,FRA,GER,2012,Summer,Rio,Rowing,100m freestyle,Bronze
+767,Carlos Gomez,M,23,BRA,BRA,2004,Summer,Rio,Swimming,Lightweight Boxing,Gold
+768,John Doe,F,19,FRA,USA,2016,Summer,London,Rowing,Lightweight Boxing,Gold
+769,Tom Lee,M,39,CHN,FRA,2000,Summer,Tokyo,Swimming,Sprint,Silver
+770,Tom Lee,M,34,USA,USA,2008,Summer,Tokyo,Cycling,100m freestyle,Bronze
+771,John Doe,F,21,CHN,BRA,2020,Summer,Rio,Swimming,Judo -60kg,Gold
+772,Anna Schmidt,M,31,FRA,CHN,2016,Summer,London,Athletics,Marathon,Gold
+773,Carlos Gomez,F,27,BRA,UKR,2004,Summer,Tokyo,Athletics,Judo -60kg,Gold
+774,Carlos Gomez,F,20,GER,CHN,2012,Winter,Athens,Rowing,100m freestyle,Gold
+775,Kate Novak,M,20,FRA,USA,2000,Summer,Rio,Athletics,Sprint,Gold
+776,Carlos Gomez,F,32,UKR,FRA,2008,Summer,Athens,Athletics,100m freestyle,Silver
+777,Tom Lee,F,23,FRA,CAN,2020,Summer,London,Cycling,Sprint,Bronze
+778,Liu Wei,M,34,UKR,FRA,2020,Summer,Athens,Athletics,Judo -60kg,Silver
+779,Anna Schmidt,F,29,GER,BRA,2016,Summer,Tokyo,Judo,Judo -60kg,
+780,Carlos Gomez,F,39,FRA,BRA,2016,Summer,Tokyo,Judo,100m freestyle,Bronze
+781,Kate Novak,M,37,USA,CHN,2000,Summer,Beijing,Judo,100m freestyle,Gold
+782,Tom Lee,M,28,USA,CAN,2012,Summer,Rio,Swimming,Lightweight Boxing,Gold
+783,Liu Wei,M,21,CHN,CHN,2004,Winter,London,Rowing,Sprint,
+784,Maria Ivanova,F,23,GER,UKR,2012,Summer,Rio,Rowing,Lightweight Boxing,Gold
+785,Maria Ivanova,M,18,USA,GER,2012,Summer,Athens,Boxing,Marathon,Gold
+786,Liu Wei,F,37,FRA,CAN,2012,Summer,London,Cycling,Marathon,Gold
+787,Tom Lee,F,33,GER,GER,2000,Summer,London,Judo,100m freestyle,Bronze
+788,Kate Novak,F,32,BRA,FRA,2000,Winter,Tokyo,Judo,Judo -60kg,Bronze
+789,Liu Wei,F,34,UKR,UKR,2004,Summer,Athens,Athletics,Marathon,
+790,Anna Schmidt,F,25,FRA,GER,2012,Summer,Tokyo,Judo,Marathon,
+791,Anna Schmidt,F,29,UKR,USA,2000,Summer,Tokyo,Athletics,Lightweight Boxing,Silver
+792,Maria Ivanova,F,39,UKR,FRA,2004,Summer,Beijing,Athletics,Lightweight Boxing,Silver
+793,Carlos Gomez,M,38,GER,GER,2020,Summer,Tokyo,Boxing,Marathon,Silver
+794,Kate Novak,M,27,GER,UKR,2004,Summer,Rio,Swimming,100m freestyle,Gold
+795,Maria Ivanova,F,32,CHN,GER,2012,Winter,London,Athletics,Lightweight Boxing,Gold
+796,Carlos Gomez,F,26,UKR,BRA,2008,Summer,Tokyo,Athletics,Marathon,Gold
+797,Carlos Gomez,M,19,CHN,CHN,2012,Summer,Rio,Rowing,Judo -60kg,Gold
+798,Anna Schmidt,F,22,UKR,USA,2008,Summer,Athens,Boxing,Lightweight Boxing,Gold
+799,Tom Lee,M,23,CHN,BRA,2004,Summer,London,Athletics,Marathon,Silver
+800,John Doe,M,24,CHN,BRA,2020,Summer,Athens,Cycling,Sprint,
+801,Tom Lee,M,38,BRA,UKR,2020,Summer,Rio,Swimming,Lightweight Boxing,Bronze
+802,John Doe,F,18,CHN,CHN,2000,Summer,Athens,Cycling,Sprint,
+803,Liu Wei,F,24,GER,CHN,2020,Summer,Athens,Judo,Lightweight Boxing,Silver
+804,Anna Schmidt,M,37,CHN,CAN,2016,Winter,Athens,Swimming,Lightweight Boxing,Silver
+805,Carlos Gomez,M,29,UKR,FRA,2004,Summer,Tokyo,Judo,Double Sculls,Silver
+806,Kate Novak,M,33,CHN,USA,2000,Winter,Tokyo,Rowing,Double Sculls,Gold
+807,John Doe,M,33,USA,FRA,2020,Winter,Tokyo,Athletics,Sprint,Gold
+808,Tom Lee,M,28,CAN,UKR,2004,Summer,London,Boxing,100m freestyle,
+809,Carlos Gomez,F,38,UKR,USA,2012,Summer,Rio,Cycling,Marathon,
+810,John Doe,M,21,USA,CAN,2020,Summer,Tokyo,Judo,100m freestyle,Gold
+811,John Doe,F,30,UKR,GER,2008,Winter,Athens,Athletics,100m freestyle,Gold
+812,John Doe,M,24,GER,BRA,2004,Summer,Athens,Cycling,Double Sculls,Silver
+813,Kate Novak,F,21,CAN,USA,2000,Summer,Athens,Cycling,Marathon,Gold
+814,Anna Schmidt,F,32,CAN,FRA,2012,Winter,Athens,Rowing,Double Sculls,Silver
+815,Kate Novak,F,36,GER,BRA,2016,Summer,Beijing,Rowing,Double Sculls,Gold
+816,Maria Ivanova,F,26,CAN,UKR,2012,Summer,London,Judo,Double Sculls,Silver
+817,Carlos Gomez,F,28,GER,FRA,2020,Summer,Rio,Athletics,Judo -60kg,Silver
+818,Anna Schmidt,F,25,USA,GER,2008,Summer,Rio,Boxing,100m freestyle,Silver
+819,Anna Schmidt,M,18,BRA,UKR,2012,Summer,Tokyo,Judo,100m freestyle,Gold
+820,Anna Schmidt,F,25,UKR,GER,2016,Summer,Beijing,Cycling,100m freestyle,Silver
+821,Tom Lee,M,30,GER,GER,2000,Summer,Rio,Cycling,Judo -60kg,
+822,Anna Schmidt,F,39,UKR,BRA,2004,Winter,London,Swimming,Lightweight Boxing,Silver
+823,Kate Novak,F,21,USA,UKR,2008,Summer,Athens,Athletics,Sprint,
+824,Anna Schmidt,M,25,BRA,UKR,2016,Winter,Tokyo,Swimming,Sprint,
+825,Liu Wei,F,20,USA,USA,2020,Winter,London,Rowing,Judo -60kg,
+826,Carlos Gomez,M,26,CAN,FRA,2020,Summer,Rio,Boxing,100m freestyle,
+827,Anna Schmidt,M,19,UKR,UKR,2020,Summer,Beijing,Judo,Sprint,Bronze
+828,Carlos Gomez,M,19,FRA,USA,2008,Summer,Tokyo,Cycling,Judo -60kg,
+829,Liu Wei,M,30,BRA,CHN,2012,Summer,Rio,Athletics,Double Sculls,Gold
+830,Liu Wei,F,32,CAN,CHN,2008,Summer,Tokyo,Cycling,Marathon,Silver
+831,Carlos Gomez,F,29,BRA,CHN,2020,Summer,Rio,Rowing,Sprint,
+832,John Doe,M,21,CAN,CAN,2016,Summer,Athens,Swimming,Marathon,
+833,Maria Ivanova,F,25,USA,UKR,2004,Winter,Beijing,Swimming,100m freestyle,
+834,Tom Lee,F,26,GER,CAN,2004,Summer,Athens,Judo,Sprint,
+835,John Doe,M,22,UKR,FRA,2008,Summer,Rio,Athletics,Judo -60kg,
+836,John Doe,F,37,CHN,UKR,2020,Summer,London,Rowing,Lightweight Boxing,Bronze
+837,Kate Novak,M,35,CHN,USA,2000,Winter,Athens,Athletics,Sprint,
+838,Tom Lee,M,28,USA,CAN,2008,Summer,London,Judo,Sprint,Bronze
+839,Tom Lee,F,32,UKR,CAN,2020,Winter,Rio,Rowing,Sprint,
+840,John Doe,F,39,UKR,FRA,2012,Summer,Beijing,Rowing,Sprint,
+841,Anna Schmidt,F,26,USA,CAN,2004,Summer,London,Swimming,Judo -60kg,
+842,Kate Novak,M,34,UKR,GER,2004,Summer,Rio,Swimming,Judo -60kg,Bronze
+843,Kate Novak,M,29,GER,USA,2004,Summer,London,Swimming,Lightweight Boxing,Silver
+844,Liu Wei,F,24,USA,CHN,2000,Summer,Athens,Cycling,Judo -60kg,Gold
+845,Tom Lee,F,27,GER,USA,2020,Summer,Rio,Boxing,Judo -60kg,
+846,John Doe,F,27,UKR,GER,2020,Summer,Athens,Swimming,100m freestyle,Bronze
+847,Liu Wei,F,30,USA,FRA,2020,Winter,Tokyo,Boxing,100m freestyle,Silver
+848,Carlos Gomez,M,36,UKR,FRA,2020,Summer,Rio,Boxing,Marathon,Gold
+849,Maria Ivanova,F,28,USA,UKR,2000,Winter,London,Athletics,Lightweight Boxing,
+850,Kate Novak,M,30,UKR,USA,2016,Summer,Tokyo,Judo,100m freestyle,
+851,Carlos Gomez,M,38,GER,FRA,2008,Summer,Athens,Cycling,Lightweight Boxing,
+852,Carlos Gomez,F,25,FRA,CAN,2008,Summer,Athens,Boxing,Lightweight Boxing,Bronze
+853,Anna Schmidt,F,25,GER,FRA,2020,Summer,London,Cycling,Sprint,Silver
+854,Maria Ivanova,F,21,UKR,FRA,2012,Summer,Tokyo,Athletics,Double Sculls,Silver
+855,Carlos Gomez,M,32,USA,FRA,2004,Summer,Beijing,Swimming,Double Sculls,Gold
+856,Carlos Gomez,F,28,CHN,FRA,2000,Summer,London,Rowing,Double Sculls,
+857,Maria Ivanova,F,28,GER,CHN,2012,Summer,Athens,Boxing,Lightweight Boxing,Gold
+858,Maria Ivanova,M,18,GER,CHN,2012,Summer,Rio,Judo,Sprint,Bronze
+859,Carlos Gomez,F,34,CAN,UKR,2020,Winter,Tokyo,Rowing,Marathon,Bronze
+860,Maria Ivanova,M,32,CHN,FRA,2000,Summer,Beijing,Athletics,Marathon,Bronze
+861,Carlos Gomez,F,37,UKR,USA,2008,Summer,Rio,Cycling,Double Sculls,
+862,Carlos Gomez,M,23,FRA,GER,2004,Summer,Tokyo,Swimming,Marathon,Gold
+863,Anna Schmidt,F,39,USA,UKR,2008,Summer,London,Cycling,Sprint,
+864,John Doe,F,32,CAN,USA,2012,Summer,London,Judo,Double Sculls,Gold
+865,Carlos Gomez,M,26,UKR,FRA,2004,Summer,Tokyo,Boxing,Sprint,Gold
+866,Liu Wei,M,31,BRA,BRA,2016,Summer,Beijing,Judo,Marathon,Silver
+867,Kate Novak,F,35,FRA,FRA,2012,Summer,Tokyo,Cycling,Double Sculls,Gold
+868,Tom Lee,M,34,GER,CHN,2008,Summer,Rio,Cycling,Sprint,
+869,John Doe,M,35,BRA,GER,2008,Summer,Rio,Rowing,Judo -60kg,Bronze
+870,John Doe,M,22,GER,CAN,2020,Summer,London,Judo,Judo -60kg,Gold
+871,John Doe,M,37,GER,GER,2008,Winter,Tokyo,Judo,Sprint,Gold
+872,Anna Schmidt,F,37,BRA,CAN,2000,Summer,London,Judo,Sprint,Bronze
+873,Carlos Gomez,F,26,FRA,GER,2012,Summer,Beijing,Swimming,100m freestyle,
+874,Anna Schmidt,M,28,BRA,CHN,2004,Winter,Rio,Cycling,100m freestyle,Silver
+875,Carlos Gomez,M,39,UKR,CAN,2008,Winter,Athens,Athletics,Lightweight Boxing,Bronze
+876,Anna Schmidt,M,18,CAN,USA,2020,Summer,Athens,Swimming,Double Sculls,
+877,Anna Schmidt,M,35,CAN,CAN,2020,Summer,Tokyo,Swimming,Lightweight Boxing,Bronze
+878,Kate Novak,F,23,BRA,UKR,2008,Winter,Tokyo,Swimming,Lightweight Boxing,Gold
+879,Liu Wei,F,19,UKR,USA,2000,Summer,Athens,Rowing,Marathon,Bronze
+880,Anna Schmidt,M,32,CAN,UKR,2020,Winter,Tokyo,Athletics,Judo -60kg,Bronze
+881,Kate Novak,M,38,UKR,FRA,2004,Summer,Rio,Judo,Marathon,Bronze
+882,Maria Ivanova,M,31,UKR,GER,2012,Summer,Beijing,Rowing,Double Sculls,Bronze
+883,Liu Wei,F,22,GER,USA,2016,Summer,Beijing,Cycling,Sprint,
+884,Anna Schmidt,M,23,CAN,GER,2000,Summer,London,Boxing,100m freestyle,Gold
+885,Tom Lee,F,23,CAN,FRA,2020,Winter,Rio,Rowing,Double Sculls,
+886,John Doe,M,39,GER,BRA,2012,Winter,Tokyo,Boxing,Sprint,Bronze
+887,Maria Ivanova,F,35,BRA,GER,2016,Summer,Tokyo,Cycling,Double Sculls,Bronze
+888,Maria Ivanova,M,31,GER,FRA,2008,Summer,London,Athletics,Sprint,Gold
+889,Kate Novak,F,27,CAN,GER,2008,Winter,London,Boxing,100m freestyle,Silver
+890,Maria Ivanova,M,31,CAN,FRA,2004,Summer,Tokyo,Swimming,Sprint,
+891,Liu Wei,M,30,FRA,UKR,2016,Summer,Tokyo,Rowing,Lightweight Boxing,Bronze
+892,Anna Schmidt,M,20,BRA,FRA,2008,Summer,Rio,Boxing,Double Sculls,Gold
+893,Anna Schmidt,F,23,GER,CAN,2008,Summer,London,Cycling,100m freestyle,Bronze
+894,Tom Lee,M,25,USA,BRA,2020,Summer,Rio,Swimming,Sprint,Gold
+895,John Doe,F,29,USA,GER,2004,Summer,Tokyo,Boxing,Lightweight Boxing,
+896,Kate Novak,F,30,BRA,FRA,2012,Summer,Athens,Cycling,Lightweight Boxing,
+897,John Doe,M,28,GER,FRA,2008,Winter,Athens,Athletics,Judo -60kg,Gold
+898,Maria Ivanova,M,29,GER,GER,2000,Summer,Tokyo,Cycling,Lightweight Boxing,
+899,Tom Lee,M,18,UKR,BRA,2000,Summer,London,Athletics,Marathon,
+900,John Doe,F,34,CAN,BRA,2012,Summer,Athens,Swimming,100m freestyle,Silver
+901,Liu Wei,M,33,CHN,FRA,2016,Summer,London,Cycling,100m freestyle,Bronze
+902,Anna Schmidt,F,28,FRA,USA,2004,Summer,Athens,Judo,100m freestyle,Silver
+903,Maria Ivanova,F,30,BRA,UKR,2020,Summer,London,Rowing,Sprint,Bronze
+904,Tom Lee,M,35,CHN,BRA,2000,Summer,Athens,Judo,Double Sculls,Silver
+905,John Doe,M,28,CHN,BRA,2000,Summer,London,Judo,Sprint,Silver
+906,Kate Novak,M,29,BRA,CHN,2012,Summer,Rio,Judo,Marathon,Silver
+907,Liu Wei,M,23,GER,CAN,2016,Summer,London,Rowing,Double Sculls,Gold
+908,Liu Wei,M,26,BRA,BRA,2016,Summer,Rio,Judo,Lightweight Boxing,
+909,John Doe,M,33,CHN,UKR,2012,Summer,Rio,Athletics,Sprint,Silver
+910,Anna Schmidt,F,21,CAN,CAN,2000,Summer,Tokyo,Cycling,Double Sculls,Silver
+911,John Doe,F,20,FRA,CAN,2004,Summer,Rio,Swimming,Lightweight Boxing,
+912,Maria Ivanova,F,33,FRA,GER,2000,Winter,Beijing,Judo,Double Sculls,Silver
+913,John Doe,M,29,CAN,GER,2016,Winter,Rio,Judo,Lightweight Boxing,Bronze
+914,Liu Wei,F,28,CAN,GER,2020,Summer,London,Swimming,Double Sculls,
+915,Tom Lee,F,22,GER,GER,2000,Summer,Rio,Swimming,Sprint,
+916,John Doe,F,35,USA,CHN,2004,Summer,London,Judo,Sprint,Gold
+917,Anna Schmidt,F,36,BRA,BRA,2008,Winter,London,Athletics,Marathon,Silver
+918,Tom Lee,F,23,FRA,GER,2000,Summer,Beijing,Swimming,Judo -60kg,
+919,Kate Novak,M,39,CAN,FRA,2012,Summer,Rio,Cycling,100m freestyle,Silver
+920,Carlos Gomez,M,35,BRA,USA,2008,Summer,Rio,Cycling,Sprint,Silver
+921,John Doe,F,23,FRA,GER,2012,Summer,Athens,Athletics,Sprint,Gold
+922,Anna Schmidt,F,21,CAN,BRA,2012,Winter,Athens,Rowing,Lightweight Boxing,Gold
+923,Tom Lee,F,29,FRA,GER,2012,Summer,Tokyo,Boxing,Judo -60kg,Bronze
+924,Anna Schmidt,M,36,GER,CHN,2000,Summer,London,Athletics,Sprint,
+925,Kate Novak,M,19,USA,UKR,2016,Summer,Beijing,Judo,Double Sculls,
+926,Liu Wei,F,34,USA,UKR,2008,Summer,Athens,Boxing,Judo -60kg,
+927,Anna Schmidt,M,28,CAN,BRA,2004,Summer,Rio,Judo,100m freestyle,Gold
+928,Tom Lee,M,28,FRA,FRA,2016,Summer,Tokyo,Cycling,Double Sculls,Gold
+929,Anna Schmidt,F,38,GER,UKR,2000,Winter,Beijing,Swimming,Lightweight Boxing,
+930,Anna Schmidt,M,33,UKR,UKR,2012,Summer,Rio,Judo,Marathon,Silver
+931,Anna Schmidt,M,19,BRA,USA,2004,Summer,Rio,Cycling,Double Sculls,Silver
+932,Maria Ivanova,F,19,BRA,BRA,2008,Winter,London,Athletics,100m freestyle,
+933,Maria Ivanova,M,25,CHN,FRA,2016,Summer,London,Judo,Double Sculls,Bronze
+934,Liu Wei,M,30,GER,BRA,2020,Summer,Athens,Cycling,Judo -60kg,Gold
+935,John Doe,F,27,FRA,UKR,2016,Summer,Athens,Swimming,Judo -60kg,
+936,Anna Schmidt,M,25,CHN,UKR,2004,Winter,Rio,Judo,100m freestyle,
+937,Kate Novak,M,21,CAN,UKR,2000,Summer,Rio,Rowing,Judo -60kg,Gold
+938,John Doe,F,32,FRA,CAN,2008,Winter,Athens,Cycling,Double Sculls,
+939,Kate Novak,F,18,CHN,CHN,2004,Summer,Athens,Judo,Marathon,Silver
+940,John Doe,F,28,USA,GER,2012,Summer,Rio,Swimming,Double Sculls,Bronze
+941,Liu Wei,M,24,BRA,CHN,2008,Summer,Beijing,Judo,Marathon,
+942,Anna Schmidt,F,34,FRA,BRA,2016,Summer,Rio,Judo,Judo -60kg,
+943,Anna Schmidt,M,37,CHN,USA,2004,Summer,Beijing,Rowing,Double Sculls,Silver
+944,Carlos Gomez,F,35,USA,GER,2016,Summer,Beijing,Cycling,Judo -60kg,Gold
+945,Kate Novak,M,39,GER,USA,2016,Winter,Rio,Boxing,Marathon,Gold
+946,John Doe,F,39,CHN,FRA,2016,Summer,Tokyo,Judo,Judo -60kg,Bronze
+947,John Doe,F,29,CAN,CAN,2000,Summer,Athens,Boxing,Sprint,Gold
+948,Maria Ivanova,F,26,CAN,BRA,2016,Summer,London,Athletics,Lightweight Boxing,Silver
+949,Carlos Gomez,F,22,CAN,CAN,2012,Summer,Rio,Judo,Double Sculls,Gold
+950,Tom Lee,M,27,FRA,BRA,2012,Summer,Beijing,Boxing,Sprint,Silver
+951,Tom Lee,F,21,BRA,USA,2008,Summer,Rio,Athletics,Judo -60kg,Gold
+952,Maria Ivanova,F,22,CHN,USA,2020,Summer,Athens,Rowing,Judo -60kg,
+953,Maria Ivanova,M,27,GER,USA,2016,Summer,Beijing,Cycling,Lightweight Boxing,Gold
+954,Maria Ivanova,F,28,CHN,BRA,2016,Summer,London,Judo,Judo -60kg,Silver
+955,Kate Novak,M,38,BRA,UKR,2004,Winter,London,Cycling,Lightweight Boxing,
+956,Kate Novak,F,27,USA,USA,2000,Winter,London,Athletics,Double Sculls,Bronze
+957,Liu Wei,F,25,BRA,CAN,2020,Summer,Tokyo,Cycling,Marathon,Gold
+958,Liu Wei,F,19,CAN,FRA,2008,Summer,Beijing,Cycling,Lightweight Boxing,Gold
+959,Maria Ivanova,M,25,FRA,GER,2020,Summer,Beijing,Swimming,Lightweight Boxing,Bronze
+960,Carlos Gomez,F,33,USA,BRA,2016,Summer,Tokyo,Athletics,Sprint,Silver
+961,John Doe,F,39,FRA,CAN,2004,Summer,Beijing,Cycling,Judo -60kg,
+962,Kate Novak,F,22,CAN,CHN,2000,Summer,Tokyo,Boxing,Double Sculls,Silver
+963,Carlos Gomez,M,20,UKR,FRA,2008,Summer,Rio,Athletics,Marathon,Silver
+964,Anna Schmidt,M,29,BRA,CHN,2020,Summer,Athens,Swimming,100m freestyle,Silver
+965,Kate Novak,F,30,BRA,GER,2008,Summer,London,Judo,Lightweight Boxing,Bronze
+966,Kate Novak,M,30,GER,UKR,2016,Summer,Tokyo,Rowing,100m freestyle,
+967,Liu Wei,F,27,CHN,USA,2008,Summer,Tokyo,Cycling,Judo -60kg,Gold
+968,John Doe,F,21,USA,BRA,2004,Winter,Tokyo,Boxing,Lightweight Boxing,Bronze
+969,John Doe,F,26,FRA,CAN,2008,Summer,Rio,Swimming,100m freestyle,Gold
+970,Tom Lee,F,39,USA,USA,2012,Summer,Tokyo,Athletics,Sprint,Silver
+971,Tom Lee,F,19,GER,CAN,2004,Summer,Athens,Rowing,100m freestyle,
+972,Tom Lee,F,36,GER,BRA,2020,Winter,Athens,Rowing,Sprint,Silver
+973,Tom Lee,F,18,FRA,CHN,2000,Summer,London,Cycling,Marathon,
+974,Anna Schmidt,M,24,CHN,USA,2000,Summer,Rio,Swimming,Judo -60kg,Bronze
+975,Anna Schmidt,M,34,FRA,GER,2016,Winter,Athens,Swimming,Double Sculls,
+976,Kate Novak,M,20,FRA,UKR,2016,Summer,Beijing,Boxing,100m freestyle,
+977,Maria Ivanova,M,37,CAN,GER,2012,Summer,Beijing,Judo,Lightweight Boxing,Gold
+978,Liu Wei,M,37,CHN,UKR,2020,Summer,Beijing,Judo,Judo -60kg,Gold
+979,Liu Wei,M,38,BRA,FRA,2000,Summer,Tokyo,Judo,100m freestyle,Silver
+980,Tom Lee,M,20,CAN,CAN,2000,Summer,Tokyo,Rowing,Lightweight Boxing,Gold
+981,Kate Novak,F,20,UKR,USA,2000,Summer,Beijing,Rowing,Lightweight Boxing,Silver
+982,Carlos Gomez,F,34,CHN,USA,2000,Summer,London,Athletics,Double Sculls,Silver
+983,Maria Ivanova,F,24,GER,FRA,2008,Summer,London,Rowing,Double Sculls,
+984,Kate Novak,F,31,CAN,UKR,2020,Summer,Tokyo,Rowing,Lightweight Boxing,Silver
+985,Maria Ivanova,M,34,CHN,CHN,2004,Summer,Beijing,Swimming,Double Sculls,
+986,Maria Ivanova,M,35,USA,BRA,2004,Summer,London,Athletics,Lightweight Boxing,
+987,Maria Ivanova,F,30,FRA,GER,2012,Winter,Tokyo,Swimming,100m freestyle,
+988,Kate Novak,F,37,UKR,FRA,2008,Summer,Beijing,Boxing,Marathon,Gold
+989,Tom Lee,M,37,BRA,CAN,2000,Summer,Rio,Boxing,Double Sculls,Silver
+990,Liu Wei,F,38,FRA,FRA,2000,Summer,Beijing,Athletics,Sprint,Silver
+991,Liu Wei,F,35,USA,GER,2016,Summer,Beijing,Athletics,Sprint,Silver
+992,Tom Lee,F,21,USA,GER,2016,Summer,Athens,Rowing,Sprint,Silver
+993,Maria Ivanova,F,18,UKR,CAN,2012,Summer,Athens,Boxing,Marathon,
+994,Carlos Gomez,M,35,BRA,CAN,2000,Summer,Rio,Cycling,Lightweight Boxing,Silver
+995,John Doe,F,18,GER,USA,2012,Summer,Rio,Judo,Lightweight Boxing,Bronze
+996,Kate Novak,F,30,CAN,GER,2008,Summer,Beijing,Rowing,Judo -60kg,
+997,John Doe,M,37,BRA,BRA,2004,Summer,London,Judo,Sprint,Gold
+998,Tom Lee,M,37,CHN,BRA,2000,Summer,Rio,Boxing,Sprint,Silver
+999,Carlos Gomez,F,27,USA,UKR,2020,Summer,Beijing,Judo,Lightweight Boxing,
+1000,Kate Novak,M,28,CHN,FRA,2008,Summer,Tokyo,Cycling,Sprint,Gold
+1001,Tom Lee,F,26,GER,CAN,2000,Summer,Athens,Cycling,Lightweight Boxing,Bronze
+1002,Maria Ivanova,F,26,CHN,USA,2020,Summer,London,Swimming,Lightweight Boxing,Gold
+1003,Liu Wei,M,22,BRA,BRA,2016,Summer,Beijing,Athletics,Double Sculls,
+1004,John Doe,F,18,CHN,CHN,2012,Summer,Tokyo,Judo,Lightweight Boxing,Silver
+1005,Anna Schmidt,F,34,GER,USA,2016,Winter,Athens,Cycling,100m freestyle,Silver
+1006,Anna Schmidt,F,39,GER,USA,2004,Summer,Tokyo,Athletics,100m freestyle,Bronze
+1007,Carlos Gomez,F,19,GER,BRA,2016,Summer,Beijing,Athletics,100m freestyle,Gold
+1008,Maria Ivanova,M,30,BRA,CHN,2000,Winter,Rio,Swimming,100m freestyle,Silver
+1009,John Doe,M,26,GER,UKR,2020,Summer,Athens,Athletics,Marathon,Silver
+1010,Maria Ivanova,F,21,USA,BRA,2016,Summer,Tokyo,Athletics,Judo -60kg,Silver
+1011,John Doe,M,22,FRA,CHN,2000,Summer,Rio,Rowing,Judo -60kg,Bronze
+1012,Carlos Gomez,F,28,GER,USA,2004,Summer,London,Boxing,Lightweight Boxing,Bronze
+1013,Carlos Gomez,F,36,CHN,CHN,2020,Summer,Beijing,Swimming,Sprint,Bronze
+1014,Anna Schmidt,F,38,CAN,USA,2016,Summer,Beijing,Swimming,100m freestyle,Bronze
+1015,Maria Ivanova,F,20,CHN,FRA,2012,Summer,Athens,Judo,Judo -60kg,Silver
+1016,Kate Novak,F,29,CAN,BRA,2012,Summer,Tokyo,Athletics,Judo -60kg,Gold
+1017,Anna Schmidt,M,36,CHN,CAN,2020,Summer,London,Judo,100m freestyle,
+1018,Maria Ivanova,F,36,BRA,BRA,2012,Summer,Athens,Rowing,Marathon,
+1019,Anna Schmidt,M,30,CHN,FRA,2016,Summer,Athens,Cycling,Marathon,Silver
+1020,Kate Novak,M,24,BRA,GER,2016,Summer,Tokyo,Athletics,Judo -60kg,Silver
+1021,Liu Wei,F,32,BRA,GER,2020,Summer,London,Cycling,Marathon,Silver
+1022,Liu Wei,F,24,GER,GER,2016,Summer,Tokyo,Boxing,Double Sculls,Bronze
+1023,Liu Wei,F,25,USA,BRA,2000,Summer,Beijing,Rowing,100m freestyle,Bronze
+1024,Liu Wei,F,22,CAN,UKR,2004,Summer,Rio,Athletics,Judo -60kg,Gold
+1025,Tom Lee,F,38,GER,BRA,2012,Summer,Beijing,Judo,100m freestyle,Bronze
+1026,John Doe,M,31,GER,FRA,2000,Summer,Beijing,Judo,Marathon,Gold
+1027,Tom Lee,F,21,FRA,FRA,2020,Summer,Athens,Athletics,100m freestyle,Silver
+1028,Tom Lee,F,27,BRA,CAN,2012,Summer,Beijing,Judo,Marathon,
+1029,Tom Lee,M,37,BRA,CHN,2000,Summer,London,Athletics,Marathon,Silver
+1030,Liu Wei,M,32,CAN,BRA,2016,Summer,Beijing,Swimming,100m freestyle,Gold
+1031,Kate Novak,F,35,CHN,BRA,2020,Summer,London,Judo,Marathon,
+1032,Carlos Gomez,M,37,CHN,USA,2020,Summer,Tokyo,Athletics,Double Sculls,
+1033,Carlos Gomez,F,30,GER,FRA,2012,Winter,Athens,Athletics,Lightweight Boxing,
+1034,John Doe,M,25,UKR,USA,2016,Summer,London,Judo,100m freestyle,Silver
+1035,Liu Wei,M,26,UKR,USA,2012,Winter,Beijing,Swimming,Lightweight Boxing,Gold
+1036,Liu Wei,F,33,CHN,BRA,2008,Winter,Athens,Judo,100m freestyle,
+1037,Liu Wei,M,36,UKR,UKR,2000,Summer,Athens,Athletics,Marathon,Bronze
+1038,Anna Schmidt,M,33,FRA,CHN,2008,Summer,London,Swimming,Marathon,
+1039,Maria Ivanova,M,24,CHN,CHN,2000,Summer,London,Cycling,Judo -60kg,Silver
+1040,Anna Schmidt,M,31,BRA,FRA,2004,Winter,Rio,Boxing,Double Sculls,Silver
+1041,Maria Ivanova,M,31,GER,CAN,2020,Summer,Rio,Judo,Judo -60kg,
+1042,Liu Wei,M,21,USA,FRA,2012,Winter,Athens,Rowing,Lightweight Boxing,Bronze
+1043,Liu Wei,F,32,GER,UKR,2004,Summer,Rio,Athletics,Marathon,Gold
+1044,Anna Schmidt,F,20,CHN,UKR,2004,Summer,Beijing,Swimming,Judo -60kg,Gold
+1045,Anna Schmidt,M,22,FRA,CHN,2020,Summer,Tokyo,Swimming,Marathon,Silver
+1046,Maria Ivanova,F,18,CHN,GER,2020,Summer,Athens,Cycling,100m freestyle,Gold
+1047,Carlos Gomez,F,20,GER,USA,2000,Summer,Tokyo,Judo,Judo -60kg,Silver
+1048,Maria Ivanova,F,32,FRA,USA,2008,Summer,Rio,Rowing,Lightweight Boxing,Silver
+1049,Anna Schmidt,M,25,FRA,CHN,2016,Winter,London,Swimming,Judo -60kg,
+1050,Kate Novak,F,21,FRA,FRA,2000,Summer,Athens,Cycling,Marathon,Silver
+1051,Anna Schmidt,M,19,CAN,UKR,2016,Summer,Rio,Athletics,Sprint,
+1052,Kate Novak,F,27,CHN,FRA,2004,Summer,Beijing,Cycling,Sprint,Gold
+1053,John Doe,M,21,UKR,CAN,2016,Summer,Athens,Judo,Double Sculls,Bronze
+1054,Anna Schmidt,M,20,UKR,GER,2008,Summer,Athens,Cycling,Marathon,Gold
+1055,John Doe,F,19,CHN,CHN,2000,Summer,London,Swimming,100m freestyle,Bronze
+1056,Carlos Gomez,F,34,CHN,USA,2020,Summer,Athens,Swimming,Judo -60kg,
+1057,Maria Ivanova,M,38,CAN,BRA,2008,Summer,London,Boxing,Sprint,
+1058,Kate Novak,F,37,UKR,FRA,2008,Summer,Rio,Cycling,100m freestyle,Bronze
+1059,Maria Ivanova,F,30,CHN,UKR,2000,Summer,Beijing,Athletics,Marathon,Silver
+1060,John Doe,F,22,CHN,BRA,2020,Summer,Beijing,Rowing,100m freestyle,
+1061,Kate Novak,M,38,CAN,CAN,2008,Summer,Athens,Rowing,Marathon,
+1062,Maria Ivanova,M,26,CAN,CHN,2020,Summer,Athens,Judo,Double Sculls,
+1063,Anna Schmidt,F,39,GER,FRA,2012,Summer,Rio,Boxing,Judo -60kg,Silver
+1064,Liu Wei,F,23,CAN,USA,2012,Summer,London,Cycling,100m freestyle,
+1065,John Doe,F,22,USA,FRA,2012,Summer,Beijing,Athletics,Judo -60kg,Gold
+1066,Maria Ivanova,M,27,UKR,GER,2016,Winter,London,Boxing,100m freestyle,Silver
+1067,John Doe,M,25,GER,BRA,2008,Winter,Rio,Swimming,Marathon,Gold
+1068,Tom Lee,F,24,USA,GER,2000,Summer,Beijing,Judo,Marathon,Silver
+1069,John Doe,F,24,CHN,CAN,2000,Summer,Beijing,Cycling,100m freestyle,
+1070,Kate Novak,F,23,CHN,USA,2016,Winter,Tokyo,Rowing,Double Sculls,
+1071,Tom Lee,F,38,GER,BRA,2000,Summer,Rio,Athletics,Marathon,
+1072,Kate Novak,F,37,CAN,CAN,2012,Summer,Rio,Swimming,Lightweight Boxing,Bronze
+1073,Liu Wei,F,20,FRA,GER,2008,Summer,Tokyo,Boxing,Lightweight Boxing,Bronze
+1074,Tom Lee,M,36,FRA,GER,2000,Summer,London,Judo,Judo -60kg,Bronze
+1075,Anna Schmidt,F,39,CHN,BRA,2000,Winter,Tokyo,Boxing,Lightweight Boxing,Silver
+1076,John Doe,M,32,FRA,USA,2004,Summer,Rio,Rowing,Lightweight Boxing,
+1077,Maria Ivanova,F,21,BRA,GER,2004,Summer,London,Boxing,Double Sculls,Bronze
+1078,Carlos Gomez,F,29,GER,CHN,2004,Summer,Beijing,Athletics,Double Sculls,Bronze
+1079,John Doe,M,23,USA,CAN,2008,Summer,Tokyo,Swimming,Sprint,Bronze
+1080,John Doe,M,36,GER,BRA,2012,Winter,London,Cycling,Sprint,
+1081,Liu Wei,M,21,UKR,UKR,2020,Summer,London,Athletics,Double Sculls,Silver
+1082,Anna Schmidt,M,32,CAN,UKR,2012,Summer,London,Rowing,Sprint,Silver
+1083,Carlos Gomez,F,26,CAN,USA,2012,Summer,Tokyo,Judo,Double Sculls,
+1084,Tom Lee,M,22,GER,CHN,2008,Winter,Beijing,Rowing,Sprint,Silver
+1085,Tom Lee,F,30,CHN,GER,2008,Summer,London,Rowing,Marathon,
+1086,Tom Lee,M,35,CHN,UKR,2004,Summer,Tokyo,Boxing,Double Sculls,Silver
+1087,Kate Novak,F,22,BRA,USA,2000,Summer,Rio,Judo,Judo -60kg,Silver
+1088,Kate Novak,F,33,BRA,CAN,2016,Summer,Tokyo,Athletics,Judo -60kg,
+1089,Maria Ivanova,F,36,CAN,CHN,2016,Summer,Tokyo,Rowing,Double Sculls,Silver
+1090,Carlos Gomez,F,31,BRA,CHN,2020,Summer,Tokyo,Athletics,Lightweight Boxing,Bronze
+1091,Tom Lee,F,33,USA,FRA,2000,Summer,London,Cycling,Judo -60kg,Silver
+1092,Kate Novak,F,32,BRA,USA,2020,Summer,Tokyo,Boxing,Lightweight Boxing,Silver
+1093,Maria Ivanova,M,39,USA,USA,2004,Summer,Rio,Athletics,Judo -60kg,Bronze
+1094,Anna Schmidt,F,21,BRA,FRA,2020,Summer,London,Judo,100m freestyle,Gold
+1095,Maria Ivanova,M,24,CAN,GER,2000,Summer,Rio,Rowing,100m freestyle,
+1096,Kate Novak,M,33,CAN,USA,2000,Summer,Athens,Cycling,Double Sculls,
+1097,Liu Wei,F,39,USA,FRA,2016,Summer,Tokyo,Judo,Judo -60kg,Gold
+1098,Liu Wei,M,38,GER,GER,2004,Summer,London,Boxing,Marathon,Bronze
+1099,Tom Lee,F,39,CAN,GER,2008,Summer,London,Cycling,Lightweight Boxing,Bronze
+1100,Liu Wei,M,38,GER,BRA,2020,Summer,Tokyo,Cycling,Judo -60kg,Gold
+1101,Tom Lee,F,25,CHN,CHN,2016,Winter,Beijing,Cycling,Double Sculls,Silver
+1102,Tom Lee,M,34,USA,CAN,2020,Summer,Beijing,Rowing,Lightweight Boxing,Silver
+1103,Kate Novak,F,33,FRA,CHN,2020,Winter,Rio,Swimming,Sprint,Bronze
+1104,Liu Wei,F,27,CAN,CHN,2008,Summer,Tokyo,Cycling,Double Sculls,Bronze
+1105,Tom Lee,F,27,UKR,BRA,2004,Summer,Tokyo,Judo,Judo -60kg,Bronze
+1106,Carlos Gomez,F,19,CHN,GER,2000,Summer,Athens,Judo,Marathon,
+1107,Anna Schmidt,M,26,GER,GER,2012,Summer,Beijing,Boxing,Sprint,
+1108,Maria Ivanova,F,34,CAN,USA,2020,Summer,Beijing,Athletics,Double Sculls,Bronze
+1109,Maria Ivanova,M,28,USA,BRA,2012,Summer,Tokyo,Athletics,Judo -60kg,
+1110,Kate Novak,M,27,FRA,USA,2004,Winter,Rio,Swimming,100m freestyle,Silver
+1111,Liu Wei,M,39,BRA,BRA,2012,Summer,Tokyo,Rowing,Judo -60kg,
+1112,Liu Wei,F,34,FRA,USA,2020,Winter,Rio,Rowing,100m freestyle,Bronze
+1113,Tom Lee,M,21,UKR,UKR,2008,Winter,Beijing,Cycling,100m freestyle,
+1114,John Doe,M,33,GER,FRA,2012,Summer,Athens,Swimming,Double Sculls,Bronze
+1115,Tom Lee,M,37,CHN,CHN,2004,Summer,London,Boxing,Judo -60kg,Gold
+1116,Anna Schmidt,F,32,FRA,CHN,2004,Summer,Beijing,Boxing,Judo -60kg,Bronze
+1117,Carlos Gomez,F,38,USA,CAN,2008,Winter,Rio,Athletics,100m freestyle,Silver
+1118,Maria Ivanova,M,22,UKR,FRA,2012,Summer,Tokyo,Boxing,Lightweight Boxing,Bronze
+1119,Tom Lee,F,23,USA,GER,2012,Summer,Beijing,Cycling,Sprint,Silver
+1120,John Doe,F,34,CAN,CAN,2000,Summer,Athens,Judo,Marathon,
+1121,John Doe,M,18,BRA,UKR,2016,Winter,Rio,Boxing,Judo -60kg,Bronze
+1122,Tom Lee,M,36,CHN,CAN,2004,Summer,Tokyo,Swimming,Sprint,Bronze
+1123,Kate Novak,F,21,USA,CHN,2000,Summer,London,Cycling,Sprint,Gold
+1124,Maria Ivanova,M,34,GER,GER,2004,Summer,Rio,Boxing,Lightweight Boxing,
+1125,Kate Novak,F,26,CAN,UKR,2000,Winter,Tokyo,Rowing,Sprint,
+1126,Carlos Gomez,F,19,CAN,CHN,2016,Summer,London,Boxing,Judo -60kg,
+1127,John Doe,F,25,CHN,FRA,2000,Summer,Tokyo,Rowing,Double Sculls,Silver
+1128,John Doe,F,32,CAN,USA,2004,Summer,London,Cycling,Double Sculls,Bronze
+1129,Anna Schmidt,F,24,GER,BRA,2012,Winter,London,Boxing,Sprint,Gold
+1130,Carlos Gomez,F,23,USA,UKR,2004,Summer,London,Rowing,Judo -60kg,Bronze
+1131,John Doe,M,18,CHN,GER,2020,Winter,Tokyo,Judo,Judo -60kg,Gold
+1132,Carlos Gomez,M,32,CAN,CAN,2008,Summer,London,Athletics,100m freestyle,Bronze
+1133,Maria Ivanova,F,24,CAN,FRA,2008,Summer,Rio,Cycling,Lightweight Boxing,Bronze
+1134,Liu Wei,F,34,GER,CAN,2020,Summer,Athens,Rowing,Marathon,Silver
+1135,John Doe,F,19,BRA,UKR,2008,Winter,Athens,Swimming,100m freestyle,Silver
+1136,Anna Schmidt,M,26,BRA,FRA,2008,Summer,London,Boxing,Marathon,
+1137,Maria Ivanova,F,26,FRA,GER,2016,Winter,Athens,Rowing,Judo -60kg,Gold
+1138,Tom Lee,M,30,CAN,UKR,2012,Summer,Athens,Rowing,Double Sculls,
+1139,Carlos Gomez,F,23,USA,GER,2012,Summer,London,Rowing,100m freestyle,Gold
+1140,Tom Lee,F,23,CHN,CAN,2004,Summer,London,Athletics,Sprint,Gold
+1141,Kate Novak,M,37,CAN,CHN,2020,Summer,Rio,Swimming,Sprint,Gold
+1142,Maria Ivanova,M,37,UKR,FRA,2000,Summer,Beijing,Swimming,Marathon,
+1143,Tom Lee,F,38,CHN,USA,2004,Summer,Tokyo,Judo,Judo -60kg,Silver
+1144,John Doe,F,20,FRA,CHN,2004,Summer,London,Athletics,Double Sculls,
+1145,Carlos Gomez,F,34,BRA,USA,2004,Winter,London,Rowing,Marathon,Bronze
+1146,Liu Wei,M,34,CAN,CAN,2004,Summer,Athens,Cycling,Double Sculls,Gold
+1147,Maria Ivanova,M,29,GER,FRA,2012,Summer,Rio,Athletics,Lightweight Boxing,Bronze
+1148,John Doe,M,33,UKR,CHN,2000,Summer,Athens,Athletics,Double Sculls,Gold
+1149,Anna Schmidt,M,32,CAN,CHN,2004,Summer,London,Swimming,Sprint,
+1150,Kate Novak,M,30,FRA,UKR,2012,Summer,London,Judo,100m freestyle,Gold
+1151,Carlos Gomez,M,18,USA,BRA,2004,Summer,Athens,Judo,100m freestyle,Silver
+1152,Maria Ivanova,F,34,UKR,CAN,2008,Summer,London,Athletics,100m freestyle,
+1153,Maria Ivanova,F,20,FRA,GER,2004,Summer,Beijing,Athletics,Double Sculls,
+1154,Liu Wei,M,32,CAN,CAN,2020,Summer,Tokyo,Boxing,Sprint,Silver
+1155,Liu Wei,F,21,USA,GER,2020,Summer,Tokyo,Rowing,Double Sculls,
+1156,Anna Schmidt,F,21,UKR,FRA,2004,Summer,Tokyo,Swimming,Judo -60kg,Gold
+1157,Kate Novak,M,35,USA,GER,2016,Summer,Beijing,Rowing,Sprint,
+1158,Anna Schmidt,F,34,USA,USA,2008,Summer,London,Cycling,Sprint,Bronze
+1159,John Doe,M,36,UKR,GER,2000,Summer,Athens,Cycling,Double Sculls,Gold
+1160,John Doe,M,28,UKR,GER,2004,Summer,Rio,Judo,Double Sculls,Silver
+1161,Anna Schmidt,F,37,USA,UKR,2000,Summer,London,Swimming,100m freestyle,Gold
+1162,Kate Novak,M,20,FRA,CHN,2008,Summer,Beijing,Rowing,Sprint,Silver
+1163,Anna Schmidt,M,25,BRA,CAN,2004,Summer,Beijing,Judo,100m freestyle,Gold
+1164,Kate Novak,M,31,UKR,CAN,2016,Summer,Tokyo,Cycling,Judo -60kg,Bronze
+1165,Kate Novak,M,18,CAN,FRA,2012,Summer,London,Athletics,Lightweight Boxing,
+1166,Tom Lee,M,31,CHN,FRA,2016,Summer,Tokyo,Swimming,100m freestyle,Gold
+1167,Carlos Gomez,M,19,GER,GER,2016,Summer,Rio,Swimming,Double Sculls,Bronze
+1168,Kate Novak,M,21,USA,BRA,2012,Winter,Tokyo,Rowing,Marathon,Bronze
+1169,Liu Wei,M,36,USA,CAN,2012,Summer,Rio,Boxing,Lightweight Boxing,
+1170,Kate Novak,F,23,GER,FRA,2020,Summer,Beijing,Rowing,Judo -60kg,Bronze
+1171,Kate Novak,F,18,BRA,GER,2012,Winter,Tokyo,Athletics,Double Sculls,Bronze
+1172,Kate Novak,F,34,GER,FRA,2004,Summer,Tokyo,Athletics,Lightweight Boxing,Silver
+1173,Tom Lee,M,25,UKR,USA,2000,Summer,Athens,Judo,Double Sculls,Silver
+1174,Tom Lee,M,36,GER,USA,2020,Summer,Beijing,Swimming,100m freestyle,Gold
+1175,John Doe,F,38,USA,FRA,2020,Summer,Athens,Judo,Double Sculls,Silver
+1176,Tom Lee,F,18,GER,USA,2000,Summer,Rio,Athletics,Judo -60kg,Gold
+1177,Liu Wei,F,22,CHN,FRA,2020,Winter,Rio,Boxing,Marathon,Bronze
+1178,Liu Wei,M,33,CAN,GER,2012,Summer,Beijing,Swimming,100m freestyle,Silver
+1179,Tom Lee,F,23,UKR,UKR,2016,Summer,Rio,Athletics,100m freestyle,Bronze
+1180,Anna Schmidt,F,25,GER,BRA,2008,Summer,Beijing,Boxing,Judo -60kg,Gold
+1181,Carlos Gomez,M,30,USA,GER,2012,Summer,Rio,Rowing,Judo -60kg,
+1182,Tom Lee,F,33,FRA,UKR,2016,Summer,London,Cycling,Lightweight Boxing,
+1183,Kate Novak,M,20,CAN,UKR,2016,Winter,Tokyo,Athletics,Marathon,Gold
+1184,Maria Ivanova,M,36,UKR,CAN,2020,Winter,London,Cycling,Double Sculls,Silver
+1185,Carlos Gomez,M,29,USA,GER,2004,Summer,Beijing,Judo,Lightweight Boxing,Bronze
+1186,Carlos Gomez,F,33,BRA,GER,2004,Winter,Beijing,Cycling,Double Sculls,Gold
+1187,Liu Wei,F,28,CHN,FRA,2020,Summer,London,Athletics,Double Sculls,Silver
+1188,Carlos Gomez,M,27,BRA,UKR,2020,Summer,Tokyo,Cycling,Double Sculls,Silver
+1189,Tom Lee,F,37,CHN,UKR,2000,Summer,Tokyo,Swimming,Lightweight Boxing,
+1190,Kate Novak,F,21,GER,UKR,2000,Summer,Athens,Athletics,100m freestyle,
+1191,Kate Novak,F,29,UKR,FRA,2008,Summer,Rio,Boxing,Judo -60kg,Bronze
+1192,John Doe,F,19,GER,CAN,2008,Summer,Athens,Cycling,100m freestyle,Bronze
+1193,Kate Novak,M,39,CHN,GER,2008,Summer,Tokyo,Swimming,Marathon,
+1194,Kate Novak,F,36,CHN,UKR,2008,Summer,London,Judo,Lightweight Boxing,
+1195,Liu Wei,M,22,CHN,USA,2016,Summer,Rio,Judo,Marathon,
+1196,Kate Novak,M,25,CAN,GER,2016,Winter,London,Cycling,Judo -60kg,Gold
+1197,John Doe,F,24,USA,FRA,2000,Summer,Athens,Judo,Judo -60kg,Gold
+1198,Maria Ivanova,M,31,UKR,CAN,2004,Summer,Beijing,Boxing,Sprint,Bronze
+1199,Tom Lee,F,20,GER,USA,2020,Summer,London,Athletics,Marathon,Bronze
+1200,Liu Wei,F,35,GER,FRA,2004,Summer,Athens,Swimming,100m freestyle,Gold
+1201,Maria Ivanova,M,33,BRA,CHN,2012,Summer,Athens,Rowing,Marathon,Gold
+1202,Liu Wei,M,36,CHN,GER,2016,Summer,Athens,Cycling,Lightweight Boxing,
+1203,Anna Schmidt,M,36,FRA,CHN,2008,Summer,Beijing,Judo,Judo -60kg,
+1204,Carlos Gomez,M,35,CHN,FRA,2008,Summer,Beijing,Athletics,Judo -60kg,Silver
+1205,Anna Schmidt,F,37,CHN,FRA,2012,Summer,Beijing,Rowing,Marathon,
+1206,Kate Novak,F,33,FRA,FRA,2004,Summer,Rio,Boxing,Marathon,Bronze
+1207,Maria Ivanova,F,25,GER,UKR,2008,Summer,Beijing,Judo,Double Sculls,
+1208,Kate Novak,M,18,BRA,CAN,2004,Summer,Beijing,Judo,Marathon,Silver
+1209,Carlos Gomez,M,34,USA,UKR,2020,Summer,Beijing,Swimming,Double Sculls,Gold
+1210,Liu Wei,M,29,FRA,CAN,2012,Summer,London,Boxing,Lightweight Boxing,Silver
+1211,Carlos Gomez,F,38,CAN,BRA,2004,Summer,Beijing,Boxing,Lightweight Boxing,Silver
+1212,John Doe,M,28,UKR,UKR,2020,Winter,Rio,Cycling,100m freestyle,Bronze
+1213,Carlos Gomez,F,22,FRA,CHN,2004,Summer,Athens,Rowing,Marathon,Gold
+1214,John Doe,M,29,USA,CAN,2004,Summer,London,Swimming,100m freestyle,
+1215,Carlos Gomez,F,34,GER,UKR,2008,Summer,Tokyo,Cycling,Sprint,Gold
+1216,Tom Lee,F,23,CAN,GER,2000,Summer,Beijing,Swimming,Lightweight Boxing,Gold
+1217,John Doe,M,18,CAN,FRA,2016,Summer,Athens,Boxing,Judo -60kg,Bronze
+1218,Maria Ivanova,M,22,CAN,CAN,2004,Winter,Athens,Swimming,Double Sculls,Bronze
+1219,Kate Novak,F,31,CHN,CAN,2004,Winter,London,Swimming,Sprint,Silver
+1220,Kate Novak,F,22,UKR,UKR,2004,Summer,Tokyo,Swimming,Judo -60kg,
+1221,Anna Schmidt,M,39,GER,BRA,2000,Summer,Rio,Athletics,Sprint,Bronze
+1222,Kate Novak,M,18,GER,UKR,2020,Summer,Athens,Athletics,100m freestyle,Bronze
+1223,Liu Wei,F,35,CAN,CHN,2012,Summer,Athens,Rowing,100m freestyle,Bronze
+1224,Tom Lee,M,33,GER,CHN,2008,Summer,Athens,Rowing,Double Sculls,Gold
+1225,Carlos Gomez,F,26,UKR,CAN,2000,Summer,Athens,Boxing,Lightweight Boxing,Bronze
+1226,Anna Schmidt,F,36,UKR,CAN,2020,Summer,London,Swimming,Double Sculls,
+1227,Liu Wei,M,39,BRA,UKR,2004,Summer,Tokyo,Boxing,Judo -60kg,Gold
+1228,Liu Wei,M,22,FRA,CHN,2020,Summer,Athens,Athletics,Sprint,Silver
+1229,John Doe,M,19,FRA,CHN,2000,Summer,Rio,Swimming,Double Sculls,
+1230,Kate Novak,M,32,BRA,BRA,2000,Summer,Rio,Cycling,Marathon,Silver
+1231,Maria Ivanova,M,24,USA,GER,2000,Summer,Beijing,Athletics,Marathon,Silver
+1232,Maria Ivanova,F,21,FRA,BRA,2012,Winter,Athens,Athletics,Lightweight Boxing,
+1233,Anna Schmidt,F,18,UKR,USA,2016,Summer,Athens,Athletics,Double Sculls,Gold
+1234,Tom Lee,M,30,UKR,FRA,2008,Summer,Athens,Swimming,Judo -60kg,Gold
+1235,Maria Ivanova,M,37,FRA,BRA,2012,Summer,Athens,Rowing,Marathon,
+1236,Carlos Gomez,M,39,UKR,UKR,2012,Summer,Athens,Judo,Lightweight Boxing,
+1237,Maria Ivanova,F,24,BRA,GER,2016,Summer,Rio,Cycling,Double Sculls,Silver
+1238,Anna Schmidt,M,32,CAN,UKR,2012,Summer,Tokyo,Cycling,Lightweight Boxing,Bronze
+1239,Maria Ivanova,M,31,CAN,FRA,2000,Winter,Tokyo,Boxing,Judo -60kg,
+1240,Carlos Gomez,F,36,GER,USA,2000,Summer,Beijing,Swimming,Marathon,Bronze
+1241,John Doe,F,39,CAN,GER,2020,Summer,Rio,Rowing,Marathon,Silver
+1242,Tom Lee,M,37,CHN,CAN,2004,Summer,Athens,Athletics,Marathon,Gold
+1243,Anna Schmidt,M,35,BRA,CHN,2012,Winter,Tokyo,Judo,100m freestyle,Silver
+1244,John Doe,M,27,UKR,BRA,2004,Summer,London,Swimming,Marathon,
+1245,John Doe,F,26,FRA,UKR,2008,Winter,London,Swimming,Sprint,
+1246,John Doe,M,25,CAN,USA,2000,Winter,London,Rowing,100m freestyle,
+1247,Liu Wei,M,27,BRA,CHN,2020,Summer,Athens,Judo,Double Sculls,
+1248,Tom Lee,M,34,CAN,BRA,2008,Winter,Athens,Athletics,100m freestyle,Bronze
+1249,Kate Novak,F,19,USA,CHN,2020,Winter,Beijing,Swimming,100m freestyle,Silver
+1250,Tom Lee,F,23,UKR,BRA,2016,Summer,Beijing,Cycling,100m freestyle,
+1251,Liu Wei,M,22,USA,CAN,2000,Summer,Beijing,Cycling,Lightweight Boxing,Bronze
+1252,Kate Novak,M,26,UKR,GER,2008,Summer,London,Judo,Sprint,Bronze
+1253,Tom Lee,F,22,BRA,CHN,2016,Summer,Athens,Athletics,Judo -60kg,Gold
+1254,John Doe,F,35,GER,CHN,2008,Summer,London,Judo,Marathon,
+1255,Anna Schmidt,F,37,CAN,CHN,2020,Summer,Beijing,Swimming,100m freestyle,Silver
+1256,Kate Novak,F,26,CAN,GER,2016,Summer,Athens,Cycling,Judo -60kg,Silver
+1257,Carlos Gomez,F,34,CHN,USA,2016,Summer,Rio,Boxing,Lightweight Boxing,Bronze
+1258,Carlos Gomez,F,34,FRA,BRA,2000,Summer,Tokyo,Judo,Judo -60kg,Bronze
+1259,Maria Ivanova,F,29,USA,CAN,2004,Winter,Tokyo,Boxing,100m freestyle,Gold
+1260,Kate Novak,F,24,CAN,CHN,2020,Summer,Beijing,Boxing,Double Sculls,
+1261,Anna Schmidt,F,20,BRA,FRA,2020,Summer,London,Rowing,Sprint,Silver
+1262,Liu Wei,M,27,GER,GER,2016,Summer,Rio,Cycling,Judo -60kg,Gold
+1263,John Doe,M,19,FRA,USA,2016,Summer,Athens,Judo,100m freestyle,Silver
+1264,Maria Ivanova,M,20,BRA,BRA,2000,Winter,London,Boxing,100m freestyle,Bronze
+1265,Carlos Gomez,F,33,USA,GER,2004,Summer,Beijing,Swimming,Marathon,
+1266,Liu Wei,M,19,CHN,CAN,2020,Summer,London,Rowing,Double Sculls,
+1267,Liu Wei,F,27,CAN,CAN,2012,Winter,Beijing,Athletics,Marathon,
+1268,John Doe,F,23,BRA,BRA,2012,Winter,Tokyo,Rowing,Double Sculls,Gold
+1269,Kate Novak,M,39,FRA,CHN,2004,Summer,Tokyo,Athletics,Sprint,Gold
+1270,Carlos Gomez,F,28,UKR,CAN,2008,Summer,London,Cycling,Marathon,Bronze
+1271,Anna Schmidt,M,24,GER,USA,2000,Summer,Rio,Judo,Sprint,Silver
+1272,Liu Wei,M,32,FRA,GER,2004,Summer,Athens,Judo,Lightweight Boxing,
+1273,John Doe,M,23,BRA,USA,2012,Summer,Beijing,Athletics,Lightweight Boxing,Bronze
+1274,Anna Schmidt,F,37,GER,CHN,2016,Summer,Athens,Swimming,Double Sculls,
+1275,Kate Novak,M,26,CAN,USA,2012,Winter,Tokyo,Athletics,Double Sculls,Silver
+1276,Carlos Gomez,F,39,UKR,USA,2016,Summer,Rio,Athletics,Marathon,Silver
+1277,Kate Novak,M,37,CHN,UKR,2000,Summer,Rio,Judo,Lightweight Boxing,Bronze
+1278,Liu Wei,M,29,FRA,USA,2016,Winter,Athens,Boxing,Judo -60kg,Gold
+1279,Anna Schmidt,M,36,CHN,BRA,2004,Summer,Tokyo,Swimming,Judo -60kg,Bronze
+1280,Anna Schmidt,F,37,UKR,GER,2016,Winter,Athens,Judo,Judo -60kg,Silver
+1281,Anna Schmidt,F,20,GER,UKR,2008,Winter,London,Rowing,Lightweight Boxing,Silver
+1282,Liu Wei,F,32,CAN,GER,2004,Summer,Rio,Athletics,Judo -60kg,Silver
+1283,Liu Wei,M,19,BRA,GER,2000,Summer,Rio,Boxing,Sprint,Gold
+1284,Kate Novak,M,38,UKR,CHN,2004,Summer,London,Swimming,100m freestyle,Bronze
+1285,Maria Ivanova,F,19,USA,CHN,2008,Summer,Tokyo,Cycling,Double Sculls,Silver
+1286,Kate Novak,F,39,GER,UKR,2000,Summer,Rio,Swimming,Marathon,Gold
+1287,Carlos Gomez,F,20,CHN,CAN,2012,Summer,Beijing,Swimming,Sprint,Silver
+1288,John Doe,F,23,FRA,FRA,2008,Winter,Beijing,Athletics,Judo -60kg,Silver
+1289,Anna Schmidt,F,32,UKR,CHN,2000,Summer,Tokyo,Athletics,100m freestyle,Silver
+1290,Maria Ivanova,F,27,CHN,FRA,2016,Summer,London,Cycling,Marathon,Gold
+1291,John Doe,M,26,GER,CHN,2004,Summer,Athens,Cycling,Sprint,Bronze
+1292,Maria Ivanova,F,18,CHN,CHN,2000,Summer,Tokyo,Cycling,Marathon,Bronze
+1293,Tom Lee,M,33,UKR,GER,2004,Winter,Athens,Judo,Double Sculls,Bronze
+1294,Kate Novak,M,23,GER,UKR,2016,Summer,Tokyo,Judo,Lightweight Boxing,
+1295,Liu Wei,F,26,USA,GER,2000,Summer,Beijing,Athletics,Judo -60kg,Silver
+1296,Anna Schmidt,F,21,UKR,BRA,2012,Summer,London,Athletics,Sprint,Bronze
+1297,Kate Novak,M,19,BRA,GER,2008,Summer,Beijing,Cycling,Sprint,
+1298,John Doe,F,21,CAN,FRA,2000,Summer,London,Judo,100m freestyle,Silver
+1299,Tom Lee,F,18,UKR,FRA,2016,Summer,Athens,Boxing,100m freestyle,Bronze
+1300,Tom Lee,M,36,GER,BRA,2000,Summer,Tokyo,Judo,100m freestyle,Silver
+1301,Tom Lee,M,27,FRA,USA,2004,Winter,Rio,Athletics,Marathon,Silver
+1302,John Doe,M,38,CAN,USA,2020,Winter,Rio,Judo,Judo -60kg,
+1303,John Doe,F,32,UKR,BRA,2000,Summer,London,Athletics,Marathon,Gold
+1304,John Doe,M,39,USA,BRA,2012,Winter,London,Cycling,Judo -60kg,Silver
+1305,John Doe,F,36,FRA,GER,2000,Summer,Beijing,Cycling,Sprint,Gold
+1306,Tom Lee,M,33,USA,BRA,2008,Summer,Rio,Cycling,Marathon,Silver
+1307,Tom Lee,M,38,BRA,UKR,2000,Summer,Beijing,Boxing,Marathon,Gold
+1308,Maria Ivanova,M,39,FRA,USA,2020,Summer,Athens,Boxing,Marathon,Bronze
+1309,Kate Novak,F,21,CHN,USA,2004,Summer,Rio,Athletics,Lightweight Boxing,
+1310,Anna Schmidt,F,19,FRA,CAN,2000,Summer,Athens,Swimming,Double Sculls,
+1311,Liu Wei,M,30,CAN,BRA,2012,Summer,Tokyo,Rowing,Judo -60kg,Silver
+1312,Tom Lee,M,18,FRA,CHN,2016,Summer,Beijing,Boxing,Judo -60kg,
+1313,Liu Wei,M,34,GER,CHN,2000,Summer,London,Athletics,Marathon,Bronze
+1314,Kate Novak,F,30,GER,BRA,2000,Summer,Rio,Judo,Lightweight Boxing,Silver
+1315,Kate Novak,M,21,CHN,UKR,2008,Winter,Beijing,Cycling,Marathon,
+1316,Liu Wei,F,24,FRA,CHN,2012,Summer,London,Cycling,Judo -60kg,Bronze
+1317,Tom Lee,M,34,USA,CAN,2020,Summer,Tokyo,Cycling,Double Sculls,Bronze
+1318,Liu Wei,M,26,USA,FRA,2016,Summer,Rio,Athletics,Double Sculls,Gold
+1319,Maria Ivanova,M,21,UKR,BRA,2004,Summer,Athens,Cycling,Sprint,Silver
+1320,Carlos Gomez,M,36,BRA,UKR,2000,Summer,Tokyo,Boxing,Lightweight Boxing,
+1321,Tom Lee,M,18,CAN,UKR,2020,Summer,London,Judo,Double Sculls,Bronze
+1322,Tom Lee,M,27,BRA,GER,2016,Winter,Rio,Cycling,Lightweight Boxing,Bronze
+1323,Anna Schmidt,F,21,FRA,UKR,2004,Summer,Rio,Athletics,Marathon,Bronze
+1324,John Doe,M,26,BRA,CHN,2020,Winter,Tokyo,Judo,Sprint,
+1325,Carlos Gomez,F,30,UKR,FRA,2012,Summer,Rio,Cycling,Judo -60kg,Silver
+1326,Kate Novak,M,31,BRA,CHN,2012,Summer,London,Swimming,Double Sculls,Bronze
+1327,Tom Lee,M,27,CHN,BRA,2016,Winter,Tokyo,Cycling,Double Sculls,Gold
+1328,Liu Wei,F,23,UKR,FRA,2004,Summer,Athens,Rowing,100m freestyle,Bronze
+1329,Carlos Gomez,M,33,CHN,BRA,2012,Summer,Tokyo,Boxing,Judo -60kg,Bronze
+1330,Anna Schmidt,F,23,FRA,UKR,2016,Summer,Tokyo,Judo,Double Sculls,Gold
+1331,Kate Novak,F,34,UKR,CAN,2012,Winter,Athens,Boxing,Double Sculls,Bronze
+1332,John Doe,M,27,FRA,USA,2012,Summer,London,Swimming,Judo -60kg,Silver
+1333,John Doe,F,35,FRA,FRA,2020,Summer,Beijing,Swimming,Sprint,Gold
+1334,Anna Schmidt,F,39,BRA,GER,2020,Summer,Beijing,Rowing,Lightweight Boxing,Silver
+1335,Anna Schmidt,M,35,CHN,USA,2012,Winter,Athens,Boxing,Judo -60kg,Gold
+1336,Liu Wei,F,20,FRA,UKR,2008,Summer,London,Judo,Lightweight Boxing,Silver
+1337,Tom Lee,M,37,CHN,UKR,2020,Summer,Rio,Swimming,Sprint,Silver
+1338,John Doe,M,38,CHN,USA,2004,Summer,Athens,Swimming,Sprint,Bronze
+1339,Kate Novak,M,32,UKR,GER,2016,Summer,Beijing,Cycling,Marathon,
+1340,Carlos Gomez,M,32,GER,FRA,2016,Summer,London,Rowing,100m freestyle,Bronze
+1341,Kate Novak,F,21,BRA,FRA,2004,Summer,Tokyo,Athletics,Sprint,Gold
+1342,Maria Ivanova,M,26,FRA,USA,2004,Summer,London,Swimming,Sprint,
+1343,Maria Ivanova,M,36,CHN,BRA,2004,Summer,London,Judo,Lightweight Boxing,Bronze
+1344,Anna Schmidt,F,34,CAN,CHN,2004,Winter,Beijing,Judo,Sprint,Gold
+1345,Liu Wei,M,28,GER,CAN,2000,Summer,Beijing,Cycling,Judo -60kg,
+1346,Maria Ivanova,M,26,FRA,BRA,2016,Winter,Rio,Judo,Marathon,Gold
+1347,John Doe,F,27,CAN,FRA,2000,Summer,Rio,Cycling,Marathon,Bronze
+1348,Kate Novak,F,35,BRA,CHN,2012,Winter,Athens,Swimming,Judo -60kg,Silver
+1349,Kate Novak,F,37,BRA,CAN,2012,Summer,Tokyo,Swimming,Double Sculls,Silver
+1350,Anna Schmidt,F,30,CHN,CAN,2016,Summer,Rio,Swimming,Sprint,
+1351,Tom Lee,F,25,CHN,CAN,2012,Winter,Beijing,Swimming,100m freestyle,Silver
+1352,Tom Lee,F,24,FRA,UKR,2004,Winter,London,Athletics,Sprint,Gold
+1353,Carlos Gomez,F,34,UKR,CAN,2000,Summer,Athens,Rowing,Marathon,
+1354,Anna Schmidt,M,38,GER,GER,2004,Summer,Rio,Rowing,100m freestyle,
+1355,Carlos Gomez,F,32,FRA,USA,2012,Summer,London,Athletics,Double Sculls,Bronze
+1356,Tom Lee,F,37,GER,FRA,2020,Summer,London,Swimming,Lightweight Boxing,Silver
+1357,Anna Schmidt,F,32,CHN,GER,2000,Summer,Rio,Judo,Lightweight Boxing,Gold
+1358,Anna Schmidt,M,18,BRA,USA,2004,Summer,Tokyo,Cycling,Sprint,
+1359,Anna Schmidt,M,31,CHN,BRA,2016,Winter,Tokyo,Rowing,Sprint,Gold
+1360,Tom Lee,F,22,BRA,BRA,2004,Summer,Athens,Boxing,100m freestyle,Gold
+1361,Carlos Gomez,F,28,FRA,USA,2020,Summer,Tokyo,Cycling,100m freestyle,Bronze
+1362,Carlos Gomez,F,33,BRA,GER,2012,Summer,Athens,Boxing,Double Sculls,Gold
+1363,Anna Schmidt,M,19,CHN,USA,2000,Summer,Beijing,Boxing,Sprint,Gold
+1364,Maria Ivanova,M,25,USA,CAN,2016,Summer,Rio,Swimming,Marathon,Silver
+1365,Liu Wei,F,28,GER,UKR,2000,Summer,London,Boxing,Lightweight Boxing,Gold
+1366,Tom Lee,M,35,CAN,FRA,2016,Summer,Athens,Swimming,Double Sculls,Gold
+1367,Liu Wei,F,20,BRA,BRA,2000,Winter,Tokyo,Athletics,100m freestyle,Gold
+1368,Liu Wei,M,18,BRA,FRA,2012,Summer,Athens,Judo,Marathon,Gold
+1369,Carlos Gomez,M,28,USA,UKR,2016,Summer,Athens,Boxing,Sprint,Bronze
+1370,Carlos Gomez,F,33,FRA,CAN,2008,Summer,Tokyo,Judo,Judo -60kg,
+1371,Maria Ivanova,F,35,FRA,CAN,2000,Winter,Tokyo,Swimming,100m freestyle,Silver
+1372,Liu Wei,F,33,FRA,BRA,2000,Summer,Rio,Boxing,Double Sculls,Bronze
+1373,Liu Wei,F,27,CAN,BRA,2004,Summer,London,Cycling,Judo -60kg,Gold
+1374,Anna Schmidt,M,35,UKR,CAN,2016,Summer,Rio,Athletics,Marathon,Gold
+1375,Carlos Gomez,M,23,USA,CHN,2020,Winter,Rio,Rowing,Lightweight Boxing,Silver
+1376,Liu Wei,M,36,CAN,FRA,2008,Summer,Tokyo,Athletics,Marathon,Bronze
+1377,Kate Novak,F,21,USA,UKR,2012,Summer,Tokyo,Boxing,Lightweight Boxing,Bronze
+1378,Maria Ivanova,M,30,BRA,FRA,2004,Winter,London,Athletics,Marathon,Bronze
+1379,Kate Novak,F,31,GER,UKR,2008,Summer,Athens,Rowing,100m freestyle,Silver
+1380,Kate Novak,M,20,USA,CHN,2016,Summer,Rio,Cycling,100m freestyle,Gold
+1381,Tom Lee,F,27,UKR,GER,2008,Summer,London,Judo,Double Sculls,
+1382,Tom Lee,F,23,CHN,UKR,2000,Summer,Rio,Cycling,Judo -60kg,Silver
+1383,Maria Ivanova,M,18,CAN,FRA,2000,Summer,Athens,Athletics,Marathon,Bronze
+1384,Kate Novak,F,31,USA,USA,2004,Summer,Rio,Rowing,Marathon,Bronze
+1385,Liu Wei,F,25,USA,CAN,2016,Summer,Beijing,Judo,Judo -60kg,Bronze
+1386,Carlos Gomez,M,36,UKR,CAN,2016,Summer,London,Rowing,Sprint,
+1387,Maria Ivanova,F,31,GER,CHN,2008,Winter,Tokyo,Cycling,Double Sculls,
+1388,Anna Schmidt,F,27,USA,UKR,2004,Summer,Rio,Swimming,Marathon,Bronze
+1389,Kate Novak,F,34,USA,GER,2016,Summer,London,Swimming,Double Sculls,Bronze
+1390,Maria Ivanova,M,26,GER,UKR,2020,Summer,London,Judo,Marathon,Silver
+1391,John Doe,M,23,UKR,CAN,2020,Summer,Rio,Judo,Marathon,
+1392,John Doe,F,28,CAN,BRA,2000,Summer,Tokyo,Judo,Sprint,Silver
+1393,Tom Lee,M,24,CAN,USA,2008,Summer,Tokyo,Swimming,100m freestyle,Gold
+1394,Carlos Gomez,F,34,USA,CHN,2012,Winter,Rio,Cycling,Double Sculls,Silver
+1395,Liu Wei,F,18,GER,BRA,2000,Summer,London,Judo,Judo -60kg,Gold
+1396,Carlos Gomez,F,39,USA,FRA,2004,Winter,Tokyo,Swimming,Double Sculls,Bronze
+1397,Carlos Gomez,F,22,FRA,GER,2016,Winter,Rio,Judo,Sprint,Bronze
+1398,Carlos Gomez,F,26,CHN,BRA,2000,Summer,Rio,Judo,Lightweight Boxing,Silver
+1399,Carlos Gomez,M,35,CAN,FRA,2012,Summer,Rio,Rowing,Lightweight Boxing,Gold
+1400,Anna Schmidt,F,38,FRA,BRA,2012,Winter,London,Judo,Sprint,
+1401,Anna Schmidt,M,19,BRA,GER,2020,Winter,Tokyo,Swimming,Sprint,
+1402,Tom Lee,M,28,CHN,BRA,2004,Summer,London,Cycling,100m freestyle,
+1403,Maria Ivanova,F,23,USA,CHN,2000,Summer,Beijing,Swimming,Double Sculls,Silver
+1404,John Doe,F,25,UKR,CAN,2008,Summer,Tokyo,Swimming,Double Sculls,
+1405,Carlos Gomez,M,21,CAN,UKR,2000,Winter,London,Judo,Lightweight Boxing,Silver
+1406,Tom Lee,M,35,BRA,BRA,2020,Summer,Tokyo,Rowing,Judo -60kg,Gold
+1407,Maria Ivanova,M,28,CHN,CHN,2012,Summer,Beijing,Boxing,Double Sculls,Gold
+1408,John Doe,F,22,CAN,UKR,2004,Winter,Athens,Boxing,Marathon,Silver
+1409,Kate Novak,M,32,GER,FRA,2004,Summer,Rio,Boxing,Marathon,Gold
+1410,Liu Wei,F,35,UKR,UKR,2008,Summer,London,Swimming,100m freestyle,
+1411,Anna Schmidt,F,19,CHN,FRA,2004,Summer,Beijing,Judo,100m freestyle,Gold
+1412,Kate Novak,F,39,GER,BRA,2020,Winter,Beijing,Boxing,Lightweight Boxing,Silver
+1413,John Doe,M,28,FRA,CHN,2020,Summer,Tokyo,Athletics,Judo -60kg,Silver
+1414,Kate Novak,F,30,USA,CAN,2020,Summer,Tokyo,Athletics,Judo -60kg,Silver
+1415,Liu Wei,F,21,GER,BRA,2004,Summer,Rio,Athletics,Sprint,Bronze
+1416,Tom Lee,F,39,CHN,FRA,2004,Summer,Tokyo,Cycling,100m freestyle,Gold
+1417,John Doe,F,24,CHN,GER,2020,Summer,London,Judo,Double Sculls,
+1418,Kate Novak,F,28,FRA,UKR,2004,Summer,London,Swimming,Marathon,Silver
+1419,Anna Schmidt,M,39,USA,BRA,2004,Summer,London,Swimming,Double Sculls,Bronze
+1420,Anna Schmidt,F,21,GER,FRA,2012,Winter,Athens,Judo,Marathon,Bronze
+1421,Maria Ivanova,F,32,GER,UKR,2000,Winter,London,Rowing,Lightweight Boxing,
+1422,Kate Novak,M,18,USA,FRA,2016,Summer,Tokyo,Rowing,Marathon,
+1423,Carlos Gomez,F,20,GER,CHN,2004,Summer,Tokyo,Cycling,Double Sculls,Bronze
+1424,Kate Novak,M,31,CAN,USA,2016,Summer,London,Judo,Double Sculls,Silver
+1425,Tom Lee,F,23,USA,BRA,2016,Winter,Beijing,Rowing,Judo -60kg,Bronze
+1426,John Doe,M,35,UKR,CAN,2012,Summer,Beijing,Cycling,Judo -60kg,
+1427,John Doe,M,18,CHN,BRA,2004,Summer,Beijing,Boxing,100m freestyle,
+1428,Tom Lee,F,23,UKR,UKR,2020,Summer,Rio,Boxing,Double Sculls,Gold
+1429,Kate Novak,F,23,CAN,CHN,2016,Summer,Athens,Cycling,Lightweight Boxing,Silver
+1430,Tom Lee,F,38,FRA,FRA,2004,Summer,London,Judo,Marathon,
+1431,Liu Wei,M,33,CAN,GER,2008,Summer,Rio,Boxing,100m freestyle,Silver
+1432,Tom Lee,M,22,BRA,CAN,2020,Summer,Beijing,Judo,Sprint,Silver
+1433,Anna Schmidt,M,34,BRA,CHN,2008,Summer,London,Rowing,Sprint,Silver
+1434,Tom Lee,F,27,BRA,BRA,2008,Summer,Rio,Boxing,Marathon,Bronze
+1435,John Doe,M,38,USA,GER,2016,Summer,Tokyo,Rowing,Marathon,
+1436,Anna Schmidt,M,35,GER,CHN,2008,Summer,Beijing,Judo,Marathon,Silver
+1437,John Doe,F,24,CAN,USA,2012,Summer,Rio,Judo,Judo -60kg,Gold
+1438,Maria Ivanova,M,20,UKR,CAN,2012,Summer,Tokyo,Athletics,Marathon,Gold
+1439,Carlos Gomez,M,30,FRA,UKR,2016,Summer,Beijing,Cycling,Sprint,Gold
+1440,John Doe,F,32,UKR,CHN,2004,Summer,Athens,Swimming,Marathon,Bronze
+1441,Anna Schmidt,M,37,UKR,CHN,2000,Summer,Beijing,Cycling,Double Sculls,Bronze
+1442,Maria Ivanova,F,36,UKR,USA,2004,Summer,Athens,Judo,Lightweight Boxing,Gold
+1443,John Doe,F,20,FRA,BRA,2004,Summer,Athens,Judo,Sprint,Bronze
+1444,Liu Wei,F,21,BRA,FRA,2004,Winter,Athens,Cycling,Lightweight Boxing,Bronze
+1445,Tom Lee,F,22,UKR,FRA,2004,Summer,London,Judo,Sprint,Silver
+1446,Carlos Gomez,F,18,FRA,CAN,2020,Summer,London,Rowing,100m freestyle,Silver
+1447,John Doe,M,21,FRA,CAN,2000,Summer,Athens,Boxing,Double Sculls,
+1448,Maria Ivanova,M,29,GER,UKR,2020,Summer,Tokyo,Judo,Sprint,Silver
+1449,Liu Wei,F,27,FRA,CHN,2008,Summer,Athens,Cycling,Double Sculls,
+1450,Kate Novak,F,38,BRA,GER,2004,Summer,Rio,Cycling,Sprint,Silver
+1451,Maria Ivanova,M,37,UKR,CHN,2012,Summer,Athens,Cycling,Lightweight Boxing,
+1452,Tom Lee,F,30,FRA,FRA,2016,Summer,London,Athletics,Lightweight Boxing,
+1453,Maria Ivanova,F,31,USA,UKR,2016,Summer,London,Rowing,Sprint,Bronze
+1454,Liu Wei,F,22,FRA,CHN,2020,Winter,Rio,Rowing,Sprint,
+1455,Maria Ivanova,M,21,CHN,USA,2020,Winter,Rio,Athletics,Judo -60kg,
+1456,Liu Wei,M,31,CHN,FRA,2012,Summer,Beijing,Rowing,Double Sculls,Bronze
+1457,John Doe,F,27,CHN,CHN,2004,Summer,Tokyo,Athletics,Double Sculls,Gold
+1458,Liu Wei,F,34,FRA,CHN,2000,Summer,Tokyo,Rowing,Double Sculls,Silver
+1459,Liu Wei,M,27,BRA,FRA,2008,Summer,Tokyo,Athletics,Double Sculls,
+1460,Carlos Gomez,M,24,UKR,GER,2016,Summer,London,Athletics,100m freestyle,Bronze
+1461,Liu Wei,F,33,CAN,FRA,2008,Summer,Tokyo,Rowing,100m freestyle,Gold
+1462,Liu Wei,F,18,CAN,USA,2000,Summer,Beijing,Athletics,Marathon,Gold
+1463,Kate Novak,M,34,CAN,USA,2020,Summer,Beijing,Rowing,Sprint,Bronze
+1464,John Doe,M,38,BRA,CHN,2016,Summer,Tokyo,Athletics,Sprint,Silver
+1465,Tom Lee,M,26,GER,CAN,2008,Summer,Rio,Cycling,Sprint,Silver
+1466,Carlos Gomez,F,23,USA,GER,2020,Winter,Beijing,Swimming,Sprint,Bronze
+1467,Kate Novak,M,36,USA,CHN,2000,Summer,Rio,Rowing,Double Sculls,Bronze
+1468,Anna Schmidt,F,30,CHN,FRA,2008,Summer,London,Athletics,Double Sculls,Gold
+1469,John Doe,M,20,CHN,CHN,2004,Summer,Beijing,Cycling,100m freestyle,Gold
+1470,John Doe,M,24,FRA,UKR,2020,Summer,Rio,Swimming,Lightweight Boxing,Gold
+1471,Anna Schmidt,M,39,CAN,UKR,2000,Summer,Tokyo,Athletics,Judo -60kg,Silver
+1472,Tom Lee,M,26,FRA,CAN,2008,Summer,London,Swimming,Double Sculls,Bronze
+1473,Liu Wei,F,39,CAN,GER,2004,Summer,Athens,Rowing,Double Sculls,Bronze
+1474,Kate Novak,F,22,CHN,BRA,2004,Summer,Athens,Swimming,Double Sculls,Gold
+1475,Maria Ivanova,M,27,UKR,UKR,2000,Summer,Tokyo,Boxing,Lightweight Boxing,Gold
+1476,Carlos Gomez,F,34,GER,BRA,2012,Summer,London,Judo,Lightweight Boxing,Gold
+1477,Maria Ivanova,M,29,FRA,USA,2016,Summer,London,Boxing,100m freestyle,
+1478,Anna Schmidt,M,33,GER,UKR,2000,Summer,London,Rowing,Double Sculls,Silver
+1479,John Doe,M,20,GER,UKR,2004,Summer,London,Rowing,Judo -60kg,
+1480,Tom Lee,M,39,GER,GER,2004,Summer,Athens,Swimming,Sprint,
+1481,John Doe,F,26,CHN,CAN,2000,Winter,Rio,Cycling,Double Sculls,Bronze
+1482,Carlos Gomez,M,32,USA,BRA,2012,Summer,London,Athletics,100m freestyle,Bronze
+1483,John Doe,M,22,CHN,FRA,2016,Summer,Rio,Judo,100m freestyle,Gold
+1484,John Doe,F,30,GER,UKR,2008,Summer,London,Athletics,Judo -60kg,Bronze
+1485,Carlos Gomez,M,31,CHN,UKR,2000,Winter,Beijing,Cycling,Marathon,Silver
+1486,Kate Novak,M,37,GER,GER,2016,Winter,Beijing,Rowing,100m freestyle,
+1487,Kate Novak,M,32,BRA,GER,2016,Summer,Beijing,Judo,Lightweight Boxing,Gold
+1488,Carlos Gomez,F,33,CAN,CAN,2020,Summer,London,Boxing,Lightweight Boxing,
+1489,Tom Lee,M,30,USA,BRA,2004,Summer,Rio,Rowing,Sprint,Gold
+1490,Anna Schmidt,F,34,BRA,USA,2008,Summer,Athens,Rowing,100m freestyle,
+1491,John Doe,M,25,UKR,FRA,2000,Summer,Tokyo,Swimming,Sprint,Silver
+1492,Tom Lee,M,38,CHN,CAN,2004,Summer,Athens,Cycling,100m freestyle,Bronze
+1493,John Doe,F,19,UKR,USA,2020,Summer,London,Swimming,Judo -60kg,Silver
+1494,Anna Schmidt,M,22,FRA,CHN,2020,Summer,Beijing,Swimming,Double Sculls,Silver
+1495,Kate Novak,M,23,CHN,UKR,2004,Winter,Beijing,Athletics,100m freestyle,Bronze
+1496,Tom Lee,F,29,CAN,BRA,2012,Summer,Rio,Rowing,Marathon,
+1497,Liu Wei,F,35,BRA,CAN,2016,Summer,London,Cycling,Lightweight Boxing,Gold
+1498,Liu Wei,F,39,CAN,UKR,2000,Summer,Athens,Swimming,Judo -60kg,
+1499,Liu Wei,F,39,FRA,BRA,2000,Winter,London,Boxing,Double Sculls,Bronze
+1500,Kate Novak,F,18,GER,BRA,2000,Winter,London,Judo,Double Sculls,
+1501,Kate Novak,M,34,CAN,BRA,2004,Summer,Beijing,Cycling,Lightweight Boxing,Silver
+1502,Anna Schmidt,F,28,CAN,UKR,2012,Summer,Athens,Athletics,Double Sculls,Silver
+1503,John Doe,M,27,GER,CAN,2008,Winter,Tokyo,Cycling,Sprint,
+1504,Anna Schmidt,M,36,CHN,FRA,2020,Summer,Beijing,Rowing,Judo -60kg,Silver
+1505,Anna Schmidt,M,31,GER,GER,2004,Summer,Athens,Athletics,Marathon,Bronze
+1506,Kate Novak,F,27,BRA,UKR,2008,Summer,Rio,Judo,Lightweight Boxing,Gold
+1507,Liu Wei,F,32,CAN,BRA,2020,Summer,Beijing,Boxing,100m freestyle,Gold
+1508,Maria Ivanova,M,36,GER,CAN,2020,Summer,Rio,Swimming,100m freestyle,Bronze
+1509,John Doe,F,21,FRA,FRA,2012,Winter,Beijing,Cycling,100m freestyle,Bronze
+1510,Kate Novak,F,19,FRA,CHN,2016,Summer,London,Athletics,Judo -60kg,Bronze
+1511,Liu Wei,F,26,CAN,USA,2000,Summer,Athens,Judo,Marathon,Gold
+1512,Tom Lee,F,27,BRA,BRA,2008,Summer,Rio,Swimming,Double Sculls,Silver
+1513,Maria Ivanova,M,28,UKR,CHN,2004,Summer,Beijing,Judo,Marathon,Silver
+1514,Maria Ivanova,M,31,BRA,GER,2008,Summer,Rio,Boxing,Marathon,Silver
+1515,Kate Novak,F,24,USA,FRA,2016,Summer,Beijing,Swimming,Lightweight Boxing,
+1516,Carlos Gomez,M,32,USA,FRA,2000,Summer,Beijing,Swimming,Judo -60kg,
+1517,John Doe,F,39,USA,BRA,2008,Summer,Tokyo,Swimming,100m freestyle,Gold
+1518,Maria Ivanova,F,36,CAN,FRA,2016,Summer,Tokyo,Athletics,Lightweight Boxing,
+1519,Kate Novak,M,39,FRA,CHN,2004,Summer,Tokyo,Swimming,Double Sculls,Silver
+1520,Kate Novak,M,32,CHN,BRA,2012,Winter,Rio,Judo,Marathon,Bronze
+1521,Liu Wei,M,25,FRA,UKR,2020,Summer,London,Athletics,100m freestyle,Gold
+1522,Tom Lee,F,28,CHN,CAN,2004,Summer,Beijing,Swimming,Judo -60kg,Bronze
+1523,Carlos Gomez,M,26,CHN,CHN,2000,Summer,Athens,Judo,Sprint,Gold
+1524,John Doe,F,32,FRA,CAN,2020,Summer,Tokyo,Judo,Marathon,Silver
+1525,Anna Schmidt,M,18,CAN,UKR,2004,Summer,Rio,Cycling,Marathon,Gold
+1526,Tom Lee,M,18,BRA,UKR,2004,Summer,Rio,Judo,Marathon,Gold
+1527,Tom Lee,F,36,CHN,CAN,2004,Summer,Rio,Rowing,Marathon,Gold
+1528,Liu Wei,F,20,UKR,CHN,2004,Summer,Athens,Boxing,100m freestyle,Gold
+1529,Maria Ivanova,F,27,FRA,CAN,2020,Summer,Athens,Swimming,Judo -60kg,Gold
+1530,Maria Ivanova,F,25,FRA,CAN,2000,Summer,Tokyo,Swimming,Lightweight Boxing,Bronze
+1531,Liu Wei,F,32,USA,USA,2016,Summer,Athens,Swimming,100m freestyle,Gold
+1532,Kate Novak,F,27,BRA,CHN,2008,Summer,Tokyo,Judo,Judo -60kg,Bronze
+1533,Maria Ivanova,F,18,USA,USA,2012,Summer,Athens,Judo,Lightweight Boxing,Gold
+1534,Carlos Gomez,F,35,FRA,BRA,2008,Summer,Athens,Swimming,Marathon,
+1535,John Doe,M,19,FRA,FRA,2008,Summer,Athens,Rowing,Judo -60kg,
+1536,Tom Lee,F,36,CHN,CAN,2012,Summer,Tokyo,Athletics,Marathon,Gold
+1537,Tom Lee,F,30,BRA,BRA,2020,Summer,Beijing,Athletics,Judo -60kg,Bronze
+1538,Carlos Gomez,M,39,GER,CHN,2000,Summer,Tokyo,Boxing,Double Sculls,Gold
+1539,Maria Ivanova,F,18,UKR,CAN,2012,Winter,Beijing,Cycling,Sprint,
+1540,Tom Lee,M,19,CHN,FRA,2000,Winter,Rio,Boxing,Marathon,Bronze
+1541,Anna Schmidt,M,33,FRA,BRA,2020,Summer,Rio,Swimming,Marathon,Gold
+1542,John Doe,F,32,CHN,GER,2008,Summer,Tokyo,Swimming,Marathon,Silver
+1543,John Doe,M,30,UKR,UKR,2000,Summer,Beijing,Swimming,Double Sculls,Gold
+1544,Tom Lee,F,33,FRA,CAN,2020,Summer,Beijing,Cycling,100m freestyle,Silver
+1545,Liu Wei,M,34,UKR,FRA,2020,Summer,Beijing,Judo,Lightweight Boxing,Bronze
+1546,Tom Lee,M,38,GER,UKR,2016,Summer,Rio,Cycling,Marathon,Silver
+1547,Liu Wei,M,24,CHN,USA,2012,Summer,Tokyo,Boxing,Marathon,Silver
+1548,Tom Lee,F,34,CAN,BRA,2016,Winter,London,Judo,100m freestyle,Gold
+1549,Anna Schmidt,F,24,CHN,USA,2008,Summer,Beijing,Judo,100m freestyle,Gold
+1550,Kate Novak,M,30,USA,FRA,2012,Winter,Beijing,Boxing,Sprint,Gold
+1551,John Doe,M,22,BRA,CAN,2008,Summer,London,Judo,Judo -60kg,
+1552,Tom Lee,F,34,BRA,UKR,2016,Summer,Tokyo,Athletics,Marathon,Gold
+1553,Anna Schmidt,F,20,USA,UKR,2020,Summer,Beijing,Boxing,Judo -60kg,Bronze
+1554,Liu Wei,M,24,FRA,BRA,2008,Summer,Tokyo,Boxing,100m freestyle,Silver
+1555,Liu Wei,M,34,BRA,CAN,2012,Summer,Beijing,Athletics,100m freestyle,Gold
+1556,John Doe,F,24,UKR,GER,2012,Summer,Athens,Cycling,Sprint,Bronze
+1557,Carlos Gomez,F,38,BRA,GER,2008,Summer,Beijing,Cycling,Lightweight Boxing,Silver
+1558,Tom Lee,F,18,BRA,BRA,2012,Summer,Athens,Cycling,Double Sculls,Silver
+1559,Maria Ivanova,F,34,USA,CAN,2020,Winter,Tokyo,Judo,Double Sculls,Bronze
+1560,Liu Wei,F,34,FRA,BRA,2020,Summer,Beijing,Athletics,Double Sculls,Silver
+1561,Kate Novak,M,28,GER,CAN,2012,Winter,Rio,Boxing,100m freestyle,Silver
+1562,Kate Novak,F,20,BRA,FRA,2008,Summer,Rio,Boxing,Marathon,Bronze
+1563,Liu Wei,M,32,CAN,FRA,2016,Summer,London,Boxing,Sprint,Bronze
+1564,Carlos Gomez,F,38,BRA,USA,2012,Summer,Rio,Judo,Lightweight Boxing,Gold
+1565,Carlos Gomez,M,28,GER,BRA,2012,Summer,Athens,Judo,Double Sculls,Silver
+1566,Anna Schmidt,F,33,USA,CAN,2012,Winter,Rio,Rowing,Sprint,Gold
+1567,Kate Novak,F,39,GER,GER,2012,Summer,Rio,Cycling,100m freestyle,Gold
+1568,Anna Schmidt,M,26,USA,CAN,2008,Summer,Rio,Rowing,Double Sculls,Bronze
+1569,Kate Novak,M,18,UKR,FRA,2016,Summer,Beijing,Rowing,Lightweight Boxing,
+1570,Tom Lee,F,39,USA,CAN,2016,Summer,London,Judo,Judo -60kg,
+1571,Tom Lee,F,33,UKR,BRA,2000,Summer,Tokyo,Cycling,Lightweight Boxing,Gold
+1572,Maria Ivanova,F,26,UKR,USA,2012,Summer,London,Cycling,Marathon,Silver
+1573,Tom Lee,F,36,USA,USA,2012,Summer,Athens,Boxing,Double Sculls,Bronze
+1574,Maria Ivanova,F,29,CAN,USA,2000,Summer,Beijing,Judo,Double Sculls,Gold
+1575,Tom Lee,M,36,CHN,USA,2016,Winter,Beijing,Cycling,Judo -60kg,
+1576,John Doe,M,39,USA,FRA,2004,Summer,Rio,Rowing,Judo -60kg,Bronze
+1577,Tom Lee,F,26,BRA,CHN,2020,Summer,Rio,Athletics,Double Sculls,
+1578,Anna Schmidt,M,24,CAN,BRA,2004,Summer,Athens,Athletics,Marathon,Gold
+1579,Liu Wei,M,31,CAN,UKR,2016,Summer,Beijing,Judo,Judo -60kg,Gold
+1580,Anna Schmidt,M,36,BRA,BRA,2012,Summer,Tokyo,Boxing,100m freestyle,
+1581,Liu Wei,F,36,CHN,CHN,2004,Summer,London,Boxing,Double Sculls,Bronze
+1582,Carlos Gomez,M,19,CAN,USA,2008,Summer,Beijing,Cycling,Lightweight Boxing,
+1583,Anna Schmidt,F,26,UKR,CHN,2008,Summer,Tokyo,Judo,Lightweight Boxing,Gold
+1584,Carlos Gomez,M,30,CHN,GER,2000,Summer,Tokyo,Athletics,Marathon,Bronze
+1585,Maria Ivanova,F,32,FRA,GER,2016,Summer,London,Rowing,100m freestyle,Bronze
+1586,Maria Ivanova,M,20,BRA,FRA,2016,Summer,Tokyo,Cycling,Judo -60kg,Gold
+1587,John Doe,F,28,CHN,BRA,2004,Summer,Athens,Rowing,Double Sculls,Bronze
+1588,Tom Lee,F,38,USA,BRA,2012,Winter,Tokyo,Cycling,Lightweight Boxing,Bronze
+1589,Anna Schmidt,M,31,CHN,UKR,2016,Summer,Athens,Swimming,Lightweight Boxing,Gold
+1590,Carlos Gomez,F,25,UKR,FRA,2004,Winter,Tokyo,Rowing,Lightweight Boxing,Silver
+1591,Liu Wei,F,35,USA,UKR,2004,Summer,Rio,Judo,Lightweight Boxing,Bronze
+1592,Maria Ivanova,F,36,GER,GER,2020,Summer,Tokyo,Rowing,Sprint,Silver
+1593,Tom Lee,F,33,BRA,USA,2020,Summer,Athens,Rowing,Marathon,
+1594,Maria Ivanova,F,19,BRA,CHN,2016,Summer,Tokyo,Cycling,Judo -60kg,Silver
+1595,Liu Wei,F,25,CHN,UKR,2004,Summer,Tokyo,Athletics,Double Sculls,Silver
+1596,Tom Lee,F,39,CAN,CAN,2000,Summer,Tokyo,Swimming,Double Sculls,
+1597,Tom Lee,F,23,USA,UKR,2000,Winter,Athens,Rowing,Double Sculls,
+1598,Carlos Gomez,M,29,GER,USA,2020,Summer,Tokyo,Athletics,Judo -60kg,Gold
+1599,Carlos Gomez,M,32,USA,USA,2016,Summer,London,Boxing,Marathon,
+1600,Anna Schmidt,F,25,BRA,BRA,2012,Summer,London,Swimming,100m freestyle,Gold
+1601,Anna Schmidt,F,21,USA,CHN,2000,Summer,Athens,Swimming,Marathon,Gold
+1602,Kate Novak,M,32,GER,USA,2000,Summer,Rio,Cycling,Lightweight Boxing,Silver
+1603,Kate Novak,M,37,CAN,FRA,2020,Summer,London,Rowing,Lightweight Boxing,Silver
+1604,John Doe,M,34,CHN,UKR,2020,Summer,Beijing,Boxing,Marathon,
+1605,Maria Ivanova,F,30,UKR,UKR,2016,Summer,London,Cycling,Marathon,Bronze
+1606,Anna Schmidt,M,35,USA,GER,2020,Winter,Beijing,Judo,Judo -60kg,
+1607,Carlos Gomez,F,19,UKR,USA,2008,Summer,Athens,Athletics,Judo -60kg,Bronze
+1608,Liu Wei,F,30,BRA,CAN,2004,Summer,Rio,Athletics,Sprint,Silver
+1609,Carlos Gomez,M,30,CHN,BRA,2000,Winter,Beijing,Cycling,Double Sculls,Bronze
+1610,Maria Ivanova,F,39,FRA,CHN,2008,Summer,Beijing,Athletics,Sprint,
+1611,Kate Novak,F,32,CHN,CAN,2012,Summer,London,Rowing,Double Sculls,Bronze
+1612,Carlos Gomez,F,37,USA,BRA,2008,Summer,Beijing,Athletics,Lightweight Boxing,
+1613,John Doe,F,27,CAN,UKR,2016,Summer,Athens,Rowing,Sprint,
+1614,Maria Ivanova,M,20,CHN,CAN,2012,Summer,Athens,Judo,Sprint,Gold
+1615,Kate Novak,M,36,USA,BRA,2012,Summer,Athens,Boxing,100m freestyle,Bronze
+1616,Liu Wei,F,20,USA,UKR,2020,Summer,London,Swimming,Marathon,
+1617,Kate Novak,F,39,UKR,UKR,2008,Summer,Rio,Cycling,Judo -60kg,
+1618,Tom Lee,M,31,CHN,UKR,2016,Summer,London,Cycling,Sprint,Gold
+1619,John Doe,F,25,USA,UKR,2000,Winter,Athens,Rowing,Judo -60kg,Bronze
+1620,Maria Ivanova,M,21,UKR,FRA,2020,Summer,London,Judo,Double Sculls,Bronze
+1621,Liu Wei,F,37,GER,UKR,2008,Summer,Athens,Judo,Sprint,Gold
+1622,John Doe,F,28,FRA,GER,2000,Summer,Tokyo,Swimming,Double Sculls,Bronze
+1623,Kate Novak,M,28,UKR,CAN,2008,Winter,Tokyo,Boxing,Sprint,Silver
+1624,John Doe,M,28,UKR,BRA,2020,Summer,Beijing,Cycling,Lightweight Boxing,Silver
+1625,Maria Ivanova,M,19,USA,GER,2000,Summer,Rio,Rowing,100m freestyle,Silver
+1626,Anna Schmidt,M,34,BRA,FRA,2020,Winter,Tokyo,Judo,Double Sculls,Bronze
+1627,John Doe,F,26,BRA,GER,2008,Summer,Athens,Cycling,Marathon,Silver
+1628,Tom Lee,M,19,CAN,USA,2012,Winter,London,Rowing,Marathon,Silver
+1629,John Doe,F,32,BRA,USA,2004,Summer,London,Athletics,Lightweight Boxing,Silver
+1630,Kate Novak,M,33,UKR,USA,2012,Summer,Beijing,Cycling,Lightweight Boxing,Gold
+1631,Kate Novak,M,21,CAN,CHN,2020,Winter,London,Boxing,Marathon,Gold
+1632,Liu Wei,F,25,USA,USA,2020,Summer,Tokyo,Rowing,Double Sculls,Gold
+1633,Kate Novak,M,26,CHN,BRA,2020,Summer,London,Boxing,Marathon,Bronze
+1634,Carlos Gomez,M,22,FRA,GER,2000,Summer,Tokyo,Cycling,100m freestyle,
+1635,Maria Ivanova,M,33,FRA,BRA,2016,Winter,Tokyo,Athletics,Sprint,Gold
+1636,Maria Ivanova,M,30,UKR,CAN,2020,Summer,Rio,Boxing,100m freestyle,Gold
+1637,Anna Schmidt,F,24,UKR,USA,2012,Summer,Beijing,Judo,Marathon,Bronze
+1638,Anna Schmidt,F,37,CAN,FRA,2004,Summer,Athens,Rowing,Sprint,Silver
+1639,Maria Ivanova,M,34,USA,CHN,2020,Summer,Tokyo,Cycling,Marathon,
+1640,Tom Lee,M,20,GER,CAN,2020,Summer,Beijing,Athletics,100m freestyle,Bronze
+1641,Anna Schmidt,M,22,UKR,FRA,2020,Summer,Athens,Judo,100m freestyle,Silver
+1642,Liu Wei,F,36,GER,CHN,2000,Summer,London,Cycling,Double Sculls,Silver
+1643,Kate Novak,F,29,GER,CAN,2020,Summer,Beijing,Athletics,Double Sculls,Bronze
+1644,Maria Ivanova,F,24,BRA,GER,2012,Summer,Beijing,Judo,100m freestyle,Gold
+1645,Anna Schmidt,F,26,USA,BRA,2008,Summer,Beijing,Boxing,Sprint,Gold
+1646,Maria Ivanova,M,23,FRA,UKR,2016,Winter,London,Cycling,Double Sculls,Gold
+1647,Carlos Gomez,M,34,FRA,BRA,2020,Winter,London,Cycling,Double Sculls,
+1648,John Doe,M,33,GER,USA,2000,Summer,Beijing,Boxing,Judo -60kg,Bronze
+1649,Kate Novak,F,20,FRA,FRA,2012,Summer,Rio,Swimming,Judo -60kg,Gold
+1650,Maria Ivanova,M,38,USA,UKR,2020,Summer,Tokyo,Judo,Double Sculls,Bronze
+1651,John Doe,F,21,BRA,CHN,2000,Summer,London,Boxing,Marathon,Silver
+1652,Anna Schmidt,F,27,USA,GER,2008,Summer,Rio,Cycling,Sprint,Bronze
+1653,John Doe,M,22,UKR,GER,2004,Summer,London,Judo,Lightweight Boxing,Gold
+1654,Kate Novak,M,38,GER,CHN,2020,Summer,Beijing,Judo,Double Sculls,Bronze
+1655,Maria Ivanova,M,39,USA,USA,2012,Winter,Rio,Swimming,Judo -60kg,
+1656,Carlos Gomez,F,27,FRA,CHN,2000,Summer,Athens,Cycling,Sprint,Gold
+1657,Tom Lee,F,29,CHN,CAN,2000,Summer,Tokyo,Athletics,Sprint,Silver
+1658,Anna Schmidt,M,27,USA,FRA,2020,Summer,Tokyo,Swimming,Judo -60kg,Gold
+1659,Maria Ivanova,M,30,GER,FRA,2000,Winter,London,Swimming,Sprint,Gold
+1660,Kate Novak,F,28,BRA,USA,2004,Summer,Tokyo,Athletics,Sprint,Silver
+1661,Anna Schmidt,M,39,FRA,UKR,2000,Summer,Athens,Athletics,Judo -60kg,
+1662,Liu Wei,F,33,BRA,CHN,2016,Summer,Rio,Swimming,100m freestyle,
+1663,John Doe,F,25,GER,USA,2016,Summer,Rio,Judo,Double Sculls,Gold
+1664,Tom Lee,M,25,FRA,FRA,2000,Summer,Beijing,Boxing,Marathon,Bronze
+1665,Kate Novak,M,25,UKR,UKR,2020,Summer,Rio,Boxing,Lightweight Boxing,Bronze
+1666,Liu Wei,M,30,FRA,CHN,2016,Summer,London,Swimming,Marathon,Bronze
+1667,Maria Ivanova,M,19,UKR,GER,2012,Summer,Athens,Judo,100m freestyle,Silver
+1668,Carlos Gomez,F,29,BRA,CHN,2016,Summer,Beijing,Athletics,100m freestyle,Gold
+1669,Anna Schmidt,F,27,BRA,BRA,2000,Winter,London,Rowing,Sprint,Silver
+1670,John Doe,F,29,GER,CHN,2020,Summer,London,Swimming,Marathon,Silver
+1671,Anna Schmidt,M,28,UKR,BRA,2008,Summer,London,Cycling,100m freestyle,
+1672,Tom Lee,F,32,BRA,UKR,2020,Summer,Tokyo,Judo,Marathon,
+1673,Maria Ivanova,M,33,UKR,CHN,2020,Summer,London,Cycling,100m freestyle,Gold
+1674,Anna Schmidt,M,34,BRA,UKR,2020,Summer,Tokyo,Cycling,Lightweight Boxing,Gold
+1675,John Doe,M,19,FRA,UKR,2012,Summer,Rio,Swimming,100m freestyle,
+1676,Maria Ivanova,M,35,USA,FRA,2004,Winter,Tokyo,Judo,Marathon,Bronze
+1677,Anna Schmidt,M,29,CHN,USA,2000,Winter,London,Cycling,Sprint,
+1678,Carlos Gomez,M,36,FRA,UKR,2004,Summer,Athens,Judo,Marathon,Gold
+1679,Kate Novak,F,35,CAN,UKR,2008,Summer,Athens,Boxing,Judo -60kg,Bronze
+1680,Maria Ivanova,M,34,USA,FRA,2004,Summer,Rio,Rowing,Marathon,Bronze
+1681,Kate Novak,F,23,CAN,FRA,2000,Summer,London,Cycling,Lightweight Boxing,
+1682,Maria Ivanova,F,32,BRA,CHN,2000,Summer,Tokyo,Cycling,Double Sculls,Gold
+1683,Carlos Gomez,M,20,CHN,FRA,2008,Summer,Athens,Judo,Lightweight Boxing,Gold
+1684,Kate Novak,M,23,CHN,CHN,2000,Winter,Beijing,Rowing,Lightweight Boxing,Silver
+1685,Liu Wei,M,20,BRA,GER,2008,Summer,London,Boxing,100m freestyle,
+1686,John Doe,F,18,BRA,FRA,2008,Winter,London,Cycling,Lightweight Boxing,
+1687,Liu Wei,M,30,UKR,USA,2000,Summer,Beijing,Swimming,Marathon,
+1688,Anna Schmidt,F,38,BRA,UKR,2016,Summer,Athens,Judo,Double Sculls,
+1689,Carlos Gomez,M,31,GER,USA,2008,Summer,Beijing,Judo,Sprint,Gold
+1690,Liu Wei,M,30,BRA,BRA,2000,Summer,Rio,Cycling,Lightweight Boxing,Gold
+1691,Maria Ivanova,F,21,GER,FRA,2016,Summer,Tokyo,Boxing,Marathon,Gold
+1692,Anna Schmidt,F,24,BRA,UKR,2008,Summer,Tokyo,Cycling,100m freestyle,Silver
+1693,Anna Schmidt,M,39,UKR,USA,2016,Summer,Athens,Athletics,100m freestyle,
+1694,Liu Wei,F,27,GER,FRA,2012,Winter,Beijing,Cycling,Sprint,
+1695,Liu Wei,F,24,USA,FRA,2020,Summer,London,Rowing,Sprint,Gold
+1696,Carlos Gomez,F,38,GER,GER,2012,Summer,London,Rowing,Marathon,Bronze
+1697,John Doe,F,32,FRA,GER,2016,Winter,London,Athletics,Sprint,
+1698,Liu Wei,F,32,UKR,UKR,2008,Summer,Rio,Rowing,Sprint,Silver
+1699,Tom Lee,M,21,CAN,BRA,2000,Summer,Rio,Rowing,100m freestyle,Gold
+1700,Liu Wei,M,23,GER,GER,2004,Summer,London,Swimming,Marathon,Silver
+1701,Kate Novak,F,37,FRA,GER,2000,Summer,Athens,Judo,Double Sculls,Silver
+1702,Maria Ivanova,M,22,FRA,BRA,2004,Winter,Rio,Rowing,Sprint,Bronze
+1703,Tom Lee,M,37,FRA,USA,2004,Summer,Rio,Judo,Marathon,Silver
+1704,Tom Lee,F,29,BRA,GER,2008,Summer,Tokyo,Boxing,Lightweight Boxing,Gold
+1705,Kate Novak,M,18,FRA,CHN,2016,Summer,Tokyo,Cycling,100m freestyle,
+1706,Kate Novak,F,25,BRA,CAN,2000,Summer,Athens,Swimming,Double Sculls,Bronze
+1707,Anna Schmidt,F,18,CAN,CAN,2016,Summer,Rio,Athletics,100m freestyle,Silver
+1708,John Doe,M,22,UKR,GER,2012,Winter,Rio,Boxing,100m freestyle,
+1709,Maria Ivanova,F,39,CHN,USA,2008,Summer,Beijing,Swimming,Judo -60kg,Gold
+1710,Carlos Gomez,F,23,BRA,FRA,2008,Summer,Athens,Swimming,Marathon,Gold
+1711,Tom Lee,F,38,FRA,USA,2012,Summer,Athens,Athletics,Lightweight Boxing,
+1712,Carlos Gomez,F,20,FRA,UKR,2000,Summer,Beijing,Athletics,Sprint,Silver
+1713,Liu Wei,F,32,USA,CHN,2020,Summer,Beijing,Judo,Lightweight Boxing,
+1714,Liu Wei,M,22,FRA,USA,2012,Winter,Tokyo,Cycling,Marathon,Silver
+1715,Carlos Gomez,M,31,UKR,BRA,2000,Summer,Athens,Boxing,100m freestyle,Gold
+1716,Liu Wei,F,35,GER,CHN,2004,Summer,Athens,Cycling,Judo -60kg,Bronze
+1717,John Doe,F,33,GER,CAN,2008,Summer,Beijing,Boxing,Marathon,Gold
+1718,Kate Novak,M,23,FRA,CHN,2000,Summer,London,Swimming,Double Sculls,
+1719,Liu Wei,F,31,USA,BRA,2016,Summer,London,Rowing,Double Sculls,Bronze
+1720,Anna Schmidt,M,25,BRA,GER,2016,Summer,Tokyo,Rowing,Marathon,
+1721,Liu Wei,F,24,UKR,BRA,2008,Summer,London,Athletics,Sprint,
+1722,Maria Ivanova,F,25,USA,BRA,2012,Winter,London,Athletics,Lightweight Boxing,Gold
+1723,John Doe,F,30,BRA,GER,2020,Summer,London,Swimming,Lightweight Boxing,
+1724,Maria Ivanova,F,23,UKR,GER,2012,Summer,Rio,Swimming,Sprint,Bronze
+1725,Maria Ivanova,F,35,FRA,GER,2000,Summer,Tokyo,Boxing,Judo -60kg,Bronze
+1726,Anna Schmidt,F,19,GER,GER,2012,Summer,Beijing,Swimming,100m freestyle,
+1727,John Doe,F,25,UKR,GER,2008,Winter,London,Boxing,100m freestyle,Bronze
+1728,John Doe,M,28,FRA,BRA,2000,Winter,Rio,Cycling,Double Sculls,Silver
+1729,John Doe,M,18,CAN,UKR,2004,Summer,London,Athletics,Judo -60kg,Bronze
+1730,John Doe,M,39,CHN,UKR,2012,Winter,Rio,Athletics,Sprint,Silver
+1731,John Doe,F,23,UKR,USA,2012,Summer,Tokyo,Rowing,Marathon,Gold
+1732,Anna Schmidt,F,33,CHN,UKR,2020,Winter,London,Rowing,Lightweight Boxing,Bronze
+1733,Liu Wei,F,37,UKR,CAN,2000,Summer,Rio,Athletics,Marathon,Gold
+1734,Maria Ivanova,F,29,CHN,UKR,2016,Summer,Athens,Cycling,Lightweight Boxing,Gold
+1735,John Doe,F,28,CAN,BRA,2012,Summer,Athens,Cycling,Marathon,Gold
+1736,Tom Lee,F,27,GER,GER,2008,Winter,Rio,Judo,Sprint,Bronze
+1737,Liu Wei,F,20,BRA,GER,2012,Summer,London,Boxing,Sprint,Silver
+1738,Liu Wei,M,30,CHN,FRA,2020,Summer,London,Rowing,Judo -60kg,
+1739,Maria Ivanova,F,20,CAN,FRA,2004,Summer,Tokyo,Boxing,Marathon,Silver
+1740,Anna Schmidt,M,32,CHN,FRA,2020,Summer,Tokyo,Rowing,Marathon,Silver
+1741,Carlos Gomez,M,33,GER,BRA,2012,Summer,Beijing,Judo,Judo -60kg,Silver
+1742,Carlos Gomez,F,30,CHN,CAN,2016,Winter,Tokyo,Athletics,Judo -60kg,Bronze
+1743,Liu Wei,F,34,CAN,UKR,2012,Summer,London,Boxing,Sprint,Silver
+1744,Kate Novak,M,20,FRA,BRA,2000,Winter,Beijing,Rowing,Sprint,
+1745,Kate Novak,M,37,CAN,USA,2012,Summer,Tokyo,Boxing,Double Sculls,
+1746,Maria Ivanova,F,28,USA,GER,2016,Summer,Rio,Athletics,Marathon,
+1747,Carlos Gomez,F,38,GER,FRA,2000,Summer,Athens,Swimming,Sprint,
+1748,Liu Wei,M,36,FRA,CHN,2008,Summer,Tokyo,Rowing,Sprint,Silver
+1749,Anna Schmidt,F,39,USA,USA,2000,Summer,Tokyo,Swimming,Marathon,Bronze
+1750,Carlos Gomez,F,28,GER,FRA,2020,Summer,Rio,Judo,Judo -60kg,Bronze
+1751,Liu Wei,F,33,FRA,CAN,2004,Summer,London,Cycling,Marathon,Bronze
+1752,Liu Wei,M,38,CHN,USA,2020,Summer,Rio,Boxing,100m freestyle,
+1753,John Doe,M,20,FRA,BRA,2000,Summer,Tokyo,Rowing,Marathon,Bronze
+1754,Anna Schmidt,M,39,CAN,UKR,2008,Summer,London,Boxing,100m freestyle,
+1755,John Doe,F,23,USA,GER,2012,Summer,Beijing,Judo,Marathon,Silver
+1756,Maria Ivanova,F,31,CHN,CAN,2000,Summer,Tokyo,Judo,100m freestyle,
+1757,John Doe,M,35,CAN,CAN,2020,Summer,Rio,Boxing,100m freestyle,Bronze
+1758,Tom Lee,M,34,GER,CHN,2000,Summer,Beijing,Rowing,Marathon,Bronze
+1759,John Doe,M,21,FRA,USA,2000,Summer,Athens,Athletics,Double Sculls,Silver
+1760,Tom Lee,F,32,CAN,CHN,2000,Summer,Beijing,Athletics,Sprint,
+1761,Carlos Gomez,M,28,CHN,UKR,2008,Summer,Rio,Cycling,Lightweight Boxing,
+1762,Kate Novak,M,20,USA,FRA,2016,Summer,Beijing,Boxing,Sprint,Gold
+1763,Liu Wei,F,20,USA,UKR,2016,Summer,Rio,Boxing,100m freestyle,Bronze
+1764,Tom Lee,F,33,FRA,FRA,2000,Summer,Tokyo,Rowing,Marathon,Silver
+1765,Anna Schmidt,F,22,CAN,CHN,2008,Summer,London,Boxing,Marathon,
+1766,John Doe,M,38,CHN,GER,2008,Summer,Athens,Rowing,Marathon,Silver
+1767,Tom Lee,F,27,UKR,UKR,2000,Summer,London,Boxing,Marathon,Gold
+1768,Anna Schmidt,F,36,GER,CHN,2020,Summer,London,Judo,Double Sculls,Silver
+1769,Kate Novak,M,21,GER,USA,2020,Summer,London,Swimming,Lightweight Boxing,Bronze
+1770,Kate Novak,F,36,CHN,CHN,2004,Summer,Rio,Boxing,Judo -60kg,Gold
+1771,John Doe,M,28,UKR,CHN,2000,Summer,Rio,Swimming,100m freestyle,Bronze
+1772,Maria Ivanova,M,19,USA,BRA,2004,Winter,Athens,Athletics,Lightweight Boxing,
+1773,John Doe,F,27,FRA,UKR,2020,Winter,Rio,Cycling,Sprint,
+1774,Carlos Gomez,F,28,BRA,GER,2020,Summer,Rio,Athletics,Judo -60kg,Gold
+1775,Tom Lee,F,37,BRA,GER,2000,Summer,Rio,Boxing,Judo -60kg,
+1776,Liu Wei,F,33,FRA,BRA,2004,Summer,Rio,Rowing,Marathon,Bronze
+1777,Maria Ivanova,F,36,CHN,FRA,2004,Summer,Tokyo,Athletics,Lightweight Boxing,Gold
+1778,John Doe,F,28,UKR,CAN,2000,Summer,Athens,Judo,Sprint,Gold
+1779,Anna Schmidt,M,31,UKR,FRA,2004,Summer,Rio,Swimming,Marathon,Gold
+1780,Maria Ivanova,M,19,GER,GER,2012,Summer,Athens,Rowing,Marathon,
+1781,Tom Lee,F,22,USA,CHN,2020,Summer,Beijing,Rowing,Double Sculls,Gold
+1782,Maria Ivanova,M,22,CAN,BRA,2016,Winter,Tokyo,Boxing,100m freestyle,Gold
+1783,Tom Lee,F,36,UKR,USA,2008,Summer,Rio,Judo,Judo -60kg,
+1784,John Doe,M,38,FRA,UKR,2004,Winter,Tokyo,Swimming,Sprint,Bronze
+1785,Tom Lee,M,29,CAN,UKR,2004,Winter,Tokyo,Judo,Judo -60kg,
+1786,Maria Ivanova,M,35,BRA,UKR,2008,Summer,Beijing,Athletics,Lightweight Boxing,Bronze
+1787,Anna Schmidt,F,21,CAN,CHN,2004,Summer,Athens,Boxing,100m freestyle,Gold
+1788,Kate Novak,M,39,USA,USA,2008,Summer,Tokyo,Rowing,Marathon,
+1789,Maria Ivanova,F,34,FRA,BRA,2000,Summer,London,Rowing,100m freestyle,Gold
+1790,Tom Lee,M,27,USA,BRA,2012,Summer,Beijing,Athletics,Marathon,Bronze
+1791,Kate Novak,M,37,CAN,UKR,2012,Summer,London,Rowing,100m freestyle,Bronze
+1792,Tom Lee,M,23,CHN,USA,2020,Summer,Beijing,Cycling,Marathon,Gold
+1793,Anna Schmidt,M,31,UKR,USA,2016,Summer,London,Boxing,Judo -60kg,
+1794,Tom Lee,M,28,FRA,USA,2004,Summer,London,Athletics,Judo -60kg,Silver
+1795,John Doe,F,28,CHN,GER,2016,Summer,Tokyo,Boxing,Judo -60kg,Gold
+1796,Liu Wei,F,35,CAN,GER,2000,Summer,Tokyo,Swimming,Judo -60kg,
+1797,Maria Ivanova,M,39,UKR,UKR,2012,Summer,Beijing,Boxing,100m freestyle,Bronze
+1798,Liu Wei,M,35,GER,USA,2000,Summer,Athens,Boxing,Marathon,Bronze
+1799,Tom Lee,M,28,CHN,CAN,2000,Summer,Tokyo,Swimming,Judo -60kg,Bronze
+1800,Anna Schmidt,M,38,CHN,USA,2004,Summer,Tokyo,Athletics,100m freestyle,
+1801,Maria Ivanova,F,29,CAN,BRA,2000,Summer,Rio,Boxing,Marathon,Gold
+1802,Tom Lee,M,22,BRA,BRA,2012,Winter,Tokyo,Judo,100m freestyle,Silver
+1803,Kate Novak,F,26,CAN,UKR,2016,Summer,Athens,Boxing,Double Sculls,Silver
+1804,Carlos Gomez,M,26,CHN,CAN,2012,Summer,Rio,Athletics,Judo -60kg,Gold
+1805,Tom Lee,F,39,UKR,USA,2004,Summer,London,Rowing,Lightweight Boxing,Bronze
+1806,Liu Wei,M,27,BRA,FRA,2012,Winter,London,Swimming,100m freestyle,Silver
+1807,Maria Ivanova,M,39,CAN,CAN,2008,Summer,Rio,Rowing,Judo -60kg,Silver
+1808,Liu Wei,F,36,FRA,UKR,2016,Summer,Rio,Athletics,Sprint,Gold
+1809,Maria Ivanova,M,18,CAN,BRA,2008,Summer,Rio,Cycling,Marathon,Bronze
+1810,Tom Lee,M,24,CHN,FRA,2008,Summer,Beijing,Rowing,Double Sculls,
+1811,John Doe,M,21,CHN,BRA,2020,Summer,Athens,Boxing,Judo -60kg,Silver
+1812,Kate Novak,F,18,GER,GER,2004,Summer,Athens,Boxing,Sprint,Bronze
+1813,Tom Lee,M,32,CAN,UKR,2000,Winter,London,Swimming,100m freestyle,Gold
+1814,Liu Wei,M,25,CHN,UKR,2008,Summer,London,Boxing,100m freestyle,Bronze
+1815,Carlos Gomez,F,29,FRA,USA,2012,Summer,London,Judo,Sprint,Gold
+1816,Carlos Gomez,F,39,USA,USA,2000,Summer,Tokyo,Judo,Double Sculls,Silver
+1817,Anna Schmidt,F,39,BRA,GER,2012,Summer,London,Rowing,Sprint,Bronze
+1818,Maria Ivanova,M,35,USA,FRA,2012,Winter,Rio,Athletics,Marathon,
+1819,Liu Wei,M,32,BRA,CHN,2000,Summer,London,Swimming,100m freestyle,Silver
+1820,Anna Schmidt,M,34,FRA,CAN,2000,Summer,Rio,Cycling,Sprint,
+1821,Liu Wei,F,31,CAN,CHN,2012,Summer,Beijing,Rowing,Lightweight Boxing,Bronze
+1822,Maria Ivanova,M,31,GER,CHN,2004,Winter,Tokyo,Athletics,Lightweight Boxing,
+1823,Tom Lee,M,35,CHN,UKR,2016,Summer,Tokyo,Swimming,Sprint,Silver
+1824,Tom Lee,F,37,CHN,CAN,2020,Summer,Athens,Swimming,Marathon,Silver
+1825,Carlos Gomez,F,35,CHN,UKR,2016,Summer,Beijing,Rowing,100m freestyle,
+1826,Tom Lee,F,33,CAN,CAN,2004,Summer,Rio,Athletics,Lightweight Boxing,Gold
+1827,Tom Lee,F,18,BRA,BRA,2020,Winter,Beijing,Athletics,Sprint,Gold
+1828,John Doe,F,28,FRA,UKR,2000,Summer,Tokyo,Boxing,Sprint,Gold
+1829,Carlos Gomez,M,32,CHN,UKR,2020,Summer,Rio,Cycling,Judo -60kg,
+1830,Anna Schmidt,F,29,USA,UKR,2012,Summer,Beijing,Judo,Sprint,Gold
+1831,Kate Novak,M,25,CHN,FRA,2016,Summer,Tokyo,Boxing,Marathon,
+1832,John Doe,M,39,CAN,GER,2020,Summer,Rio,Swimming,Lightweight Boxing,Silver
+1833,Anna Schmidt,F,37,FRA,UKR,2012,Winter,Rio,Cycling,Judo -60kg,Gold
+1834,Maria Ivanova,F,23,GER,USA,2004,Summer,Tokyo,Cycling,Lightweight Boxing,Silver
+1835,John Doe,F,20,FRA,USA,2020,Winter,Rio,Athletics,Lightweight Boxing,Gold
+1836,Anna Schmidt,M,30,USA,CAN,2012,Summer,Tokyo,Cycling,Marathon,Bronze
+1837,Maria Ivanova,F,30,CHN,BRA,2004,Summer,London,Rowing,Sprint,Bronze
+1838,Carlos Gomez,F,19,CHN,GER,2000,Summer,London,Cycling,Marathon,Silver
+1839,Kate Novak,F,22,UKR,FRA,2004,Summer,Rio,Swimming,Sprint,Gold
+1840,Maria Ivanova,F,34,BRA,CAN,2004,Winter,Rio,Rowing,Judo -60kg,Bronze
+1841,Tom Lee,F,23,USA,USA,2016,Winter,Tokyo,Rowing,Marathon,
+1842,Liu Wei,M,19,UKR,GER,2012,Summer,Rio,Boxing,Marathon,Bronze
+1843,Maria Ivanova,M,21,FRA,GER,2020,Summer,Athens,Cycling,Double Sculls,
+1844,Maria Ivanova,M,39,GER,BRA,2016,Summer,London,Athletics,100m freestyle,Gold
+1845,Kate Novak,F,28,BRA,GER,2008,Winter,Rio,Boxing,Marathon,
+1846,Liu Wei,F,25,USA,UKR,2004,Winter,Rio,Athletics,Double Sculls,Silver
+1847,Tom Lee,F,29,CHN,GER,2008,Summer,Beijing,Cycling,100m freestyle,Gold
+1848,Anna Schmidt,M,25,FRA,BRA,2016,Summer,Rio,Boxing,Sprint,
+1849,Anna Schmidt,F,28,USA,CAN,2012,Summer,Athens,Cycling,Sprint,
+1850,Maria Ivanova,F,39,CHN,BRA,2016,Summer,London,Swimming,Sprint,Bronze
+1851,Liu Wei,F,37,BRA,FRA,2012,Summer,Beijing,Boxing,Double Sculls,Gold
+1852,Liu Wei,M,25,CHN,BRA,2012,Summer,Tokyo,Athletics,Double Sculls,Silver
+1853,Tom Lee,F,25,GER,USA,2000,Summer,Tokyo,Swimming,100m freestyle,Silver
+1854,Kate Novak,M,34,FRA,UKR,2004,Summer,London,Judo,Sprint,
+1855,Carlos Gomez,F,37,CAN,USA,2016,Winter,Tokyo,Athletics,Lightweight Boxing,Gold
+1856,Anna Schmidt,M,37,CHN,CAN,2012,Summer,Athens,Cycling,Marathon,
+1857,Kate Novak,M,33,GER,CHN,2016,Summer,Rio,Athletics,Double Sculls,Silver
+1858,John Doe,M,31,CAN,CAN,2016,Summer,London,Judo,Double Sculls,
+1859,Anna Schmidt,F,28,FRA,UKR,2012,Summer,Beijing,Athletics,Double Sculls,
+1860,Kate Novak,F,24,BRA,GER,2020,Summer,Rio,Swimming,100m freestyle,Silver
+1861,Anna Schmidt,M,33,BRA,BRA,2008,Summer,Tokyo,Rowing,Sprint,Silver
+1862,Carlos Gomez,M,30,FRA,CHN,2004,Summer,Tokyo,Athletics,Lightweight Boxing,
+1863,John Doe,F,32,FRA,UKR,2004,Summer,Beijing,Boxing,Marathon,Bronze
+1864,Carlos Gomez,F,33,USA,USA,2020,Summer,Athens,Judo,Marathon,Bronze
+1865,Tom Lee,M,38,GER,BRA,2000,Summer,Beijing,Athletics,Sprint,Bronze
+1866,John Doe,F,26,GER,CAN,2020,Summer,London,Judo,Lightweight Boxing,Gold
+1867,Maria Ivanova,F,20,FRA,USA,2000,Summer,Beijing,Rowing,100m freestyle,
+1868,Kate Novak,F,36,UKR,UKR,2000,Summer,Tokyo,Swimming,Double Sculls,Gold
+1869,John Doe,F,37,UKR,UKR,2020,Summer,Athens,Boxing,Double Sculls,
+1870,Tom Lee,M,22,CAN,CAN,2004,Summer,Athens,Cycling,Sprint,Silver
+1871,Tom Lee,F,27,CAN,CHN,2008,Summer,Beijing,Athletics,Marathon,Bronze
+1872,Carlos Gomez,F,34,UKR,CAN,2004,Winter,London,Swimming,Double Sculls,Silver
+1873,Anna Schmidt,M,32,FRA,GER,2004,Summer,Tokyo,Judo,Marathon,Silver
+1874,John Doe,M,25,FRA,USA,2004,Summer,Rio,Rowing,Marathon,Silver
+1875,Kate Novak,F,32,CAN,CHN,2020,Summer,Athens,Judo,Sprint,Bronze
+1876,John Doe,F,38,CHN,BRA,2020,Summer,Beijing,Rowing,Judo -60kg,Bronze
+1877,Liu Wei,F,31,FRA,FRA,2020,Summer,London,Rowing,Judo -60kg,
+1878,Anna Schmidt,F,37,UKR,GER,2004,Summer,London,Swimming,Judo -60kg,Silver
+1879,Kate Novak,M,24,GER,CHN,2008,Summer,Tokyo,Athletics,Lightweight Boxing,Bronze
+1880,Kate Novak,M,38,FRA,FRA,2000,Winter,Athens,Cycling,Sprint,
+1881,Maria Ivanova,M,29,FRA,FRA,2016,Summer,Tokyo,Athletics,Marathon,Gold
+1882,Carlos Gomez,F,34,CHN,USA,2000,Summer,Rio,Boxing,Double Sculls,Silver
+1883,Maria Ivanova,F,34,CAN,UKR,2000,Winter,Rio,Athletics,Lightweight Boxing,Silver
+1884,Kate Novak,F,27,FRA,BRA,2016,Summer,Rio,Rowing,Judo -60kg,Silver
+1885,Anna Schmidt,F,36,BRA,CAN,2004,Summer,London,Rowing,100m freestyle,Silver
+1886,John Doe,M,31,USA,USA,2008,Summer,Athens,Boxing,Lightweight Boxing,Bronze
+1887,John Doe,M,28,UKR,GER,2008,Summer,Tokyo,Judo,Lightweight Boxing,Gold
+1888,Anna Schmidt,F,19,BRA,FRA,2000,Summer,Tokyo,Rowing,Sprint,Bronze
+1889,Kate Novak,M,35,CAN,GER,2016,Summer,Rio,Boxing,Double Sculls,
+1890,Tom Lee,F,24,GER,FRA,2012,Summer,Athens,Rowing,Lightweight Boxing,Bronze
+1891,John Doe,F,29,USA,UKR,2004,Summer,Athens,Cycling,Double Sculls,Bronze
+1892,Tom Lee,M,19,BRA,UKR,2000,Winter,Beijing,Rowing,Sprint,Gold
+1893,John Doe,F,37,USA,BRA,2008,Summer,Athens,Swimming,100m freestyle,
+1894,John Doe,F,35,UKR,CAN,2020,Summer,Athens,Boxing,Marathon,Silver
+1895,Carlos Gomez,M,23,CAN,BRA,2020,Winter,Tokyo,Athletics,Marathon,Bronze
+1896,Carlos Gomez,F,27,FRA,UKR,2016,Summer,Athens,Boxing,Judo -60kg,
+1897,Liu Wei,F,37,GER,UKR,2016,Summer,Athens,Judo,Judo -60kg,Bronze
+1898,Maria Ivanova,M,32,CAN,GER,2000,Summer,Tokyo,Rowing,100m freestyle,Bronze
+1899,Anna Schmidt,F,22,USA,UKR,2012,Summer,Athens,Boxing,Marathon,Silver
+1900,Anna Schmidt,M,37,BRA,CHN,2008,Summer,Tokyo,Cycling,Judo -60kg,Gold
+1901,Anna Schmidt,F,20,UKR,FRA,2000,Summer,Beijing,Boxing,Double Sculls,
+1902,Liu Wei,M,22,UKR,USA,2012,Winter,London,Cycling,Lightweight Boxing,Gold
+1903,Carlos Gomez,M,25,CAN,UKR,2016,Winter,Tokyo,Rowing,Sprint,Bronze
+1904,Kate Novak,M,25,FRA,BRA,2020,Winter,Tokyo,Athletics,Judo -60kg,Gold
+1905,Tom Lee,F,25,BRA,CAN,2004,Winter,Athens,Rowing,100m freestyle,
+1906,Tom Lee,M,29,FRA,FRA,2020,Summer,Tokyo,Judo,Marathon,Gold
+1907,Kate Novak,M,25,FRA,FRA,2008,Summer,Rio,Swimming,100m freestyle,Bronze
+1908,Liu Wei,M,28,BRA,CAN,2008,Winter,Rio,Athletics,Sprint,Bronze
+1909,Kate Novak,M,31,USA,CAN,2020,Summer,Beijing,Athletics,Sprint,Silver
+1910,Anna Schmidt,M,25,CAN,FRA,2020,Winter,Tokyo,Swimming,100m freestyle,Silver
+1911,Maria Ivanova,F,27,CAN,CHN,2012,Summer,Athens,Boxing,Judo -60kg,Silver
+1912,John Doe,F,24,CHN,BRA,2000,Summer,Athens,Rowing,Judo -60kg,Silver
+1913,Tom Lee,F,34,CAN,CHN,2016,Summer,London,Boxing,Marathon,Silver
+1914,Carlos Gomez,F,21,UKR,UKR,2012,Winter,Beijing,Boxing,Double Sculls,Silver
+1915,Carlos Gomez,F,30,USA,USA,2004,Summer,Athens,Rowing,Marathon,Bronze
+1916,Liu Wei,F,21,BRA,CAN,2020,Summer,London,Judo,Lightweight Boxing,Gold
+1917,Carlos Gomez,F,22,CAN,BRA,2004,Summer,Athens,Athletics,Double Sculls,
+1918,Anna Schmidt,M,39,USA,CAN,2004,Summer,London,Cycling,Lightweight Boxing,Bronze
+1919,Tom Lee,F,21,CAN,CHN,2012,Summer,Rio,Swimming,Marathon,Gold
+1920,Kate Novak,M,35,BRA,GER,2016,Summer,Rio,Athletics,Double Sculls,Silver
+1921,Anna Schmidt,M,23,GER,UKR,2008,Summer,Athens,Boxing,Double Sculls,
+1922,Liu Wei,F,39,BRA,USA,2000,Summer,Beijing,Swimming,Lightweight Boxing,Gold
+1923,Anna Schmidt,M,19,BRA,UKR,2008,Summer,Tokyo,Cycling,100m freestyle,Bronze
+1924,Kate Novak,M,28,BRA,GER,2016,Summer,Beijing,Athletics,Judo -60kg,Bronze
+1925,Maria Ivanova,M,31,CAN,USA,2008,Summer,Beijing,Athletics,Double Sculls,Gold
+1926,Liu Wei,M,22,CHN,GER,2020,Summer,Tokyo,Judo,Double Sculls,
+1927,Maria Ivanova,F,23,BRA,UKR,2020,Winter,Rio,Athletics,Lightweight Boxing,Silver
+1928,John Doe,F,27,UKR,CHN,2012,Summer,Rio,Athletics,Double Sculls,Silver
+1929,Maria Ivanova,F,25,UKR,FRA,2004,Summer,Tokyo,Cycling,Lightweight Boxing,
+1930,John Doe,F,31,USA,UKR,2016,Summer,London,Cycling,100m freestyle,Bronze
+1931,John Doe,F,20,CHN,UKR,2016,Summer,Beijing,Swimming,Double Sculls,
+1932,Maria Ivanova,F,29,USA,UKR,2008,Summer,Athens,Boxing,Sprint,Bronze
+1933,Liu Wei,F,33,UKR,BRA,2012,Summer,Rio,Cycling,Marathon,Bronze
+1934,Kate Novak,F,34,FRA,GER,2008,Summer,Athens,Swimming,100m freestyle,
+1935,Anna Schmidt,F,18,UKR,GER,2008,Summer,Tokyo,Athletics,Sprint,Gold
+1936,Anna Schmidt,F,27,GER,CAN,2016,Summer,Athens,Swimming,100m freestyle,
+1937,Kate Novak,M,27,BRA,GER,2008,Summer,Athens,Swimming,Judo -60kg,Bronze
+1938,Tom Lee,F,38,FRA,CAN,2004,Summer,Beijing,Swimming,100m freestyle,Gold
+1939,Tom Lee,M,19,UKR,BRA,2008,Summer,Tokyo,Rowing,100m freestyle,Bronze
+1940,John Doe,M,26,CAN,CHN,2004,Summer,Athens,Swimming,Judo -60kg,Gold
+1941,John Doe,M,39,CAN,CAN,2016,Winter,Rio,Cycling,Double Sculls,Bronze
+1942,Liu Wei,M,30,USA,UKR,2012,Summer,Tokyo,Rowing,Marathon,Bronze
+1943,Carlos Gomez,F,33,FRA,CHN,2020,Summer,Rio,Boxing,Sprint,
+1944,Maria Ivanova,M,35,USA,FRA,2004,Summer,London,Swimming,Lightweight Boxing,Gold
+1945,John Doe,F,36,BRA,BRA,2012,Winter,Athens,Judo,Marathon,Bronze
+1946,Anna Schmidt,F,29,BRA,GER,2012,Summer,Tokyo,Athletics,100m freestyle,Gold
+1947,Liu Wei,M,25,GER,CAN,2004,Summer,Rio,Athletics,Lightweight Boxing,Bronze
+1948,Maria Ivanova,F,34,CHN,UKR,2016,Summer,Athens,Rowing,Judo -60kg,Bronze
+1949,Liu Wei,M,32,USA,USA,2000,Winter,Beijing,Athletics,Marathon,Bronze
+1950,Maria Ivanova,M,27,BRA,FRA,2012,Winter,Rio,Athletics,Double Sculls,
+1951,Maria Ivanova,F,32,USA,USA,2012,Winter,Rio,Rowing,Sprint,
+1952,Kate Novak,F,32,BRA,CHN,2016,Summer,London,Athletics,Marathon,Gold
+1953,John Doe,M,24,UKR,GER,2016,Summer,Beijing,Swimming,Marathon,Silver
+1954,Liu Wei,F,30,USA,USA,2008,Summer,London,Boxing,Double Sculls,Bronze
+1955,Liu Wei,F,34,UKR,CHN,2016,Summer,Beijing,Rowing,Lightweight Boxing,Silver
+1956,Kate Novak,F,26,USA,BRA,2012,Winter,Rio,Judo,Judo -60kg,Gold
+1957,Anna Schmidt,M,25,CHN,CHN,2004,Summer,London,Rowing,Double Sculls,Bronze
+1958,Anna Schmidt,M,37,GER,FRA,2000,Summer,Athens,Cycling,Judo -60kg,Silver
+1959,Tom Lee,F,38,CAN,CHN,2008,Summer,Beijing,Judo,Double Sculls,Silver
+1960,John Doe,F,35,CAN,FRA,2004,Summer,Rio,Cycling,Marathon,
+1961,John Doe,F,30,CAN,CHN,2000,Summer,Tokyo,Rowing,Judo -60kg,Silver
+1962,Carlos Gomez,F,33,UKR,UKR,2000,Summer,Beijing,Cycling,Lightweight Boxing,Gold
+1963,Kate Novak,F,26,FRA,CHN,2000,Summer,Beijing,Judo,Lightweight Boxing,Gold
+1964,Anna Schmidt,M,29,BRA,CAN,2020,Summer,Athens,Swimming,Sprint,
+1965,Maria Ivanova,F,29,CAN,CHN,2004,Summer,Beijing,Rowing,Judo -60kg,
+1966,Liu Wei,M,23,CHN,UKR,2008,Summer,Beijing,Rowing,Sprint,Bronze
+1967,John Doe,F,36,CAN,UKR,2008,Summer,Athens,Athletics,Double Sculls,Silver
+1968,Liu Wei,M,24,USA,BRA,2000,Summer,Athens,Rowing,100m freestyle,
+1969,Liu Wei,F,20,UKR,FRA,2004,Summer,London,Rowing,Lightweight Boxing,Bronze
+1970,Carlos Gomez,M,33,FRA,GER,2020,Summer,Rio,Swimming,Marathon,
+1971,Anna Schmidt,F,35,USA,USA,2000,Summer,Rio,Athletics,Lightweight Boxing,
+1972,John Doe,M,33,FRA,USA,2016,Summer,London,Boxing,100m freestyle,Silver
+1973,Liu Wei,M,24,USA,CHN,2008,Winter,Rio,Cycling,Marathon,Silver
+1974,John Doe,M,21,USA,BRA,2012,Winter,Beijing,Judo,Judo -60kg,Gold
+1975,Maria Ivanova,M,25,GER,CHN,2000,Winter,London,Boxing,Judo -60kg,Silver
+1976,Carlos Gomez,M,30,GER,USA,2016,Summer,London,Athletics,Lightweight Boxing,
+1977,Maria Ivanova,M,30,BRA,FRA,2008,Winter,Rio,Swimming,Marathon,
+1978,John Doe,F,34,UKR,FRA,2020,Winter,Tokyo,Judo,Double Sculls,Bronze
+1979,Tom Lee,M,34,CHN,FRA,2004,Winter,Rio,Cycling,Marathon,Silver
+1980,John Doe,F,22,CHN,UKR,2008,Summer,Tokyo,Rowing,Sprint,Gold
+1981,Anna Schmidt,F,23,CHN,GER,2004,Summer,London,Rowing,100m freestyle,Gold
+1982,Liu Wei,F,36,USA,BRA,2004,Winter,Tokyo,Boxing,Judo -60kg,Silver
+1983,Liu Wei,F,30,GER,UKR,2020,Summer,Beijing,Cycling,Lightweight Boxing,Silver
+1984,Maria Ivanova,F,31,UKR,GER,2020,Summer,Athens,Athletics,Marathon,Bronze
+1985,Carlos Gomez,M,39,USA,BRA,2000,Winter,Tokyo,Cycling,Judo -60kg,Gold
+1986,Tom Lee,M,21,FRA,BRA,2000,Summer,Athens,Swimming,Lightweight Boxing,
+1987,Kate Novak,M,24,GER,USA,2008,Summer,Beijing,Boxing,Judo -60kg,Silver
+1988,Liu Wei,F,25,GER,UKR,2020,Summer,Athens,Boxing,Lightweight Boxing,
+1989,Anna Schmidt,M,30,CAN,BRA,2016,Winter,Beijing,Swimming,Judo -60kg,Bronze
+1990,Maria Ivanova,M,23,CAN,CAN,2008,Summer,Athens,Cycling,Double Sculls,Gold
+1991,Maria Ivanova,M,23,UKR,FRA,2012,Summer,Athens,Swimming,Sprint,
+1992,Kate Novak,M,38,FRA,BRA,2004,Summer,Rio,Judo,100m freestyle,Bronze
+1993,Anna Schmidt,M,20,UKR,GER,2004,Summer,Tokyo,Swimming,Judo -60kg,Bronze
+1994,Carlos Gomez,F,20,UKR,USA,2000,Summer,Athens,Cycling,100m freestyle,Bronze
+1995,Anna Schmidt,M,30,USA,CHN,2016,Winter,London,Swimming,Judo -60kg,Gold
+1996,Carlos Gomez,F,39,BRA,FRA,2020,Winter,Rio,Athletics,Marathon,Bronze
+1997,Anna Schmidt,F,19,UKR,USA,2020,Summer,Tokyo,Rowing,Sprint,
+1998,Anna Schmidt,F,33,CAN,CHN,2000,Summer,Rio,Swimming,Double Sculls,Gold
+1999,John Doe,F,39,BRA,UKR,2012,Summer,Tokyo,Rowing,Sprint,Silver
+2000,Maria Ivanova,F,23,USA,UKR,2008,Summer,Beijing,Swimming,100m freestyle,
